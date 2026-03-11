@@ -16,8 +16,6 @@ i18n:
 media_folder: static/media
 public_folder: /media
 
-# ...existing code...
-
 collections:
   - name: cases
     label: الحالات الموثقة
@@ -30,6 +28,9 @@ collections:
     format: json
     extension: json
     i18n: true
+    # Set the default media folder at collection level so nested fields inherit it
+    media_folder: /static/media/cases/{{slug}}
+    public_folder: /media/cases/{{slug}}
     fields:
       - name: slug
         label: المعرف (Slug)
@@ -49,7 +50,8 @@ collections:
         date_format: YYYY-MM-DD
         time_format: false
         i18n: duplicate
-        default: {{now}}
+        default: '{{now}}'
+        hint: يُضبط تلقائياً عند الإنشاء
 
       - name: type
         label: النوع
@@ -63,47 +65,27 @@ collections:
           - { label: تشهير, value: defamation }
         i18n: duplicate
 
-      # Shared media stored once, referenced by all profiles
-      - name: media
-        label: الوسائط المشتركة
-        widget: list
-        required: false
-        i18n: duplicate
-        fields:
-          - name: mediaType
-            label: نوع الوسيط
-            widget: select
-            options:
-              - { label: صورة, value: image }
-              - { label: فيديو, value: video }
-          - name: mediaPath
-            label: مسار الوسيط
-            widget: file
-            # slug is known at collection level — folder is fixed per case entry
-            media_folder: /static/media/cases/{{slug}}
-            public_folder: /media/cases/{{slug}}
-          - name: label
-            label: الوصف
-            widget: string
-            required: false
-            i18n: true
-
-      # Per-profile context: each profile has its own description + sources
       - name: profiles
         label: ظهور الحالة عند الحسابات
         widget: list
         i18n: true
         fields:
           - name: username
-            label: اسم المستخدم
-            widget: string
+            label: الحساب
+            widget: relation
+            collection: profiles
+            search_fields: [name, username]
+            value_field: username
+            display_fields: [name, username]
             i18n: duplicate
+
           - name: description
             label: الوصف الخاص بهذا الحساب
             widget: text
             i18n: true
+
           - name: source
-            label: المصادر
+            label: المصادر (الإدعاء)
             widget: list
             i18n: true
             fields:
@@ -135,13 +117,13 @@ collections:
                   - { label: صورة, value: image }
                   - { label: فيديو, value: video }
               - name: mediaPath
-                label: وسيط خاص بهذا المصدر (اختياري)
+                label: الوسيط
                 widget: file
-                media_folder: /static/media/cases/{{slug}}
-                public_folder: /media/cases/{{slug}}
+                # Inherits collection-level media_folder: /static/media/cases/{{slug}}
                 required: false
+
           - name: analysis
-            label: التحليل
+            label: التحليل (الحقيقة)
             widget: list
             required: false
             i18n: true
@@ -174,16 +156,9 @@ collections:
                   - { label: صورة, value: image }
                   - { label: فيديو, value: video }
               - name: mediaPath
-                label: وسيط خاص بهذا التحليل
+                label: الوسيط
                 widget: file
-                media_folder: /static/media/cases/{{slug}}
-                public_folder: /media/cases/{{slug}}
                 required: false
-
-
-      # ...existing code...
-      # Replace the embedded cases list with references
-      
 
   - name: profiles
     label: الحسابات
@@ -236,7 +211,8 @@ collections:
         date_format: YYYY-MM-DD
         time_format: false
         i18n: duplicate
-        default: {{now}}
+        default: '{{now}}'
+        hint: يُضبط تلقائياً عند الإنشاء
 
       - name: lastUpdated
         label: آخر تحديث
@@ -245,7 +221,8 @@ collections:
         date_format: YYYY-MM-DD
         time_format: false
         i18n: duplicate
-        default: {{now}}
+        default: '{{now}}'
+        hint: حدّث هذا الحقل يدوياً عند إجراء تغييرات
 
       - name: blacklisted
         label: في القائمة السوداء
@@ -291,11 +268,15 @@ collections:
         label: الحالات الموثقة
         widget: list
         i18n: duplicate
-        hint: "أدخل slug الحالة، مثال: bashar-mahyob-body"
+        hint: "ابحث عن الحالة وحددها"
         field:
-          name: slug
-          label: معرف الحالة
-          widget: string
+          name: item
+          label: الحالة
+          widget: relation
+          collection: cases
+          search_fields: [title, slug]
+          value_field: slug
+          display_fields: [title]
 
   - name: about
     label: صفحة عن المشروع

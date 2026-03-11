@@ -15,23 +15,7 @@
             "date": "2026-01-25",
             "label": "",
             "mediaType": "image",
-            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/source.jpg"
-          },
-          {
-            "url": "https://www.facebook.com/61559591626046/videos/1789180891766920/",
-            "archiveURL": "https://archive.ph/gGEGS",
-            "date": "2026-01-15",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/source.jpg"
-          },
-          {
-            "url": "https://www.facebook.com/61559591626046/videos/1789180891766920/",
-            "archiveURL": "https://archive.ph/gGEGS",
-            "date": "2026-01-15",
-            "label": "",
-            "mediaType": "video",
-            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/aleppo-falls-2-years/source.mp4"
+            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/ar24-source.jpg"
           }
         ],
         "analysis": [
@@ -42,22 +26,6 @@
             "label": "",
             "mediaType": "image",
             "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/fact.jpg"
-          },
-          {
-            "url": "",
-            "archiveURL": "",
-            "date": "2026-02-08",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/aleppo-falls-2-years/fact-1.jpg"
-          },
-          {
-            "url": "",
-            "archiveURL": "",
-            "date": "2026-02-08",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/aleppo-falls-2-years/fact-2.jpg"
           }
         ]
       }

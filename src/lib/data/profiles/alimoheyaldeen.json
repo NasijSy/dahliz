@@ -1,0 +1,37 @@
+{
+  "ar": {
+    "username": "alimoheyaldeen",
+    "name": "علي محيي الدين",
+    "type": "person",
+    "theme": "bias",
+    "dateAdded": "2026-03-11",
+    "lastUpdated": "2026-03-11",
+    "blacklisted": true,
+    "summary": "ناشط إعلامي سوري",
+    "imagePath": "/media/profiles/alimoheyaldeen/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Ali Moheyaldeen",
+        "url": "https://www.facebook.com/a.moheyaldeen"
+      },
+      {
+        "platform": "instagram",
+        "alias": "ali_shows",
+        "url": "https://www.instagram.com/ali_shows"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Ali Moheyaldeen",
+        "url": "https://x.com/realali"
+      }
+    ],
+    "cases": [
+      "bashar-mahyob-body",
+      "seljuk-star-currency",
+      "trump-golan-heights",
+      "bulgaria-managed-account",
+      "caesar-sanctions-removal"
+    ]
+  }
+}

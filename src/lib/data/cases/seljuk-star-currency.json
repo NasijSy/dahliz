@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "seljuk-star-currency",
+    "title": "إدعاء أنه تم إدخال نجمة سلجوق حديثاً على العملة",
+    "dateAdded": "2026-03-11",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "alimoheyaldeen",
+        "description": "قام علي بالترويج إلى أنه تم إدخال نجمة سلجوق حديثاً على العملة الجديدة وأن هذا التصرف \" ليس بريئًا ولا اعتباطيًا\" ودليل على نقل هوية الدولة من رموز وطنية جامعة إلى مرجعية أيديولوجية دينية لكن النجمة المقصودة هي رمز قديم من حضارات المنطقة وموجودة على العملات القديمة",
+        "source": [
+          {
+            "url": "https://www.facebook.com/a.moheyaldeen/posts/pfbid0g4RAmMTDbs8mLZUSWAWEgK1NDANpwGiXwXZzdXKqkfycxp6E7QY9upg7tdjt5Qw6l",
+            "archiveURL": "https://archive.ph/JOtAR",
+            "date": "2025-12-30",
+            "label": "المنشور الذي يتحدث فيه علي عن إدخال النجمة السلجوقية حديثاً وأن ذلك إشارة واضحة لإعادة تأطير هوية الدولة بصريًا وثقافيًا",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/seljuk-star-currency/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/syrian-currency-museum-claims",
+            "archiveURL": "http://web.archive.org/web/20260103064522/https://www.verify-sy.com/ar/factcheck/syrian-currency-museum-claims",
+            "date": "2026-01-01",
+            "label": "رمز النجمة ذاته كان موجوداً على العملات السابقة في عهد بشار الأسد وهو رمز قديم يعود أصله لنجمة عشتار وحضارات ما قبل الإسلام",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/seljuk-star-currency/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

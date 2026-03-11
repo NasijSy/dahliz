@@ -15,7 +15,7 @@
             "date": "2025-08-31",
             "label": "الصورة التي نشرها المرصد يطالب وزارة الداخلية بالتوضيح والمحاسبة مع إدعاء بانتهاكات وشروط فرضت لمنع العزاء. قام المرصد بحذف البوست لاحقاً.",
             "mediaType": "image",
-            "mediaPath": "/media/cases/bashar-mahyob-body/source.jpg"
+            "mediaPath": "/media/cases/bashar-mahyob-body/syriahr-source.jpg"
           }
         ],
         "analysis": [
@@ -32,6 +32,38 @@
             "archiveURL": "https://web.archive.org/web/20260104160143/https://www.verify-sy.com/ar/report/2509052305",
             "date": "2025-09-05",
             "label": "تحقيق لفريق تأكد يوثق الإدعاءات التي نشرها المرصد ويفندها.",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/bashar-mahyob-body/fact-2.jpg"
+          }
+        ]
+      },
+      {
+        "username": "alimoheyaldeen",
+        "description": "روج الحساب أنه تم توثيق اقتحام مزرعة أبقار في حي الرادار وقتل الشاب بشار ميهوب كما إدعى أن فصائل شيشانية وأيغورية قامت بقطع رأسه والتجوال به على مقدمة سيارة في شوارع المنطقة لكن تبين عدم وقوع هذه الحادثة ولم يقتل أصلاً وإنما تم القبض عليه ضمن خلية متهمة بشن هجمات على مواقع عسكرية وقتل عناصر أمن.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/a.moheyaldeen/posts/pfbid02yihfY4yBuScUMZgKdvAkXnZMuhFXeQWYJPU5fmJzj7QVBDHEGt7yK4nvyAiKU5ZCl",
+            "archiveURL": "https://archive.ph/oYFie",
+            "date": "2025-08-31",
+            "label": "منشور يدعي فيه أنه تم توثيق قطع رأس بشار ميهوب والتجوال به على مقدمة سيارة",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/bashar-mahyob-body/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/syrianmoi/posts/1103665605189370",
+            "archiveURL": "https://archive.ph/46Mb0",
+            "date": "2025-09-05",
+            "label": "منشور لوزارة الداخلية ويظهر فيه بشار ميهوب بعد القبض عليه وهو على قيد الحياة ضمن خلية متهمة باغتيال عناصر أمن.",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/bashar-mahyob-body/fact-1.jpg"
+          },
+          {
+            "url": "https://www.verify-sy.com/ar/report/2509052305",
+            "archiveURL": "https://web.archive.org/web/20260104160143/https://www.verify-sy.com/ar/report/2509052305",
+            "date": "2025-09-05",
+            "label": "تحقيق لفريق تأكد يفند الإدعاءات المتداولة حول بشار ميهوب",
             "mediaType": "image",
             "mediaPath": "/media/cases/bashar-mahyob-body/fact-2.jpg"
           }
