@@ -1,0 +1,264 @@
+{
+  "ar": {
+    "name": "المرصد السوري لحقوق الإنسان",
+    "type": "org",
+    "username": "syriahr",
+    "dateAdded": "2026-01-02",
+    "lastUpdated": "2026-02-20",
+    "theme": "apparatus",
+    "summary": "مؤسسة إعلامية يديرها أسامة علي سليمان المعروف بـرامي عبد الرحمن",
+    "blacklisted": true,
+    "imagePath": "/media/profiles/syriahr/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "المرصد السوري لحقوق الإنسان",
+        "url": "https://x.com/syriahr"
+      },
+      {
+        "platform": "website",
+        "alias": "syriahr.com",
+        "url": "https://www.syriahr.com/"
+      },
+      {
+        "platform": "facebook",
+        "alias": "المرصد السوري",
+        "url": "https://www.facebook.com/syriahro"
+      }
+    ],
+    "cases": [
+      {
+        "title": "إدعاء مقتل بشار ميهوب والتمثيل بجثته",
+        "description": "نشر المرصد عدة إدعاءات عن حادثة في قرية بيت عليان وروج بشدة لرواية أن مقاتلين من أصول أجنبية يعملون ضمن قوات الحكومة السورية قاموا بقتل والتمثيل بجثة شخص ليتبين لاحقاً أنه لم يقتل أصلاً وإنما تم القبض عليه ضمن خلية متهمة بشن هجمات على مواقع عسكرية وقتل عناصر أمن ليقوم بعدها قام المرصد بحذف جميع المنشورات دون أي توضيح.",
+        "dateAdded": "2026-01-02",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/photo.php?fbid=1209011477923909&set=pb.100064452053745.-2207520000&type=3",
+            "archiveURL": "https://archive.ph/tX3HR",
+            "date": "2025-08-31",
+            "label": "الصورة التي نشرها المرصد يطالب وزارة الداخلية بالتوضيح والمحاسبة مع إدعاء بانتهاكات وشروط فرضت لمنع العزاء. قام المرصد بحذف البوست لاحقاً.",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/bashar-mahyob-body/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/syrianmoi/posts/1103665605189370",
+            "archiveURL": "https://archive.ph/46Mb0",
+            "date": "2025-09-05",
+            "label": "منشور لوزارة الداخلية ويظهر فيه بشار ميهوب بعد القبض عليه وهو على قيد الحياة ضمن خلية متهمة باغتيال عناصر أمن.",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/bashar-mahyob-body/fact-1.jpg"
+          },
+          {
+            "url": "https://www.verify-sy.com/ar/report/2509052305",
+            "archiveURL": "https://web.archive.org/web/20260104160143/https://www.verify-sy.com/ar/report/2509052305",
+            "date": "2025-09-05",
+            "label": "تحقيق لفريق تأكد يوثق الإدعاءات التي نشرها المرصد ويفندها.",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/bashar-mahyob-body/fact-2.jpg"
+          }
+        ]
+      },
+      {
+        "title": "استخدام صورة تركي البوحمد مكان شخص آخر",
+        "description": "نشر المرصد صورة لقائد لأحد المليشيات المرتبطة بنظام الأسد يدعى تركي البوحمد مع صورة لقرار وزارة التربية تعيين شخص مختلف وهو عبد الرزاق أحمود مديراً جديد للتربية في الرقة. قام المرصد لاحقاً بتعديل المنشور وأضاف اسم الشخص في الصورة لكن دون توضيح سبب نشر صورة شخص مختلف مع الخبر",
+        "dateAdded": "2026-01-03",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/syriahro/posts/pfbid02kEB4tVeE6MBnUG5wSNMXHAASW69F2jsiJPTFa4g7GZhitLFXQ4JAs3GqzEzNN8Ujl",
+            "archiveURL": "https://archive.ph/rp7V9",
+            "date": "2025-10-21",
+            "label": "الصورة التي نشرها المرصد تجمع شخصاً يدعى تركي البوحمد مع سهيل الحسن لكن دون توضيح عن سبب إدراج صورة شخص مختلف أو علاقته بقرار تعيين عبد الرزاق",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/raqqa-education-appointment/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/2510231209",
+            "archiveURL": "https://web.archive.org/web/20260104155706/https://www.verify-sy.com/ar/factcheck/2510231209",
+            "date": "2025-10-23",
+            "label": "تحقيق لفريق تأكد يكشف عن هوية الشخص في الصورة وعدم وجود علاقة تربطه بمدير التربية المعين حديثاً",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/raqqa-education-appointment/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء إطلاق النار على متظاهرين ووقوع شهداء في مظاهرات في شهر نوفمبر",
+        "description": "نشر المرصد عدة منشورات يدعى فيها حصول إطلاق نار على المتظاهرين ووقوع شهداء لكن بعد ثبوت عدم صحة وقوع شهداء قام المرصد بحذف المنشورات التي ذكرت ذلك وأبقى على المنشورات التي تزعم بإطلاق نار على المتظاهرين",
+        "dateAdded": "2026-01-04",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/watch/?v=2698408823830300",
+            "archiveURL": "https://archive.ph/5SaT6",
+            "date": "2025-11-25",
+            "label": "منشور للمرصد يعترف فيه بأنه نشر إدعاءات لوقوع شهداء دون التحقق من صحتها ثم قام بحذفها لاحقاً",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/coast-protests-shooting/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/report/misinformation-inciting-hate-amid-protests-in-coastal-cities-homs-hama",
+            "archiveURL": "https://web.archive.org/web/20260104154122/https://www.verify-sy.com/ar/report/misinformation-inciting-hate-amid-protests-in-coastal-cities-homs-hama",
+            "date": "2025-11-25",
+            "label": "تحقيق لفريق تأكد يغطي فيه المظاهرات والأخبار التي تم تداولها",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/coast-protests-shooting/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "نشر شائعات عن هجوم على القصر الجمهوري وتعرض الرئيس للخطر",
+        "description": "قام المرصد بحملة استمرت عدة أيام في مطلع عام 2026 روج فيها بحصول اشتباكات في القصر الرئاسي وأدعى حصول إصابات في الصف الأول من قيادات الدولة واستمر في نشر تلك الشائعات مطالباً الحكومة بتوضيح فيما نفى المتحدث باسم وزارة الداخلية تلك الشائعات وقام الرئيس والشخصيات القيادية بحضور أكثر من فعالية لاحقاً ولم يثبت حصول أي من هذه الإدعاءات.",
+        "dateAdded": "2026-01-05",
+        "type": "rumor",
+        "source": [
+          {
+            "url": "https://x.com/syriahr/status/2007911518776799563",
+            "archiveURL": "https://archive.ph/0BrbK",
+            "date": "2026-01-04",
+            "label": "أحد المنشورات التي نشرها المرصد ضمن حملة تروج لشائعات حصول حدث أمني في القصر الجمهوري",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/presidential-palace-clashes/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/alsharaa-mezzeh-after-rumors",
+            "archiveURL": "https://web.archive.org/web/20260105212648/https://www.verify-sy.com/ar/factcheck/alsharaa-mezzeh-after-rumors",
+            "date": "2026-01-05",
+            "label": "تحقيق لفريق تأكد يدحض الإدعاءات بعد ظهور الرئيس وهو يتجول في أحد أسواق المزة",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/presidential-palace-clashes/fact-1.jpg"
+          },
+          {
+            "url": "https://x.com/SyrianMoiSpokes/status/2008184867062690030",
+            "archiveURL": "https://archive.ph/QqvrW",
+            "date": "2026-01-05",
+            "label": "نفى المتحدث باسم وزارة الداخلية الإدعاءات جملة وتفصيلاً",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/presidential-palace-clashes/fact-2.jpg"
+          }
+        ]
+      },
+      {
+        "title": "فبركة وثيقة رسمية",
+        "description": "ضمن مشاركة المرصد بشن هجمة إعلامية استمرت لعدة أيام وشملت نشر شائعات بأن الرئيس الشرع وقيادات من حوله قد تعرضت للأذى قام المرصد بنشر وثيقة مفبركة إدعى أنها صادرة عن وزارة الداخلية تقوم فيها بتبرير عدم ظهور الرئيس للعلن خلال تلك الفترة. لكن وزارة الداخلية نفت البيان وأكدت أنه مفبرك.",
+        "dateAdded": "2026-01-05",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/syriahr/status/2008141423762420105",
+            "archiveURL": "https://archive.ph/FNWKO",
+            "date": "2026-01-05",
+            "label": "الوثيقة المفبركة التي نشرها المرصد وقال أنها صادرة عن وزارة الداخلية ترد فيها على الشائعات",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/fake-statement-health/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/SyrianMoiSpokes/status/2008184867062690030",
+            "archiveURL": "https://archive.ph/QqvrW",
+            "date": "2026-01-05",
+            "label": "نفى المتحدث باسم وزارة الداخلية وقوع حدث أمني وبين أن البيانات المتداولة مزورة",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/fake-statement-health/fact-1.jpg"
+          },
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/interior-ministry-statement-media-appearance",
+            "archiveURL": "https://web.archive.org/web/20260105194734/https://www.verify-sy.com/ar/factcheck/interior-ministry-statement-media-appearance",
+            "date": "2026-01-05",
+            "label": "تحقيق لفريق تأكد يحلل البيان بصرياً مظهراً الاختلافات مما يثبت أنه مزور",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/fake-statement-health/fact-2.jpg"
+          }
+        ]
+      },
+      {
+        "title": "تصوير استهداف لمستودع أسلحة على أنه قصف يستهدف المدنيين في حي الشيخ مقصود",
+        "description": "خلال عملية الجيش السوري ضد قوات موالية لقسد في حلب، قام الجيش بالإعلان عن المواقع العسكرية التي سيقوم باستهدافها مسبقاً مطالباً المدنيين بالابتعاد عنها. أحد هذه المواقع كان يقع بالقرب من المشفى. روج المرصد ضمن حملة إعلامية ممنهجة لرواية قسد على أن المشفى تتعرض للقصف بشكل مستمر وقام باستخدام مقطع فيديو لاستهداف الموقع العسكري القريب وتصويره على أنه استهداف للحي. يظهر مقطع الفيديو تعرض الموقع للقصف ويترافق مع انفجارات مستمرة في المكان وهو ما يشير إلى متفجرات مخزنة في المكان، وبعد الدخول للمنطقة نشرت صور للموقع المستهدف تؤكد طبيعته العسكرية والأسلحة المدمرة التي كانت متمركزة فيه.",
+        "dateAdded": "2026-01-13",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/syriahr/status/2009649043073310773",
+            "archiveURL": "https://archive.ph/Ed1G5",
+            "date": "2026-01-09",
+            "label": "إدعاء المرصد أن قصفاً عنيفاً يستهدف حي الشيخ مقصود",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/sheikh-maqsoud-shelling/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/Sana__gov/status/2010342524968431635",
+            "archiveURL": "https://archive.ph/Yo11J",
+            "date": "2026-01-11",
+            "label": "صور من داخل الموقع العسكري المستهدف الذي كان يشتغل في الفيديو",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/sheikh-maqsoud-shelling/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "تعليق برايان ماست على أحداث الشيخ مقصود",
+        "description": "ادعى المرصد أن عضو مجلس النواب الأمريكي برايان ماست قد تحدث عن تحطيم أحد الجنود السوريين لمرآة على شكل خريطة كردستان خلال عملية الجيش في حي الشيخ مقصود في حلب، لكن ذلك لم يرد ضمن المقابلة.",
+        "dateAdded": "2026-01-13",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.youtube.com/shorts/pkDN8-0em-Y",
+            "archiveURL": "https://archive.ph/nun8M",
+            "date": "2026-01-14",
+            "label": "مقطع فيديو ينسب لبرايان ماست تصريحات تتعلق بحادثة تحطيم خريطة كردستان",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/brian-mast-kurdistan-mirror/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/Brian-Mast-KurdistanMap-Aleppo",
+            "archiveURL": "https://web.archive.org/web/20260115160257/https://www.verify-sy.com/ar/factcheck/Brian-Mast-KurdistanMap-Aleppo",
+            "date": "2026-01-15",
+            "label": "المقطع الأصلي للمقابلة مع برايان ماست حيث لم يتطرق لمشهد تحطيم خريطة كردستان",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/brian-mast-kurdistan-mirror/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء إطلاق سراح شخص اعتماداً على مقطع فيديو قديم",
+        "description": "إدعى المرصد أن شخصاً يعرف بأبو دجانة خرج من السجن وعاد للظهور على وسائل التواصل لكن الفيديو قديم حيث تم نشره في العام السابق.",
+        "dateAdded": "2026-02-20",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/syriahro/videos/25217609747913534/",
+            "archiveURL": "https://archive.ph/IQJwk",
+            "date": "2026-02-19",
+            "label": "منشور يدعي فيه المرصد خروج الشخص من السجن مرفقاً بمقطع فيديو",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/abo-dujanah-release/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/61562006913543/videos/676362651490924/",
+            "archiveURL": "https://archive.ph/Omp6i",
+            "date": "2025-03-11",
+            "label": "مقطع الفيديو الأصلي قديم يعود للسنة السابقة",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriahr/cases/abo-dujanah-release/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

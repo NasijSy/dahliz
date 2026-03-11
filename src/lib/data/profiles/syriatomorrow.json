@@ -1,0 +1,152 @@
+{
+  "ar": {
+    "name": "سوريا الغد",
+    "type": "anon",
+    "username": "syriatomorrow",
+    "dateAdded": "2026-01-15",
+    "lastUpdated": "2026-01-15",
+    "theme": "clickbait",
+    "summary": "صفحة تدار من الأردن وتنتحل اسم وشعار منظمة سورية مستقلة",
+    "blacklisted": true,
+    "imagePath": "/media/profiles/syriatomorrow/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "سوريا الغد",
+        "url": "https://www.facebook.com/Coorba.jo"
+      }
+    ],
+    "cases": [
+      {
+        "title": "نشر فيديو قديم لاعتقال مقاتلة من قسد",
+        "description": "نشرت الصفحة خبراً عاجلاً مع صورة روجت أنها تظهر القبض على مقاتلة من قسد بما يوحي أنها من الأحداث الجارية حينها في حي الشيخ مقصود بداية 2026، لكن الفيديو قديم يعود لعام 2024.",
+        "dateAdded": "2026-01-15",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Coorba.jo/posts/pfbid0BfcC8PkNGaCLvieZcS7JEawPwqyVDePQRBt7AukiTsyKnXTNA8Jm4pUgxxqF8EtMl",
+            "archiveURL": "https://archive.ph/NSSPd",
+            "date": "2026-01-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriatomorrow/cases/aleppo-female-fighters-prisoners/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/k7ybnd99/status/1863212077411631380",
+            "archiveURL": "https://archive.ph/QM7tV",
+            "date": "2024-12-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriatomorrow/cases/aleppo-female-fighters-prisoners/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "تلفيق تصريح لمظلوم عبدي",
+        "description": "نشرت الصفحة تصريحاً نسبته لمظلوم عبدي تقول على لسانه أن قوات قسد ماضية باسترداد مدينة حلب بالكامل وأن الانسحاب كان تكتيكياً لكن التصريح ملفق ولم يتناوله أي مصدر موثوق.",
+        "dateAdded": "2026-01-15",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Coorba.jo/posts/pfbid021epxLcoqc9u5VTPUEg2PRLXNuBY1r6haYPsHWjGQNdCRdtYqFjJCDnqk2ibo523Hl",
+            "archiveURL": "https://archive.ph/Ulzcu",
+            "date": "2026-01-09",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriatomorrow/cases/mazloum-abdi-aleppo/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/false-claims-ashrafieh-sheikh-maqsoud",
+            "archiveURL": "https://web.archive.org/web/20260115183943/https://www.verify-sy.com/ar/factcheck/false-claims-ashrafieh-sheikh-maqsoud",
+            "date": "2026-01-09",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriatomorrow/cases/mazloum-abdi-aleppo/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "تلفيق تصريح لقيادية في وحدات حماية المرأة",
+        "description": "نشرت الصفحة تصريحاً نسبته إلى قيادية في وحدات حماية المرأة ضمن قسد، سوزدار حاجي، وزعمت قولها أن قسد كان لها الدور الأكبر في سقوط نظام الأسد لكن التصريح ملفق ولم يرد مثل هذا في المقابلة.",
+        "dateAdded": "2026-01-15",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Coorba.jo/posts/pfbid0cbE3EDw1er7nxyZAoisJan6ahUfTqq8hmDxcWpr8uFfPu8hTSaKX7C4FF4X7XcVvl",
+            "archiveURL": "https://archive.ph/FrXf6",
+            "date": "2025-12-14",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriatomorrow/cases/ypj-sdf-assad-toppling/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/suzdar-haji-sdf-assad-defeat-statement-claim",
+            "archiveURL": "https://web.archive.org/web/20260115193908/https://www.verify-sy.com/ar/factcheck/suzdar-haji-sdf-assad-defeat-statement-claim",
+            "date": "2025-12-15",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriatomorrow/cases/ypj-sdf-assad-toppling/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "تلفيق تصريح لقيادية في قسد",
+        "description": "نشرت الصفحة تصريحاً نسبته لإلهام أحمد التي تشغل منصب الرئيس المشارك للإدارة الذاتية في شمال شرق سوريا، تقول فيه حسب زعمهم أن وحدات النخبة النسائية تصل إلى أبعد من دمشق لكن هذا التصريح ملفق ولم يرد عن أي مصدر موثوق.",
+        "dateAdded": "2026-01-15",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Coorba.jo/posts/pfbid0Rdoe67Wg2t1CrDmkFYxNcFRMu2WRuNGGxsvZjxmNZQNHi2i1UL49am6kuW7TzqsDl",
+            "archiveURL": "https://archive.ph/qSszu",
+            "date": "2025-11-10",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriatomorrow/cases/ilham-ypj-damascus/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/2511111502",
+            "archiveURL": "https://web.archive.org/web/20260115192134/https://www.verify-sy.com/ar/factcheck/2511111502",
+            "date": "2025-11-11",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriatomorrow/cases/ilham-ypj-damascus/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء أن تحقيق ل سي ان ان كشف عن تورط قيادات قسد بتهريب أموال",
+        "description": "نشرت الصفحة تحقيقاً مزعوماً نسبته ل سي ان ان يتضمن مجموعة من الاتهامات لقيادات من قسد شملت تهريب أموال وتزوير مستندات لكن التحقيق ملفق ولم يظهر له أي أثر في موقع سي ان ان.",
+        "dateAdded": "2026-01-15",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Coorba.jo/posts/pfbid0UDKotv1re9dGrNcfcX1keku3v5XRqgu3WPxzdzqWYjNiRwxfRuoBWbZL7UFqfL89l",
+            "archiveURL": "https://archive.ph/ra3yT",
+            "date": "2025-12-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriatomorrow/cases/sdf-money-smuggling/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/CNN-Syria-Oil-Smuggling-Probe",
+            "archiveURL": "https://web.archive.org/web/20260115183903/https://www.verify-sy.com/ar/factcheck/CNN-Syria-Oil-Smuggling-Probe",
+            "date": "2025-12-02",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/syriatomorrow/cases/sdf-money-smuggling/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "ar": {
+    "name": "قناة روناهي",
+    "type": "org",
+    "username": "ronahitv",
+    "dateAdded": "2026-01-04",
+    "lastUpdated": "2026-01-04",
+    "theme": "apparatus",
+    "summary": "قناة تلفزيونية كردية، مقرها في مدينة القامشلي ضمن مناطق حكم الإدارة الذاتية",
+    "blacklisted": false,
+    "imagePath": "/media/profiles/ronahitv/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "Ronahi tv",
+        "url": "https://x.com/tvronahi"
+      },
+      {
+        "platform": "facebook",
+        "alias": "فضائية روناهي Ronahî TV Arabic",
+        "url": "https://www.facebook.com/ronahitvarabic/"
+      }
+    ],
+    "cases": [
+      {
+        "title": "سوق النخاسة في إدلب",
+        "description": "روّجت القناة لإدعاء يزعم افتتاح ما وُصف بأسواق نخاسة في إدلب لبيع نساء من الطائفة العلوية اختُطفن على يد مجموعات مسلحة دون تقديم أدلة موثّقة.",
+        "dateAdded": "2026-01-04",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://ronahi.tv/ar/archives/276911",
+            "archiveURL": "https://web.archive.org/web/20250711191857/https://ronahi.tv/ar/%d9%81%d9%8a-%d8%ad%d8%a7%d8%af%d8%ab%d8%aa%d9%8a%d9%86-%d9%85%d9%86%d9%81%d8%b5%d9%84%d8%aa%d9%8a%d9%86-%d9%85%d9%82%d8%aa%d9%84-%d8%b4%d8%a7%d8%a8%d9%8a%d9%86-%d8%a8%d8%b1%d8%b5%d8%a7%d8%b5-%d9%85/",
+            "date": "2025-03-24",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/ronahitv/cases/slave-market-rumor/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/report/2505132034",
+            "archiveURL": "https://web.archive.org/web/20260104172926/https://www.verify-sy.com/ar/report/2505132034",
+            "date": "2025-05-13",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/ronahitv/cases/slave-market-rumor/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "مواطنة علوية تروي تفاصيل قتل أولادها الخمسة",
+        "description": "نشرت القناة مقطع فيديو لأم تبكي على خسارة خمسة من أبنائها ونسبوا إلى الام في المنشور قولها أن 'المسلحون قتلوا أولادي ال 5 أمام عيني' مع أن الأم لم تذكر شيئاً من ذلك بالمقطع وعند تواصل منصة تأكد مع مصور المقطع وضح أنها تتحدث عن فقدان أحد أبنائها وأولاده في الزلزال الذي ضرب تركيا وشمال سوريا في 2023.",
+        "dateAdded": "2026-01-04",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.instagram.com/reel/DKmUqkTz8zB/",
+            "archiveURL": "https://archive.ph/zTIN6",
+            "date": "2025-06-07",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/ronahitv/cases/mother-cry-sons/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/2506082229",
+            "archiveURL": "https://web.archive.org/web/20260104163713/https://www.verify-sy.com/ar/factcheck/2506082229",
+            "date": "2025-06-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/ronahitv/cases/mother-cry-sons/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "قصف طائرة في محيط قلعة حلب",
+        "description": "ادعت القناة أن أعمدة الدخانة المتصاعدة من محيط قلعة حلب ناتجة عن استهداف طائرة مجهولة للمكان بينما كان الدخان في الحقيقة ناتجاً عن حريق في معمل إسفنج عند منطقة باب النصر المجاورة لقلعة حلب.",
+        "dateAdded": "2026-01-04",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/reel/25155471304135218",
+            "archiveURL": "https://archive.ph/vClXf",
+            "date": "2026-01-02",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/ronahitv/cases/aleppo-castle-strike/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/aleppo-citadel-airstrike",
+            "archiveURL": "https://web.archive.org/web/20260104161759/https://www.verify-sy.com/ar/factcheck/aleppo-citadel-airstrike",
+            "date": "2026-01-02",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/ronahitv/cases/aleppo-castle-strike/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

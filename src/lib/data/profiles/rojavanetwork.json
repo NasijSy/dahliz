@@ -1,0 +1,100 @@
+{
+  "ar": {
+    "name": "Rojava Network",
+    "type": "anon",
+    "username": "rojavanetwork",
+    "dateAdded": "2026-01-05",
+    "lastUpdated": "2026-01-05",
+    "theme": "clickbait",
+    "summary": "حساب إخباري يديره شخص مقيم في أوربا",
+    "blacklisted": true,
+    "imagePath": "/media/profiles/rojavanetwork/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "Rojava Network",
+        "url": "https://x.com/RojavaNetwork"
+      }
+    ],
+    "cases": [
+      {
+        "title": "نشر شائعات عن هجوم على القصر الجمهوري وأن الشرع غادر البلاد",
+        "description": "شارك الحساب بالترويج لشائعات بحصول هجوم واشتباكات في القصر الرئاسي وأن الرئيس الشرع قد غادر لتركيا لكن الشرع ظهر في اليوم نفسه في دمشق ونفى المتحدث باسم وزارة الداخلية تلك الشائعات.",
+        "dateAdded": "2026-01-05",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/RojavaNetwork/status/2008005496779809000",
+            "archiveURL": "https://archive.ph/E8phj",
+            "date": "2026-01-05",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rojavanetwork/cases/sharaa-disappearance/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/alsharaa-mezzeh-after-rumors",
+            "archiveURL": "https://web.archive.org/web/20260105212648/https://www.verify-sy.com/ar/factcheck/alsharaa-mezzeh-after-rumors",
+            "date": "2026-01-05",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rojavanetwork/cases/sharaa-disappearance/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "فبركة وثيقة رسمية",
+        "description": "ضمن مشاركتها بشن هجمة إعلامية استمرت لعدة أيام ركزت على نشر شائعات بحصول هجوم على القصر الرئاسي، قامت الشبكة بنشر وثيقة مفبركة إدعت أنها صادرة عن وزارة الداخلية تقوم فيها بتبرير عدم ظهور الرئيس الشرع للعلن خلال تلك الفترة لكن الورقة لم تنشر عبر قنوات الوزارة وقامت الوزارة بتأكيد أنها مفبركة.",
+        "dateAdded": "2026-01-05",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/RojavaNetwork/status/2008138229040713935",
+            "archiveURL": "https://archive.ph/fTIdQ",
+            "date": "2026-01-05",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rojavanetwork/cases/fake-statement-sharaa-health/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/interior-ministry-statement-media-appearance",
+            "archiveURL": "https://web.archive.org/web/20260105194734/https://www.verify-sy.com/ar/factcheck/interior-ministry-statement-media-appearance",
+            "date": "2026-01-05",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rojavanetwork/cases/fake-statement-sharaa-health/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "مسيرة تحمل أعلام تركيا في حي الشيخ مقصود",
+        "description": "قام الحساب بالترويج إلى قيام مسيرة ترفع أعلام تركيا ورايات تركمانية بالإضافة لعلم طالبان بالتجول في شوارع حي الشيخ مقصود في حلب بعد عملية الجيش هناك لكن الفيديو قديم يعود إلى فعالية نظمها بعض التركمان في حي التضامن بمدينة دمشق في وقت سابق بذكرى التحرير.",
+        "dateAdded": "2026-01-15",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/RojavaNetwork/status/2010770254285115881",
+            "archiveURL": "https://archive.ph/Ybd4Z",
+            "date": "2026-01-12",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rojavanetwork/cases/turkey-flags-aleppo/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/turkish-flag-video-sheikh-maqsoud",
+            "archiveURL": "http://web.archive.org/web/20260115153458/https://www.verify-sy.com/ar/factcheck/turkish-flag-video-sheikh-maqsoud",
+            "date": "2026-01-14",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rojavanetwork/cases/turkey-flags-aleppo/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

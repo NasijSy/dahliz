@@ -1,0 +1,162 @@
+{
+  "ar": {
+    "name": "وحيد يزبك",
+    "type": "person",
+    "username": "wyazbk",
+    "dateAdded": "2026-01-02",
+    "lastUpdated": "2026-02-08",
+    "theme": "bias",
+    "summary": "صحفي سوري كان عضواً سابقاً في مجلس محافظة حمص ويقيم في لبنان",
+    "blacklisted": true,
+    "imagePath": "/media/profiles/wyazbk/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "الاعلامي وحيد يزبك",
+        "url": "https://www.facebook.com/alahteatea/"
+      },
+      {
+        "platform": "facebook",
+        "alias": "الاعلامي وحيد يزبك البديلة",
+        "url": "https://www.facebook.com/profile.php?id=100064225800896"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Wahid Yazbk وحيد يزبك",
+        "url": "https://x.com/WYazbk"
+      }
+    ],
+    "cases": [
+      {
+        "title": "تماثيل متحف دمشق الوطني",
+        "description": "قام وحيد يزبك بنشر فيديو يقوم بالترويج أن بعض التماثيل الأثرية بدون رأس في متحف دمشق الوطني قد تم تخريبها من قبل الحكومة السورية لكن الحقيقة أنها على هذه الحال منذ وضعها في المتحف.",
+        "dateAdded": "2026-01-02",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/reel/1374469323785041",
+            "archiveURL": "https://web.archive.org/web/20260104155038/https://www.facebook.com/reel/1374469323785041",
+            "date": "2025-12-31",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/wyazbk/cases/statues-museums/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/syrian-currency-museum-claims",
+            "archiveURL": "https://web.archive.org/web/20260104153634/https://www.verify-sy.com/ar/factcheck/syrian-currency-museum-claims",
+            "date": "2026-01-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/wyazbk/cases/statues-museums/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء أن الولايات المتحدة اعترفت بسيادة إسرائيل على الجولان حديثاً",
+        "description": "إدعى وحيد أن ترامب قام بالاعتراف بسيادة إسرائيل على الجولان بعد سقوط نظام الأسد مهاجماً الحكومة السورية الجديدة لكن ترامب كان وقع على الاعتراف المقصود في 2019 في ولايته الأولى وخلال حكم بشار الأسد.",
+        "dateAdded": "2026-01-02",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/alahteatea/posts/pfbid036w3DCczi8toUcByXkrmUutWb2AACrL5M5ju5E6QCYFNNMsgJap1bu2RukhMY5xERl",
+            "archiveURL": "https://web.archive.org/web/20260104154347/https://www.facebook.com/alahteatea/posts/pfbid036w3DCczi8toUcByXkrmUutWb2AACrL5M5ju5E6QCYFNNMsgJap1bu2RukhMY5xERl?_rdc=1&_rdr",
+            "date": "2025-12-17",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/wyazbk/cases/trump-golan-heights/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "archiveURL": "https://web.archive.org/web/20251228213154/https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "date": "2025-12-18",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/wyazbk/cases/trump-golan-heights/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء وقوع شهداء في مظاهرات في شهر نوفمبر",
+        "description": "روّج وحيد أن الحكومة السورية تقتل المتظاهرين العزل وإدعى سقوط شهداء في تلك المظاهرات لكن الرجل المصاب الذي ظهر في الفيديو ملقاً على الأرض كان في الواقع تعرض لضربة حجر في الرأس نتيجة التصادم مع مسيرات مضادة خرجت في نفس المكان.",
+        "dateAdded": "2026-01-02",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/reel/823268267274871/",
+            "archiveURL": "https://web.archive.org/web/20260104155513/https://www.facebook.com/reel/823268267274871/?_rdc=1&_rdr",
+            "date": "2025-11-25",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/wyazbk/cases/coast-protests-shooting/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/report/misinformation-inciting-hate-amid-protests-in-coastal-cities-homs-hama",
+            "archiveURL": "https://web.archive.org/web/20260104154122/https://www.verify-sy.com/ar/report/misinformation-inciting-hate-amid-protests-in-coastal-cities-homs-hama",
+            "date": "2025-11-25",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/wyazbk/cases/coast-protests-shooting/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء حصول جريمة اغتصاب بجثث نساء كرديات",
+        "description": "قام وحيد بالترويج لحصول جريمة اغتصاب جثث فتيات كرديات مع صور مغبشة لمظاهر صادمة لكن تبين أن الصور قديمة ونشرت في إحدى المواقع قبل سنوات.",
+        "dateAdded": "2026-02-08",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/WYazbk/status/2015030695400177883",
+            "archiveURL": "https://archive.ph/5sYrJ",
+            "date": "2026-01-24",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/wyazbk/cases/kurdish-fighters-rape/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/sexual-assault-kurdish-girls-photos",
+            "archiveURL": "https://web.archive.org/web/20260125195241/https://www.verify-sy.com/ar/factcheck/sexual-assault-kurdish-girls-photos",
+            "date": "2026-01-25",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/wyazbk/cases/kurdish-fighters-rape/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء اختفاء ميرا جلال ثابت على خلفية طائفية",
+        "description": "كان وحيد من أوائل الحسابات التي روجت أن الفتاة اختفت وتم اختطافها على خلفية طائفية ليصبح الخبر محط أنظار العالم فيما تبين لاحقاً أن الفتاة قد هربت مع شخص تحبه وتربطهما علاقة وثيقة حيث حاول الشاب التقدم لخطبتها أكثر من مرة لكن أهلها كانوا رافضين ويمارسون الضغوط عليها وظهرت الفتاة لاحقاً في إعلانات تجارية وعدة مقابلات تلفزيونية داعية لتسهيل الزواج بين الطوائف المختلفة ومشجعة من يقعون بالحب ويمرون بمواقف شبيهة على عدم الاستسلام.",
+        "dateAdded": "2026-02-21",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/alahteatea/posts/pfbid02skzKzjLvzm9jvvLSSpP859nnVBFTpRafwffEjeAnBpHBNEZbW57xsDhC5DYy6Dyql",
+            "archiveURL": "https://archive.ph/pgxof",
+            "date": "2025-04-27",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/wyazbk/cases/mira-disappearance/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.youtube.com/shorts/tfThRlSrN9w",
+            "archiveURL": "https://archive.ph/01Xdi",
+            "date": "2025-05-11",
+            "label": "",
+            "mediaType": "video",
+            "mediaPath": "/media/profiles/wyazbk/cases/mira-disappearance/fact.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

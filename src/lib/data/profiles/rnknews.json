@@ -1,0 +1,105 @@
+{
+  "ar": {
+    "name": "RNK News Agency",
+    "type": "anon",
+    "username": "rnknews",
+    "dateAdded": "2026-01-16",
+    "lastUpdated": "2026-02-20",
+    "theme": "apparatus",
+    "summary": "حساب إعلامي يديره ناشط في أوربا",
+    "blacklisted": true,
+    "imagePath": "/media/profiles/rnknews/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "حساب المؤسس",
+        "url": "https://x.com/ezdi366"
+      },
+      {
+        "platform": "telegram",
+        "alias": "RNK وكالة",
+        "url": "https://t.me/RNK21RNK"
+      }
+    ],
+    "cases": [
+      {
+        "title": "فيديو مضلل لتعفيش في حي الشيخ مقصود",
+        "description": "نشر الحساب مقطع فيديو لأشخاص يحملون بعض الأدوات المنزلية من سيارة وادعى أنه يوثق سرقات وتعفيش في حي الشيخ مقصود في حلب لكن الفيديو مضلل ويعود لوقفة احتجاجية أمام مقر لجنة مكافحة الكسب غير المشروع في دمشق اعتراضاً على تسوية رجل الأعمال محمد حمشو ومطالبين بالعدالة.",
+        "dateAdded": "2026-01-16",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/RNK_News_Agency/status/2011478070893404666?s=20",
+            "archiveURL": "https://archive.ph/hSkL8",
+            "date": "2026-01-14",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rnknews/cases/aleppo-looting/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/items-from-sheikh-maqsoud",
+            "archiveURL": "http://web.archive.org/web/20260116014945/https://www.verify-sy.com/ar/factcheck/items-from-sheikh-maqsoud",
+            "date": "2026-01-15",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rnknews/cases/aleppo-looting/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء القبض على ثلاثة قياديين في الجيش السوري",
+        "description": "خلال عملية الجيش السوري ضد قسد في حلب، نشر الحساب صورة لأشخاص معتقلين وعيونهم معصوبة مدعياً أن الوحدات الخاصة التابعة لقسد قامت بأسر ثلاثة قياديين في الجيش السوري لكن الصورة قديمة تعود للعام 2022 وتظهر القبض على عناصر من داعش.",
+        "dateAdded": "2026-01-16",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/RNK_News_Agency/status/2009717141675880933",
+            "archiveURL": "https://archive.ph/FCHl3",
+            "date": "2026-01-09",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rnknews/cases/syrian-officers-arrested/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.kurdistan24.net/en/story/388266",
+            "archiveURL": "https://archive.ph/qllpY",
+            "date": "2022-05-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rnknews/cases/syrian-officers-arrested/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء حصول اشتباكات بين الدولة وعشيرة شمر",
+        "description": "ادعت الوكالة أن الحكومة تسعى لنزع سلاح قبيلة شمر وهو ما أدى لحصول اشتباكات واستقدام تعزيزات من الطرفين لكن بحسب الصحف المحلية فالخلاف كان بين عائلتين ويعود إلى نزاع على بئر نفطي قرب قرية كرهوك شمال اليعربية بريف الحسكة حيث بدأ بمشاجرة بين شخصين وتطور إلى اشتباك مسلح بين العائلتين مخلفاً قتلى وجرحى.",
+        "dateAdded": "2026-02-20",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://t.me/RNK21RNK/8295",
+            "archiveURL": "https://archive.ph/q6Ub7",
+            "date": "2026-02-19",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rnknews/cases/shammar-gov-clashes/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.enabbaladi.net/796464/%d9%82%d8%aa%d9%84%d9%89-%d8%a8%d8%a7%d9%82%d8%aa%d8%aa%d8%a7%d9%84-%d8%a8%d9%8a%d9%86-%d8%b9%d8%a7%d8%a6%d9%84%d8%aa%d9%8a%d9%86-%d8%ad%d9%88%d9%84-%d8%a8%d8%a6%d8%b1-%d9%86%d9%81%d8%b7%d9%8a-%d9%81/",
+            "archiveURL": "https://archive.ph/X4aEh",
+            "date": "2026-02-20",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rnknews/cases/shammar-gov-clashes/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

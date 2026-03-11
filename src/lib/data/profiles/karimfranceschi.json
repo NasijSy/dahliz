@@ -1,0 +1,74 @@
+{
+  "ar": {
+    "name": "Karim Franceschi",
+    "type": "person",
+    "username": "karimfranceschi",
+    "dateAdded": "2025-12-31",
+    "lastUpdated": "2026-01-13",
+    "theme": "bias",
+    "summary": "ناشط وكاتب إيطالي كان مقاتلاً في وحدات حماية الشعب",
+    "blacklisted": true,
+    "imagePath": "/media/profiles/karimfranceschi/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "Karim Franceschi",
+        "url": "https://x.com/karimfranceschi"
+      }
+    ],
+    "cases": [
+      {
+        "title": "هجوم تدمر 2025",
+        "description": "قام كريم بنشر تغريدة ادعى فيها أن منفذ الهجوم في تدمر هو شخص قريب من الرئيس الشرع وحاشيته وحاول إلفاق تهمة العمل الإرهابي بشخص بريء دون أي دليل وشمل ادعاءه تفاصيل كاذبة أخرى حول العملية حيث أن المهاجم لم يفجر نفسه.",
+        "dateAdded": "2026-01-04",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/karimfranceschi/status/1999871444524699716",
+            "archiveURL": "https://archive.ph/lLNOy",
+            "date": "2025-12-13",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/karimfranceschi/cases/palmyra-attack/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/MisleadingTadmorImage",
+            "archiveURL": "https://web.archive.org/web/20260104143005/https://www.verify-sy.com/ar/factcheck/MisleadingTadmorImage",
+            "date": "2025-12-13",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/karimfranceschi/cases/palmyra-attack/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء أن فيديو قديم لاعتقال مقاتلين هو اعتداء على نساء مدنيين أكراد",
+        "description": "نشر كريم مقطع فيديو ادعى فيه أن الجنود يعتدون على نساء أكراد وأن الفيديو من الأحداث الجارية حينها في حي الشيخ مقصود بداية 2026، لكن الفيديو قديم يعود لعام 2024 ويظهر أسر مجموعة من المقاتلين التابعين لقسد بينهم نساء.",
+        "dateAdded": "2026-01-13",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/karimfranceschi/status/2009282866166067701",
+            "archiveURL": "https://archive.ph/gJaXD",
+            "date": "2026-01-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/karimfranceschi/cases/female-kurdish-fighters-prisoners/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/k7ybnd99/status/1863212077411631380",
+            "archiveURL": "https://archive.ph/QM7tV",
+            "date": "2024-12-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/karimfranceschi/cases/female-kurdish-fighters-prisoners/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

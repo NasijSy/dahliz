@@ -1,0 +1,87 @@
+{
+  "ar": {
+    "username": "alexmouawad",
+    "name": "Lutfallah (Alex) Mouawad",
+    "type": "person",
+    "theme": "general",
+    "dateAdded": "2026-02-26",
+    "lastUpdated": "2026-02-26",
+    "blacklisted": false,
+    "summary": "كوميدي سوري يقيم في فرنسا ويتناول الأحداث السياسية بطابع ساخر",
+    "imagePath": "/media/profiles/alexmouawad/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Lutfallah Mouawad",
+        "url": "https://www.facebook.com/loutfallah.mouawad/"
+      },
+      {
+        "platform": "instagram",
+        "alias": "alex_mouawad18",
+        "url": "https://www.instagram.com/alex_mouawad18/"
+      }
+    ],
+    "cases": [
+      {
+        "title": "ترويج أن موكب حكومي في حمص يعود لوزير الأوقاف",
+        "description": "نشر مقطع فيديو يعلق فيه على فيديو متداول لموكب حكومي ويروج أنه بالكامل لوزير الأوقاف لكن الخبر المرافق للفيديو والذي يعتمد عليه لطف الله هو خبر مضلل فالموكب كان يضم عدة شخصيات مثل محافظ حمص بالإضافة لمدير الأمن الداخلي في المحافظة ومدراء أوقاف وشخصيات أخرى كانوا في طريقهم سوياً لحضور حفل رسمي لافتتاح مبنى مديرية الأوقاف في حمص حينها.",
+        "dateAdded": "2026-02-26",
+        "type": "defamation",
+        "source": [
+          {
+            "url": "https://www.instagram.com/p/DUnzsMhjPL5/",
+            "archiveURL": "",
+            "date": "2026-02-11",
+            "label": "ترويج لإدعاء أن الموكب يعود لوزير الأوقاف",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/alexmouawad/cases/minister-of-religious-endowments-convoy/source-1.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/61578134927809/posts/pfbid0uk9p5E7JSFt5CpKPcw9maNrhaQHc6MKZVfw648TD4Yzdo7E5uMUebxoMvy673qfkl",
+            "archiveURL": "https://web.archive.org/web/20260226025707/https://www.facebook.com/61578134927809/posts/pfbid0uk9p5E7JSFt5CpKPcw9maNrhaQHc6MKZVfw648TD4Yzdo7E5uMUebxoMvy673qfkl?_rdc=1&_rdr",
+            "date": "2026-02-12",
+            "label": "تصريح المتحدث الرسمي باسم وزارة الأوقاف يوضح فيه المناسبة ويرد على الإشاعات المتداولة مبيناً أن الموكب كان يجمع العديد من المسؤولين",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/alexmouawad/cases/minister-of-religious-endowments-convoy/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "استخدام مقطع مجتزء لتلفيق تهمة بشخص",
+        "description": "نشر لطف الله فيديو يتناول فيه \"فبركة فيديو شتيمة النبي وأحداث صيدنايا\" ويعلق فيه بشكل ساخر على مقطع لأنس هبرة ويتضمن الفيديو إشارة إلى أن أنس يعترف بأنه المسؤول عن الحادثة لكن المقطع مجتزء من مقطع نشره أنس في السنة التي قبلها وقال خلاله \"ما أنا فبركت فيديو...\" وتم اقتطاع هذا الجزء بشكل مضلل واستخدام ما تلاه في محاولة لإظهاره كاعتراف وتلفيق التهمة له.",
+        "dateAdded": "2026-02-26",
+        "type": "defamation",
+        "source": [
+          {
+            "url": "https://www.instagram.com/p/DVEW8l8DG0L/",
+            "archiveURL": "https://archive.ph/7cPqM",
+            "date": "2026-02-22",
+            "label": "فيديو للطف الله يتهم فيه أنس هبره بالمسؤولية عن فبركة تسجيل شتم الرسول محمد الذي تسبب بغضب شعبي ويحمله مسؤولية ما تبعها ويشهر به بناء على مقطع مجتزء",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/alexmouawad/cases/anas-habra-apology-video/source-1.jpg"
+          },
+          {
+            "url": "https://www.instagram.com/p/DVEW8l8DG0L/",
+            "archiveURL": "https://archive.ph/7cPqM",
+            "date": "2026-02-22",
+            "label": "فيديو للطف الله يتهم فيه أنس هبره بالمسؤولية عن فبركة تسجيل شتم الرسول محمد الذي تسبب بغضب شعبي ويحمله مسؤولية ما تبعها ويشهر به بناء على مقطع مجتزء",
+            "mediaType": "video",
+            "mediaPath": "/media/profiles/alexmouawad/cases/anas-habra-apology-video/source-2.mp4"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.instagram.com/reel/DJrs1MYtaK5/",
+            "archiveURL": "https://archive.ph/8t3Dy",
+            "date": "2025-05-15",
+            "label": "المقطع مجتزء من فيديو أطول نشره أنس السنة اللي قبلها حيث قال عند التوقيت 1:51 في الفيديو الأصلي \"ما أنا فبركت فيديو...\" لكن تم اقتطلع المقطع بداية من \"فبركت\" لوحدها دون السياق التي وردت فيه",
+            "mediaType": "video",
+            "mediaPath": "/media/profiles/alexmouawad/cases/anas-habra-apology-video/fact.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

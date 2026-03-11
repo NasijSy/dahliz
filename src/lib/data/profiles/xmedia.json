@@ -1,0 +1,207 @@
+{
+  "ar": {
+    "name": "X Media",
+    "type": "org",
+    "username": "xmedia",
+    "dateAdded": "2026-01-04",
+    "lastUpdated": "2026-02-21",
+    "theme": "apparatus",
+    "summary": "مؤسسة إعلامية مقرها الإمارات تغطي الشأن السوري",
+    "blacklisted": true,
+    "imagePath": "/media/profiles/xmedia/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "X Media",
+        "url": "https://www.facebook.com/xmedia.k"
+      },
+      {
+        "platform": "twitter",
+        "alias": "X media",
+        "url": "https://x.com/X_news_media"
+      }
+    ],
+    "cases": [
+      {
+        "title": "بيان علماء من الطائفة السنية ضد مظاهرات",
+        "description": "نشرت المنصة إدعاءاً بأن عدداً من كبار علماء أهل السنة أصدرو بياناً يتهمون فيه بعض التيارات بكونها متشددة وتسعى لتمزيق المجتمع، وقاموا بذكر قائمة من العلماء أبرزهم محمد راتب النابلسي لكن عدداً من الشيوخ المذكورين أنكرو هذا البيان المزعوم واعتبروه محاولة للتفرقة. قامت المؤسسة لاحقاً بتعديل المنشور وحذف اسم الشيخ النابلسي.",
+        "dateAdded": "2026-01-04",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/xmedia.k/posts/pfbid021jdV8tYDaV8bV1eVRt1VMMyhaQJ7yUs7br3MPwuK932dBJXur8E2GeJ6si4inJKql",
+            "archiveURL": "https://archive.ph/yWs6c",
+            "date": "2025-11-28",
+            "label": "منشور يزعم إصدار عدد من كبار علماء أهل السنة لبيان ويذكر أبرز الشخصيات الموقعة",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/sunni-sheikhs-statement/source-1.jpg"
+          },
+          {
+            "url": "https://www.facebook.com/xmedia.k/posts/pfbid021jdV8tYDaV8bV1eVRt1VMMyhaQJ7yUs7br3MPwuK932dBJXur8E2GeJ6si4inJKql",
+            "archiveURL": "https://archive.ph/yWs6c",
+            "date": "2025-11-28",
+            "label": "تاريخ تعديل المنشور ويظهر النص الأصلي وهو يذكر بين الشخصيات محمد راتب النابلسي",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/sunni-sheikhs-statement/source-2.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/MhdRatebNabulsi/posts/pfbid02exXHhWibAFG6khpaqy7B5xwngTvZ3h7ugkUNWe5g4Bq1dGgV9L9ovdo1AtgWUgG1l",
+            "archiveURL": "https://archive.ph/CiEDU",
+            "date": "2025-11-28",
+            "label": "منشور من حساب الدكتور راتب النابلسي ينفي فيه البيان ويدعو للمشاركة بالمظاهرات في وجه دعاة التقسيم",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/sunni-sheikhs-statement/fact-1.jpg"
+          },
+          {
+            "url": "https://www.facebook.com/Dralsawaf/posts/1376588567153109",
+            "archiveURL": "https://archive.ph/DtNse",
+            "date": "2025-11-28",
+            "label": "نفي الدكتور محمد شريف الصواف منبهاً أن تلفيق البيان هدفه التفرقة والتجزئة",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/sunni-sheikhs-statement/fact-2.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء إطلاق الأمن العام النار على المنازل وسقوط شهداء في شهر نوفمبر",
+        "description": "روجت المؤسسة لرواية أن الأمن العام قام بإطلاق النار على المتظاهرين والمنازل ونقلت عن روسيا اليوم خبر سقوط عدة ضحايا لكن ذلك لم يثبت.",
+        "dateAdded": "2026-01-04",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/xmedia.k/posts/pfbid02w9HxHeRHRTpBRKFfCh6LQbbZmsfioT6zJkXSLnhwEHUi9or7v1zPBFUfTQk4pNYKl",
+            "archiveURL": "https://archive.ph/H64ie",
+            "date": "2025-11-25",
+            "label": "منشور يروج لإدعاء سقوط ثلاثة ضحايا في منطقة دوار الأزهري في مدينة اللاذقية",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/coast-protests-shooting/source-1.jpg"
+          },
+          {
+            "url": "https://www.facebook.com/xmedia.k/posts/pfbid0umKEh4CfFD4kJpPeoRxKqYmBhzqKkebxk7S6g2MoR8RV838Sew8FiigdJKRtJwvvl",
+            "archiveURL": "https://web.archive.org/web/20260104175341/https://www.facebook.com/xmedia.k/posts/pfbid0umKEh4CfFD4kJpPeoRxKqYmBhzqKkebxk7S6g2MoR8RV838Sew8FiigdJKRtJwvvl?_rdc=1&_rdr",
+            "date": "2025-11-25",
+            "label": "منشور يدعي إطلاق النار على المعتصمين وسقوط عشرات الإصابات",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/coast-protests-shooting/source-2.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/report/misinformation-inciting-hate-amid-protests-in-coastal-cities-homs-hama",
+            "archiveURL": "https://web.archive.org/web/20260104154122/https://www.verify-sy.com/ar/report/misinformation-inciting-hate-amid-protests-in-coastal-cities-homs-hama",
+            "date": "2025-11-25",
+            "label": "تحقيق لفريق تأكد يغطي فيه المظاهرات والأخبار التي تم تداولها",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/coast-protests-shooting/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء أن فيديو قديم لاعتقال مقاتلين هو اعتداء على فتاة كردية مدنية",
+        "description": "نشر المؤسسة مقطع فيديو تدعي فيه أن الجنود يعتدون على فتاة كردية وأن الفيديو حديث مع تاريخ يترافق مع عملية الشيخ مقصود بداية 2026، لكن الفيديو قديم يعود لعام 2024 ويظهر أسر مجموعة من المقاتلين تابعين لقسد بينهم نساء.",
+        "dateAdded": "2026-01-13",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/X_news_media/status/2009197574050467916",
+            "archiveURL": "https://archive.ph/pMYYy",
+            "date": "2026-01-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/female-kurdish-fighters-prisoners/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/k7ybnd99/status/1863212077411631380",
+            "archiveURL": "https://archive.ph/QM7tV",
+            "date": "2024-12-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/female-kurdish-fighters-prisoners/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "الترويج أن الحكومة الانتقالية تقوم بقصف المساجد بشكل مفتعل",
+        "description": "قامت وزارة الدفاع السورية بتحديد المواقع التي تقوم قسد باستخدامها لأغراض عسكرية وتشن منها هجمات تستهدف بقية أحياء حلب وقامت الوزارة بالإعلان عن هذه المناطق وطلبت من المدنيين الابتعاد عنها. قامت المؤسسة باستغلال أن أحد هذه المواقع يظهر مسجداً ضمن الخريطة للترويج أن الحكومة تقوم باستهداف دور العبادة والتشكيك برواية أن النظام السابق قصف المساجد وأن الثوار كانوا يستخدمون دور العبادة كورقة سياسية. لكن بعد الدخول للمنطقة تم نشر صور من داخل تلك الأحياء تظهر أن قسد كانت تستخدم المواقع المذكورة لأغراض عسكرية وعمليات قنص فعلاً.",
+        "dateAdded": "2026-01-13",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/X_news_media/status/2009261912664449259",
+            "archiveURL": "https://archive.ph/AjXXT",
+            "date": "2026-01-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/mosque-military-site/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/Sana__gov/status/2010018721994289650",
+            "archiveURL": "https://archive.ph/MM4fJ",
+            "date": "2026-01-10",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/mosque-military-site/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء تصريح الموساد عن مقاتلين في الجيش السوري",
+        "description": "قامت المؤسسة بالترويج أن صفحة الموساد قامت بنشر تغريدة تهاجم فيها الجيش السوري ودعم الغرب له لكن الحساب المذكور مزيف ويقوم بشكل متكرر بنشر شائعات تثير الجدل في مختلف القضايا.",
+        "dateAdded": "2026-02-08",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/X_news_media/status/2014633891332591750",
+            "archiveURL": "https://archive.ph/QZmiP",
+            "date": "2026-01-23",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/mossad-jolani-fighters/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.euronews.com/my-europe/2023/11/07/israel-hamas-war-fake-mossad-account-creates-online-confusion",
+            "archiveURL": "https://archive.ph/TtNqr",
+            "date": "2023-11-07",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/mossad-jolani-fighters/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء دخول أكراد تركيا إلى عين عرب بريف حلب",
+        "description": "قام الحساب بمشاركة مقطع فيديو أرفقه بتاريخ حديث وادعى أنه في حلب ويظهر دخول أكراد تركيا إلى عين العرب فيما تبين أن المقطع قديم يعود نشره لعام 2023 وهو مصور في مقاطعة نمانغان في شمال أوزبكستان ويظهر نادياً يدعى 'dengiz tulpori' يستضيف رياضة تقليدية للخيول شائعة في دول آسيا الوسطى تدعى 'Kok-borou' ولا علاقة للمقطع بسوريا.",
+        "dateAdded": "2026-02-21",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/X_news_media/status/2013517796336980133",
+            "archiveURL": "https://archive.ph/Cn1UI",
+            "date": "2026-01-20",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/turkish-kurds-storm-ayn-alarab/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.instagram.com/ildar___aylin/reel/CnpwXOMoZOn/",
+            "archiveURL": "https://perma.cc/WHB5-7F37",
+            "date": "2023-01-20",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/xmedia/cases/turkish-kurds-storm-ayn-alarab/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

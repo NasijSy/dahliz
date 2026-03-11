@@ -1,0 +1,294 @@
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms/schema/sveltia-cms.json
+
+backend:
+  name: github
+  repo: NasijSy/blacklist
+  branch: main
+  base_url: https://sveltia-cms-auth.imadaldoj-official.workers.dev
+
+locale: ar
+
+i18n:
+  structure: single_file
+  locales: [ar]
+  default_locale: ar
+
+media_folder: static/media
+public_folder: /media
+
+collections:
+  - name: profiles
+    label: الحسابات
+    label_singular: حساب
+    folder: src/lib/data/profiles
+    create: true
+    delete: true
+    slug: "{{username}}"
+    identifier_field: username
+    format: json
+    extension: json
+    i18n: true
+    fields:
+      - name: username
+        label: اسم المستخدم
+        widget: string
+        i18n: duplicate
+        pattern: ['^[a-z0-9_]+$', 'يجب أن يكون اسم المستخدم بأحرف صغيرة وأرقام وشرطة سفلية فقط']
+
+      - name: name
+        label: الاسم
+        widget: string
+        i18n: true
+
+      - name: type
+        label: النوع
+        widget: select
+        options:
+          - { label: منظمة, value: org }
+          - { label: شخص, value: person }
+          - { label: مجهول, value: anon }
+          - { label: بوت, value: bot }
+        i18n: duplicate
+
+      - name: theme
+        label: التوجه
+        widget: select
+        options:
+          - { label: عام, value: general }
+          - { label: انحياز, value: bias }
+          - { label: توجيه إعلامي, value: apparatus }
+          - { label: اصطياد تفاعل, value: clickbait }
+          - { label: استهزاء, value: mockery }
+        i18n: duplicate
+
+      - name: dateAdded
+        label: تاريخ الإضافة
+        widget: datetime
+        format: YYYY-MM-DD
+        date_format: YYYY-MM-DD
+        time_format: false
+        i18n: duplicate
+        default: {{now}}
+
+      - name: lastUpdated
+        label: آخر تحديث
+        widget: datetime
+        format: YYYY-MM-DD
+        date_format: YYYY-MM-DD
+        time_format: false
+        i18n: duplicate
+        default: {{now}}
+
+      - name: blacklisted
+        label: في القائمة السوداء
+        widget: boolean
+        i18n: duplicate
+        default: false
+
+      - name: summary
+        label: الوصف
+        widget: text
+        i18n: true
+
+      - name: imagePath
+        label: صورة الملف الشخصي
+        widget: image
+        media_folder: /static/media/profiles/{{username}}
+        public_folder: /media/profiles/{{username}}
+        i18n: duplicate
+
+      - name: platformLinks
+        label: روابط المنصات
+        widget: list
+        i18n: duplicate
+        fields:
+          - name: platform
+            label: المنصة
+            widget: select
+            options:
+              - { label: تويتر / X, value: twitter }
+              - { label: فيسبوك, value: facebook }
+              - { label: يوتيوب, value: youtube }
+              - { label: تيليغرام, value: telegram }
+              - { label: إنستغرام, value: instagram }
+              - { label: موقع إلكتروني, value: website }
+          - name: alias
+            label: اسم الحساب
+            widget: string
+          - name: url
+            label: الرابط
+            widget: string
+
+      - name: cases
+        label: الحالات الموثقة
+        widget: list
+        i18n: true
+        fields:
+          - name: title
+            label: العنوان
+            widget: string
+            i18n: true
+
+          - name: description
+            label: الوصف
+            widget: text
+            i18n: true
+
+          - name: dateAdded
+            label: تاريخ الإضافة
+            widget: datetime
+            format: YYYY-MM-DD
+            date_format: YYYY-MM-DD
+            time_format: false
+            i18n: duplicate
+            default: {{now}}
+
+          - name: type
+            label: النوع
+            widget: select
+            options:
+              - { label: تضليل, value: misinfo }
+              - { label: إشاعة, value: rumor }
+              - { label: تحريض, value: hate }
+              - { label: احتيال, value: fraud }
+              - { label: عنف, value: violence }
+              - { label: تشهير, value: defamation }
+            i18n: duplicate
+
+          - name: source
+            label: المصادر
+            widget: list
+            i18n: true
+            fields:
+              - name: url
+                label: الرابط
+                widget: string
+                required: false
+              - name: archiveURL
+                label: رابط الأرشيف
+                widget: string
+                required: false
+              - name: date
+                label: التاريخ
+                widget: datetime
+                format: YYYY-MM-DD
+                date_format: YYYY-MM-DD
+                time_format: false
+                required: false
+              - name: label
+                label: الوصف
+                widget: string
+                required: false
+                i18n: true
+              - name: mediaType
+                label: نوع الوسيط
+                widget: select
+                required: false
+                options:
+                  - { label: صورة, value: image }
+                  - { label: فيديو, value: video }
+              - name: mediaPath
+                label: مسار الوسيط
+                widget: file
+                media_folder: /static/media/profiles/{{username}}/cases
+                public_folder: /media/profiles/{{username}}/cases
+                required: false
+                hint: "مثال: /media/profiles/syriahr/cases/bashar-mahyob-body/image.jpg"
+
+          - name: analysis
+            label: التحليل
+            widget: list
+            required: false
+            i18n: true
+            fields:
+              - name: url
+                label: الرابط
+                widget: string
+                required: false
+              - name: archiveURL
+                label: رابط الأرشيف
+                widget: string
+                required: false
+              - name: date
+                label: التاريخ
+                widget: datetime
+                format: YYYY-MM-DD
+                date_format: YYYY-MM-DD
+                time_format: false
+                required: false
+              - name: label
+                label: الوصف
+                widget: string
+                required: false
+                i18n: true
+              - name: mediaType
+                label: نوع الوسيط
+                widget: select
+                required: false
+                options:
+                  - { label: صورة, value: image }
+                  - { label: فيديو, value: video }
+              - name: mediaPath
+                label: مسار الوسيط
+                widget: file
+                media_folder: /static/media/profiles/{{username}}/cases
+                public_folder: /media/profiles/{{username}}/cases
+                required: false
+                hint: "مثال: /media/profiles/syriahr/cases/bashar-mahyob-body/image.jpg"
+
+  - name: about
+    label: صفحة عن المشروع
+    files:
+      - name: content
+        label: المحتوى
+        file: src/lib/data/about.md
+        i18n: true
+        fields:
+          - name: body
+            label: المحتوى
+            widget: markdown
+            i18n: true
+
+  - name: factCheckingPlatforms
+    label: مواقع التحقق
+    label_singular: موقع تحقق
+    files:
+      - name: platforms
+        label: المواقع
+        file: src/lib/data/factCheckingPlatforms.json
+        format: json
+        i18n: true
+        fields:
+          - name: ar
+            label: المواقع (عربي)
+            widget: list
+            i18n: duplicate
+            fields:
+              - name: name
+                label: الاسم
+                widget: string
+              - name: icon
+                label: الشعار
+                widget: image
+                media_folder: /static/media/icons
+                public_folder: /media/icons
+              - name: description
+                label: الوصف
+                widget: text
+              - name: platforms
+                label: الروابط
+                widget: list
+                fields:
+                  - name: platform
+                    label: المنصة
+                    widget: select
+                    options:
+                      - { label: تويتر / X, value: twitter }
+                      - { label: فيسبوك, value: facebook }
+                      - { label: يوتيوب, value: youtube }
+                      - { label: تيليغرام, value: telegram }
+                      - { label: إنستغرام, value: instagram }
+                      - { label: موقع إلكتروني, value: website }
+                  - name: url
+                    label: الرابط
+                    widget: string

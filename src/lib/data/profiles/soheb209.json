@@ -1,0 +1,53 @@
+{
+  "ar": {
+    "name": "صهيب اليعربي",
+    "type": "anon",
+    "username": "soheb209",
+    "dateAdded": "2026-02-06",
+    "lastUpdated": "2026-02-07",
+    "theme": "bias",
+    "summary": "ناشط سوري مقيم في أوربا يغطي أخبار منطقة الجزيرة السورية",
+    "blacklisted": false,
+    "imagePath": "/media/profiles/soheb209/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "صهيب اليعربي",
+        "url": "https://x.com/SOHEB209"
+      },
+      {
+        "platform": "facebook",
+        "alias": "صهيب اليعربي",
+        "url": "https://www.facebook.com/Soheb903/"
+      }
+    ],
+    "cases": [
+      {
+        "title": "إدعاء مقتل قائد وحدات حماية الشعب سيبان حمو",
+        "description": "قام بالترويج أن القائد في قوات قسد سيبان حمو قد لقي مصرعه وأن الخبر مؤكد لكن تبين أن الخبر عار عن الصحة حيث ظهر حمو بعدها في عدة لقاءات منها لقاء مع قوات الحكومة السورية",
+        "dateAdded": "2026-02-07",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/SOHEB209/status/2013907509908480364",
+            "archiveURL": "https://archive.ph/nEzIv",
+            "date": "2026-01-21",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/soheb209/cases/sipan-hamo-death/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/AlekhbariahSY/status/2019759042294341727",
+            "archiveURL": "https://archive.ph/G83pJ",
+            "date": "2026-02-06",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/soheb209/cases/sipan-hamo-death/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

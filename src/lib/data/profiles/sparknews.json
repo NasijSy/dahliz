@@ -1,0 +1,79 @@
+{
+  "ar": {
+    "name": "Spark News",
+    "type": "anon",
+    "username": "sparknews",
+    "dateAdded": "2026-02-15",
+    "lastUpdated": "2026-02-15",
+    "theme": "clickbait",
+    "summary": "حساب إعلامي يدار من مقيمين في تركيا",
+    "blacklisted": false,
+    "imagePath": "/media/profiles/sparknews/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "سبارك نيوز - Spark News",
+        "url": "https://www.facebook.com/2030.Spark.News/"
+      },
+      {
+        "platform": "facebook",
+        "alias": "سيرفر+Server",
+        "url": "https://www.facebook.com/Server.Plus.2030"
+      }
+    ],
+    "cases": [
+      {
+        "title": "إدعاء أن أحد الإعلاميين الحربيين أصدر كتاباً عن تكتيك الشرع في معركة ردع العدوان",
+        "description": "من خلال البحث والتحقق يظهر على غلاف الكتاب أنه تم إصداره عام 2022م وهو غير متاح للعامة وإنما خاص بمعهد إعداد المدربين في وزارة الدفاع ويتحدث عن التكتيات العسكرية التي كانت تتبعها الفصائل وخاصة قتال الشوارع ولا علاقة مباشرة له بردع العنوان في 2024 أو الإعلامي الحربي محمد جمال كما ذكر في الإدعاء.",
+        "dateAdded": "2026-02-15",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/2030.Spark.News/posts/pfbid02Wvjm821u73cLoUrMitDdVS2syKdauaSFtqizZKovkV6p8AUzuL23X2XgXaPbLVQjl",
+            "archiveURL": "https://archive.ph/OKg3h",
+            "date": "2026-02-15",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/sparknews/cases/ministry-defense-book/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.syria.tv/%D8%B3%D8%B1%D9%8A-%D9%85%D8%B9-%D8%B3%D8%B1%D9%8A-%D9%84%D9%84%D8%BA%D8%A7%D9%8A%D8%A9-%D8%B9%D9%84%D9%89-%D8%B1%D9%81%D9%88%D9%81-%D8%AC%D9%86%D8%A7%D8%AD-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D9%81%D8%A7%D8%B9-%D9%81%D9%8A-%D9%85%D8%B9%D8%B1%D8%B6-%D8%AF%D9%85%D8%B4%D9%82-%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A-%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8",
+            "archiveURL": "https://archive.ph/Tx8HR",
+            "date": "2025-02-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/sparknews/cases/ministry-defense-book/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء أن حاكم البنك المركزي صرح أن 100 دولار تكفي للمعيشة",
+        "description": "بالعودة للمقابلة تبين أن المذيع هو من طرح هذا بصيغة سؤال فكان رد الحاكم رفضاً ضمنياً مبيناً أنهم يدركون الواقع ويعملون على تغييره",
+        "dateAdded": "2026-02-15",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://www.facebook.com/2030.Spark.News/posts/pfbid02Wvjm821u73cLoUrMitDdVS2syKdauaSFtqizZKovkV6p8AUzuL23X2XgXaPbLVQjl",
+            "archiveURL": "https://archive.ph/PysLl",
+            "date": "2026-02-15",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/sparknews/cases/salary-100-dollars/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://youtu.be/1_pv7k_l5bQ?t=439",
+            "archiveURL": "https://web.archive.org/web/20260215125047/https://www.youtube.com/watch?v=1_pv7k_l5bQ&t=440s",
+            "date": "2026-02-11",
+            "label": "",
+            "mediaType": "video",
+            "mediaPath": "/media/profiles/sparknews/cases/salary-100-dollars/fact.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

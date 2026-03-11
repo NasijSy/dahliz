@@ -1,0 +1,130 @@
+{
+  "ar": {
+    "name": "Rudaw",
+    "type": "org",
+    "username": "rudaw",
+    "dateAdded": "2026-01-08",
+    "lastUpdated": "2026-01-13",
+    "theme": "bias",
+    "summary": "مجموعة إعلامية تبث من أربيل كردستان العراق وتنشر محتوى بعدة لغات",
+    "blacklisted": false,
+    "imagePath": "/media/profiles/rudaw/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "website",
+        "alias": "rudaw.net",
+        "url": "https://www.rudaw.net"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Rudaw English",
+        "url": "https://x.com/RudawEnglish"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Rudaw",
+        "url": "https://x.com/Rudawkurdish"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Rudaw عربية",
+        "url": "https://x.com/rudaw_arabic"
+      },
+      {
+        "platform": "facebook",
+        "alias": "Rudaw",
+        "url": "https://www.facebook.com/Rudaw.net"
+      },
+      {
+        "platform": "facebook",
+        "alias": "Rudaw English",
+        "url": "https://www.facebook.com/RudawEnglish"
+      },
+      {
+        "platform": "facebook",
+        "alias": "عربية Rudaw",
+        "url": "https://www.facebook.com/RudawArabi"
+      }
+    ],
+    "cases": [
+      {
+        "title": "مشاركة فيديو قديم عن تحرك عسكري",
+        "description": "قامت رووداو بنشر مقطع فيديو إدعت أنه لحشود عسكرية تابعة للجيش السوري تتجمع للهجوم خلال الساعات المقبلة لكن تبين أن الفيديو قديم وتم تداوله قبل عدة أشهر.",
+        "dateAdded": "2026-01-08",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/rudaw_arabic/status/2008980217109598255",
+            "archiveURL": "https://archive.ph/sUxfj",
+            "date": "2026-01-07",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rudaw/cases/aleppo-military-operation/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/100091527296106/videos/1344663090425005/",
+            "archiveURL": "https://archive.ph/zHfg2",
+            "date": "2025-09-29",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rudaw/cases/aleppo-military-operation/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "إدعاء أن ناشط إعلامي كردي فجر نفسه لتجنب الوقوع بالأسر بيد الجيش",
+        "description": "خلال عملية الجيش السوري لإخراج قسد من أحياء الأشرفية والشيخ مقصود، قامت رووداو بالترويج لشائعة بقيام أحد الناشطين الإعلاميين ويدعى دلبرين عفرين بتنفيذ عملية انتحارية لتجنب الوقوع بقبضة الجيش السوري وهو ما أثار جدلاً واسعاً في وسائل التواصل، ليتبين لاحقاً أنه حي يرزق ولا صحة لتلك الإشاعات.",
+        "dateAdded": "2026-01-13",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/RudawKurdi/status/2009955986958901292",
+            "archiveURL": "https://archive.ph/KFq2D",
+            "date": "2026-01-10",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rudaw/cases/death-journalist/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/vvanwilgenburg/status/2010160782995284206",
+            "archiveURL": "https://archive.ph/LDRDz",
+            "date": "2026-01-11",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rudaw/cases/death-journalist/fact.jpg"
+          }
+        ]
+      },
+      {
+        "title": "مسيرة تحمل أعلام تركيا في حي الشيخ مقصود",
+        "description": "قامت القناة بالترويج إلى أن بعض التركمان دخلوا إلى حي الشيخ مقصود في حلب بعد عملية الجيش هناك وحملوا أعلام تركيا لكن الفيديو قديم يعود إلى فعالية نظمها بعض التركمان في حي التضامن بمدينة دمشق في وقت سابق بذكرى التحرير.",
+        "dateAdded": "2026-01-15",
+        "type": "misinfo",
+        "source": [
+          {
+            "url": "https://x.com/Rudawkurdish/status/2011348726300946768",
+            "archiveURL": "https://archive.ph/3ELec",
+            "date": "2026-01-14",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rudaw/cases/turkey-flags-aleppo/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/turkish-flag-video-sheikh-maqsoud",
+            "archiveURL": "http://web.archive.org/web/20260115153458/https://www.verify-sy.com/ar/factcheck/turkish-flag-video-sheikh-maqsoud",
+            "date": "2026-01-14",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/profiles/rudaw/cases/turkey-flags-aleppo/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
