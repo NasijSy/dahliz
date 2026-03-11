@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "minister-defense-israel",
+    "title": "نسب تصريح مفبرك لوزير الدفاع السوري",
+    "dateAdded": "2026-01-15",
+    "type": "rumor",
+    "profiles": [
+      {
+        "username": "edycohen",
+        "description": "تداول تصريح نسب لوزير الدفاع السوري يبرر فيه عدم قيام إسرائيل باحتلال المزيد من الأراضي السورية لكن التصريح مفبرك حيث لم يعلم مصدره أو لم يرد عن أي مصدر إخباري موثوق.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/dredycohen/posts/pfbid03NKf2MPVVoBDtHqkcjnxqKZqrZqnu7EFFfFYkRWT69VYt4x8ffXesuy2CJhpZxshl",
+            "archiveURL": "https://archive.ph/36wSD",
+            "date": "2025-12-19",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/minister-defense-israel/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/DefenseMinisterClaim-occupied-the-south",
+            "archiveURL": "https://web.archive.org/web/20260115205314/https://www.verify-sy.com/ar/factcheck/DefenseMinisterClaim-occupied-the-south",
+            "date": "2025-12-19",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/minister-defense-israel/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

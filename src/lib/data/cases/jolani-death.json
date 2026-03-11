@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "jolani-death",
+    "title": "نشر شائعات عن مقتل قائد هيئة تحرير الشام الملقب بالجولاني",
+    "dateAdded": "2026-01-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "rahmon",
+        "description": "قام رحمون بالترويج إلى أن قائد هيئة تحرير الشام الملقب بأبو محمد الجولاني قد قتل في غارة روسية لكن الصورة قديمة لشخص آخر وتم تعديلها لإضافة ملامح الجولاني.",
+        "source": [
+          {
+            "url": "https://x.com/Rahmon83/status/1863005081517363668",
+            "archiveURL": "https://archive.ph/ZxoCH",
+            "date": "2024-11-30",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/jolani-death/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/10525",
+            "archiveURL": "https://web.archive.org/web/20260115135643/https://www.verify-sy.com/ar/factcheck/10525",
+            "date": "2024-12-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/jolani-death/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "caesar-sanctions-removal",
+    "title": "إلغاء عقوبات قيصر",
+    "dateAdded": "2026-01-03",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "mahersharafeddine",
+        "description": "وصف ماهر إلغاء قانون قيصر بالظاهري والشكلي وادعى أن عقوبات قيصر ستعود في حال فشل تنفيذ بعض الشروط لكن هذا الكلام غير دقيق فالقرار غير مشروط وتم رفع عقوبات قيصر بشكل فوري وكامل وهو ما أكدته الخزانة الامريكية بأن العقوبات الشاملة قد رفعت بالفعل.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/maher.sharafeddine/posts/pfbid02uMwQx7PikPtjsc4eSPcrkmJR5PteELHPjnr4EvhViHUobDC8tJfwFXRTHoBVbpaol",
+            "archiveURL": "https://web.archive.org/web/20260104152754/https://www.facebook.com/maher.sharafeddine/posts/1520968329393373?ref=embed_post&_rdc=1&_rdr",
+            "date": "2025-12-11",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/caesar-sanctions-removal/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/us-congress-caesar-act-suspension-claim",
+            "archiveURL": "https://web.archive.org/web/20260104151713/https://www.verify-sy.com/ar/factcheck/us-congress-caesar-act-suspension-claim",
+            "date": "2025-12-11",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/caesar-sanctions-removal/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

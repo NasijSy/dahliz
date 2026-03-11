@@ -1,0 +1,58 @@
+{
+  "ar": {
+    "slug": "israeli-flag-daraa",
+    "title": "إدعاء رفع علم إسرائيل في بصرى الشام بريف درعا",
+    "dateAdded": "2026-02-20",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "malekomar",
+        "description": "قام بالترويج إلى أن الفرقة الثامنة التابعة للقيادي احمد العودة قامت برفع علم إسرائيل في ساحة بصرى الشام ودعوة الكيان للدخول لكن مقطع الفيديو قديم ويعود لرفعه على دوار العنقود في السويداء قبل تاريخه بسنة  كما أن الفرقة الثامنة تم حلها وتسلم أسحلتها منذ شهور.",
+        "source": [
+          {
+            "url": "https://x.com/EngMalek_Omar/status/2024922410516955600",
+            "archiveURL": "https://archive.ph/NnTd3",
+            "date": "2026-02-20",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/israeli-flag-daraa/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/ivarmm/status/1896691364555055393",
+            "archiveURL": "https://archive.ph/5pGeG",
+            "date": "2025-03-04",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/israeli-flag-daraa/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "shamhmdan",
+        "description": "قام شام بالترويج إلى أنه تم رفع علم إسرائيل في بصرى الشام ووجود دعوات لدخول الكيان لكن مقطع الفيديو قديم ويعود لرفعه على دوار العنقود في السويداء قبل تاريخه بسنة تقريباً",
+        "source": [
+          {
+            "url": "https://www.facebook.com/sham.slman.hmdan/videos/1694041648419009",
+            "archiveURL": "https://archive.ph/LGWea",
+            "date": "2026-02-20",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/israeli-flag-daraa/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/ivarmm/status/1896691364555055393",
+            "archiveURL": "https://archive.ph/5pGeG",
+            "date": "2025-03-04",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/israeli-flag-daraa/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

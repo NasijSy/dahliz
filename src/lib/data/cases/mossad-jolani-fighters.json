@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "mossad-jolani-fighters",
+    "title": "إدعاء تصريح الموساد عن مقاتلين في الجيش السوري",
+    "dateAdded": "2026-02-08",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "xmedia",
+        "description": "قامت المؤسسة بالترويج أن صفحة الموساد قامت بنشر تغريدة تهاجم فيها الجيش السوري ودعم الغرب له لكن الحساب المذكور مزيف ويقوم بشكل متكرر بنشر شائعات تثير الجدل في مختلف القضايا.",
+        "source": [
+          {
+            "url": "https://x.com/X_news_media/status/2014633891332591750",
+            "archiveURL": "https://archive.ph/QZmiP",
+            "date": "2026-01-23",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/mossad-jolani-fighters/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.euronews.com/my-europe/2023/11/07/israel-hamas-war-fake-mossad-account-creates-online-confusion",
+            "archiveURL": "https://archive.ph/TtNqr",
+            "date": "2023-11-07",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/mossad-jolani-fighters/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

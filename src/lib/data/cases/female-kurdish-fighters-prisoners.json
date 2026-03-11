@@ -1,0 +1,58 @@
+{
+  "ar": {
+    "slug": "female-kurdish-fighters-prisoners",
+    "title": "إدعاء أن فيديو قديم لاعتقال مقاتلين هو اعتداء على نساء مدنيين أكراد",
+    "dateAdded": "2026-01-13",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "karimfranceschi",
+        "description": "نشر كريم مقطع فيديو ادعى فيه أن الجنود يعتدون على نساء أكراد وأن الفيديو من الأحداث الجارية حينها في حي الشيخ مقصود بداية 2026، لكن الفيديو قديم يعود لعام 2024 ويظهر أسر مجموعة من المقاتلين التابعين لقسد بينهم نساء.",
+        "source": [
+          {
+            "url": "https://x.com/karimfranceschi/status/2009282866166067701",
+            "archiveURL": "https://archive.ph/gJaXD",
+            "date": "2026-01-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/female-kurdish-fighters-prisoners/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/k7ybnd99/status/1863212077411631380",
+            "archiveURL": "https://archive.ph/QM7tV",
+            "date": "2024-12-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/female-kurdish-fighters-prisoners/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "xmedia",
+        "description": "نشر المؤسسة مقطع فيديو تدعي فيه أن الجنود يعتدون على فتاة كردية وأن الفيديو حديث مع تاريخ يترافق مع عملية الشيخ مقصود بداية 2026، لكن الفيديو قديم يعود لعام 2024 ويظهر أسر مجموعة من المقاتلين تابعين لقسد بينهم نساء.",
+        "source": [
+          {
+            "url": "https://x.com/X_news_media/status/2009197574050467916",
+            "archiveURL": "https://archive.ph/pMYYy",
+            "date": "2026-01-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/female-kurdish-fighters-prisoners/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/k7ybnd99/status/1863212077411631380",
+            "archiveURL": "https://archive.ph/QM7tV",
+            "date": "2024-12-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/female-kurdish-fighters-prisoners/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

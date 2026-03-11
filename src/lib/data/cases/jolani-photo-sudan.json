@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "jolani-photo-sudan",
+    "title": "صورة الجولاني مع أحد مقاتلي الدعم السريع",
+    "dateAdded": "2026-01-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "mohammed_jajeh",
+        "description": "قام الحساب بنشر صورة تجمع أحمد الشرع مع أحد مقاتلي الدعم السريع واسمه الفاتح عبد الله إدريس والملقب بجزار الفاشر في السودان. الصورة مولدة بالذكاء الاصطناعي عن صورة أصلية قديمة للرئيس الشرع برفقة الإعلامي السوري طاهر العمر.",
+        "source": [
+          {
+            "url": "https://x.com/mohammed_jajeh/status/1985376772700115239",
+            "archiveURL": "https://archive.ph/8bLyP",
+            "date": "2025-11-03",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/jolani-photo-sudan/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/2511061056",
+            "archiveURL": "https://web.archive.org/web/20260115140751/https://www.verify-sy.com/ar/factcheck/2511061056",
+            "date": "2025-11-06",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/jolani-photo-sudan/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

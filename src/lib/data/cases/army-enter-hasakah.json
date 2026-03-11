@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "army-enter-hasakah",
+    "title": "إدعاء دخول الجيش السوري للحسكة وبدأ السيطرة بشكل كامل عليها ",
+    "dateAdded": "2026-02-21",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "ar24",
+        "description": "قام الحساب بنشر فيديو مدعياً أنه يظهر دخول أرتال الجيش السوري الى الحسكة وبدأ السيطرة عليها بالكامل لكن الفيديو مفبرك ومولد بالذكاء الاصطناعي.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/61559591626046/videos/1563754094840319",
+            "archiveURL": "https://archive.ph/uo0o1",
+            "date": "2026-01-30",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/army-enter-hasakah/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/ai-video-syrian-army-convoys-entering-hasakah",
+            "archiveURL": "",
+            "date": "2026-01-30",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/army-enter-hasakah/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

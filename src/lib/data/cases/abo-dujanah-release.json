@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "abo-dujanah-release",
+    "title": "إدعاء إطلاق سراح شخص اعتماداً على مقطع فيديو قديم",
+    "dateAdded": "2026-02-20",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "syriahr",
+        "description": "إدعى المرصد أن شخصاً يعرف بأبو دجانة خرج من السجن وعاد للظهور على وسائل التواصل لكن الفيديو قديم حيث تم نشره في العام السابق.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/syriahro/videos/25217609747913534/",
+            "archiveURL": "https://archive.ph/IQJwk",
+            "date": "2026-02-19",
+            "label": "منشور يدعي فيه المرصد خروج الشخص من السجن مرفقاً بمقطع فيديو",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/abo-dujanah-release/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/61562006913543/videos/676362651490924/",
+            "archiveURL": "https://archive.ph/Omp6i",
+            "date": "2025-03-11",
+            "label": "مقطع الفيديو الأصلي قديم يعود للسنة السابقة",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/abo-dujanah-release/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

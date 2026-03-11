@@ -1,0 +1,58 @@
+{
+  "ar": {
+    "slug": "shammar-gov-clashes",
+    "title": "إدعاء حصول اشتباكات بين الدولة وعشيرة شمر",
+    "dateAdded": "2026-02-20",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "rnknews",
+        "description": "ادعت الوكالة أن الحكومة تسعى لنزع سلاح قبيلة شمر وهو ما أدى لحصول اشتباكات واستقدام تعزيزات من الطرفين لكن بحسب الصحف المحلية فالخلاف كان بين عائلتين ويعود إلى نزاع على بئر نفطي قرب قرية كرهوك شمال اليعربية بريف الحسكة حيث بدأ بمشاجرة بين شخصين وتطور إلى اشتباك مسلح بين العائلتين مخلفاً قتلى وجرحى.",
+        "source": [
+          {
+            "url": "https://t.me/RNK21RNK/8295",
+            "archiveURL": "https://archive.ph/q6Ub7",
+            "date": "2026-02-19",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/shammar-gov-clashes/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.enabbaladi.net/796464/%d9%82%d8%aa%d9%84%d9%89-%d8%a8%d8%a7%d9%82%d8%aa%d8%aa%d8%a7%d9%84-%d8%a8%d9%8a%d9%86-%d8%b9%d8%a7%d8%a6%d9%84%d8%aa%d9%8a%d9%86-%d8%ad%d9%88%d9%84-%d8%a8%d8%a6%d8%b1-%d9%86%d9%81%d8%b7%d9%8a-%d9%81/",
+            "archiveURL": "https://archive.ph/X4aEh",
+            "date": "2026-02-20",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/shammar-gov-clashes/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "scharomaroof",
+        "description": "ادعى الناشط أن الدولة تسعى لنزع سلاح عشيرة الشمر وهو ما أدى لحصول اشتباكات واستقدام تعزيزات من الطرفين لكن بحسب الصحف المحلية فالخلاف كان بين عائلتين ويعود إلى نزاع على بئر نفطي قرب قرية كرهوك شمال اليعربية بريف الحسكة حيث بدأ بمشاجرة بين شخصين وتطور إلى اشتباك مسلح بين العائلتين مخلفاً قتلى وجرحى.",
+        "source": [
+          {
+            "url": "https://x.com/scharomaroof/status/2024457603913224221",
+            "archiveURL": "https://archive.ph/ANEwl",
+            "date": "2026-02-19",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/shammar-gov-clashes/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.enabbaladi.net/796464/%d9%82%d8%aa%d9%84%d9%89-%d8%a8%d8%a7%d9%82%d8%aa%d8%aa%d8%a7%d9%84-%d8%a8%d9%8a%d9%86-%d8%b9%d8%a7%d8%a6%d9%84%d8%aa%d9%8a%d9%86-%d8%ad%d9%88%d9%84-%d8%a8%d8%a6%d8%b1-%d9%86%d9%81%d8%b7%d9%8a-%d9%81/",
+            "archiveURL": "https://archive.ph/X4aEh",
+            "date": "2026-02-20",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/shammar-gov-clashes/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

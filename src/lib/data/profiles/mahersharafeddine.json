@@ -22,84 +22,9 @@
       }
     ],
     "cases": [
-      {
-        "title": "تماثيل متحف دمشق الوطني",
-        "description": "قام ماهر بنشر فيديو يظهر بعض التماثيل الأثرية بدون رأس في متحف دمشق الوطني وإدعى أن التماثيل قد قطع رأسها وأن هذا يفسر عدم استخدام صور للآثار على العملة الجديدة لكن الحقيقة أن التماثيل كانت على هذه الحال منذ وضعها في المتحف.",
-        "dateAdded": "2026-01-03",
-        "type": "misinfo",
-        "source": [
-          {
-            "url": "https://www.facebook.com/maher.sharafeddine/posts/pfbid0h25bkfZ84n1Cj7GqQGA2y1z9KkHsbnBiAnUwsr6tcLGRkFjaoY3Aj8JhzFpturZcl",
-            "archiveURL": "https://archive.ph/0SM2N",
-            "date": "2025-12-31",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/mahersharafeddine/cases/statues-museums/source.jpg"
-          }
-        ],
-        "analysis": [
-          {
-            "url": "https://www.verify-sy.com/ar/factcheck/syrian-currency-museum-claims",
-            "archiveURL": "https://web.archive.org/web/20260104153634/https://www.verify-sy.com/ar/factcheck/syrian-currency-museum-claims",
-            "date": "2026-01-01",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/mahersharafeddine/cases/statues-museums/fact.jpg"
-          }
-        ]
-      },
-      {
-        "title": "جثة الشيخ رائد المتني",
-        "description": "حاول ماهر التشكيك بصحة الفيديو وادعى أنه فيديو من العراق ودعى أهل السويداء لإلغاء متابعة الصفحة التي قامت بنشرته إلا أن تحليل الفيديو من قبل فريق 'تأكد' أثبت صحة المقطع المتداول ومطابقته للشيخ المتني.",
-        "dateAdded": "2026-01-03",
-        "type": "misinfo",
-        "source": [
-          {
-            "url": "https://www.facebook.com/maher.sharafeddine/posts/pfbid02q2rsXprr2rDupbHACi1u3TGWDjQwjjdMSQWvtuoYKz93cg49CD87abdfjnT67JFvl",
-            "archiveURL": "https://archive.ph/5Xij6",
-            "date": "2025-12-03",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/mahersharafeddine/cases/raed-almatni-body/source.jpg"
-          }
-        ],
-        "analysis": [
-          {
-            "url": "https://www.verify-sy.com/ar/factcheck/authentic-video-matni",
-            "archiveURL": "https://web.archive.org/web/20260104153300/https://www.verify-sy.com/ar/factcheck/authentic-video-matni",
-            "date": "2025-12-03",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/mahersharafeddine/cases/raed-almatni-body/fact.jpg"
-          }
-        ]
-      },
-      {
-        "title": "إلغاء عقوبات قيصر",
-        "description": "وصف ماهر إلغاء قانون قيصر بالظاهري والشكلي وادعى أن عقوبات قيصر ستعود في حال فشل تنفيذ بعض الشروط لكن هذا الكلام غير دقيق فالقرار غير مشروط وتم رفع عقوبات قيصر بشكل فوري وكامل وهو ما أكدته الخزانة الامريكية بأن العقوبات الشاملة قد رفعت بالفعل.",
-        "dateAdded": "2026-01-03",
-        "type": "misinfo",
-        "source": [
-          {
-            "url": "https://www.facebook.com/maher.sharafeddine/posts/pfbid02uMwQx7PikPtjsc4eSPcrkmJR5PteELHPjnr4EvhViHUobDC8tJfwFXRTHoBVbpaol",
-            "archiveURL": "https://web.archive.org/web/20260104152754/https://www.facebook.com/maher.sharafeddine/posts/1520968329393373?ref=embed_post&_rdc=1&_rdr",
-            "date": "2025-12-11",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/mahersharafeddine/cases/caesar-sanctions-removal/source.jpg"
-          }
-        ],
-        "analysis": [
-          {
-            "url": "https://www.verify-sy.com/ar/factcheck/us-congress-caesar-act-suspension-claim",
-            "archiveURL": "https://web.archive.org/web/20260104151713/https://www.verify-sy.com/ar/factcheck/us-congress-caesar-act-suspension-claim",
-            "date": "2025-12-11",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/mahersharafeddine/cases/caesar-sanctions-removal/fact.jpg"
-          }
-        ]
-      }
+      "statues-museums",
+      "raed-almatni-body",
+      "caesar-sanctions-removal"
     ]
   }
 }

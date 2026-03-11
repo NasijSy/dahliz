@@ -1,0 +1,42 @@
+{
+  "ar": {
+    "slug": "fake-statement-health",
+    "title": "فبركة وثيقة رسمية",
+    "dateAdded": "2026-01-05",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "syriahr",
+        "description": "ضمن مشاركة المرصد بشن هجمة إعلامية استمرت لعدة أيام وشملت نشر شائعات بأن الرئيس الشرع وقيادات من حوله قد تعرضت للأذى قام المرصد بنشر وثيقة مفبركة إدعى أنها صادرة عن وزارة الداخلية تقوم فيها بتبرير عدم ظهور الرئيس للعلن خلال تلك الفترة. لكن وزارة الداخلية نفت البيان وأكدت أنه مفبرك.",
+        "source": [
+          {
+            "url": "https://x.com/syriahr/status/2008141423762420105",
+            "archiveURL": "https://archive.ph/FNWKO",
+            "date": "2026-01-05",
+            "label": "الوثيقة المفبركة التي نشرها المرصد وقال أنها صادرة عن وزارة الداخلية ترد فيها على الشائعات",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/fake-statement-health/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/SyrianMoiSpokes/status/2008184867062690030",
+            "archiveURL": "https://archive.ph/QqvrW",
+            "date": "2026-01-05",
+            "label": "نفى المتحدث باسم وزارة الداخلية وقوع حدث أمني وبين أن البيانات المتداولة مزورة",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/fake-statement-health/fact-1.jpg"
+          },
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/interior-ministry-statement-media-appearance",
+            "archiveURL": "https://web.archive.org/web/20260105194734/https://www.verify-sy.com/ar/factcheck/interior-ministry-statement-media-appearance",
+            "date": "2026-01-05",
+            "label": "تحقيق لفريق تأكد يحلل البيان بصرياً مظهراً الاختلافات مما يثبت أنه مزور",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/fake-statement-health/fact-2.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

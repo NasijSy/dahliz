@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "ilham-ypj-damascus",
+    "title": "تلفيق تصريح لقيادية في قسد",
+    "dateAdded": "2026-01-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "syriatomorrow",
+        "description": "نشرت الصفحة تصريحاً نسبته لإلهام أحمد التي تشغل منصب الرئيس المشارك للإدارة الذاتية في شمال شرق سوريا، تقول فيه حسب زعمهم أن وحدات النخبة النسائية تصل إلى أبعد من دمشق لكن هذا التصريح ملفق ولم يرد عن أي مصدر موثوق.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Coorba.jo/posts/pfbid0Rdoe67Wg2t1CrDmkFYxNcFRMu2WRuNGGxsvZjxmNZQNHi2i1UL49am6kuW7TzqsDl",
+            "archiveURL": "https://archive.ph/qSszu",
+            "date": "2025-11-10",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/ilham-ypj-damascus/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/2511111502",
+            "archiveURL": "https://web.archive.org/web/20260115192134/https://www.verify-sy.com/ar/factcheck/2511111502",
+            "date": "2025-11-11",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/ilham-ypj-damascus/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

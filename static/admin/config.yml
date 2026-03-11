@@ -16,7 +16,175 @@ i18n:
 media_folder: static/media
 public_folder: /media
 
+# ...existing code...
+
 collections:
+  - name: cases
+    label: الحالات الموثقة
+    label_singular: حالة
+    folder: src/lib/data/cases
+    create: true
+    delete: true
+    slug: "{{slug}}"
+    identifier_field: slug
+    format: json
+    extension: json
+    i18n: true
+    fields:
+      - name: slug
+        label: المعرف (Slug)
+        widget: string
+        i18n: duplicate
+        pattern: ['^[a-z0-9-]+$', 'يجب أن يكون المعرف بأحرف صغيرة وأرقام وشرطة فقط']
+
+      - name: title
+        label: العنوان
+        widget: string
+        i18n: true
+
+      - name: dateAdded
+        label: تاريخ الإضافة
+        widget: datetime
+        format: YYYY-MM-DD
+        date_format: YYYY-MM-DD
+        time_format: false
+        i18n: duplicate
+        default: {{now}}
+
+      - name: type
+        label: النوع
+        widget: select
+        options:
+          - { label: تضليل, value: misinfo }
+          - { label: إشاعة, value: rumor }
+          - { label: تحريض, value: hate }
+          - { label: احتيال, value: fraud }
+          - { label: عنف, value: violence }
+          - { label: تشهير, value: defamation }
+        i18n: duplicate
+
+      # Shared media stored once, referenced by all profiles
+      - name: media
+        label: الوسائط المشتركة
+        widget: list
+        required: false
+        i18n: duplicate
+        fields:
+          - name: mediaType
+            label: نوع الوسيط
+            widget: select
+            options:
+              - { label: صورة, value: image }
+              - { label: فيديو, value: video }
+          - name: mediaPath
+            label: مسار الوسيط
+            widget: file
+            # slug is known at collection level — folder is fixed per case entry
+            media_folder: /static/media/cases/{{slug}}
+            public_folder: /media/cases/{{slug}}
+          - name: label
+            label: الوصف
+            widget: string
+            required: false
+            i18n: true
+
+      # Per-profile context: each profile has its own description + sources
+      - name: profiles
+        label: ظهور الحالة عند الحسابات
+        widget: list
+        i18n: true
+        fields:
+          - name: username
+            label: اسم المستخدم
+            widget: string
+            i18n: duplicate
+          - name: description
+            label: الوصف الخاص بهذا الحساب
+            widget: text
+            i18n: true
+          - name: source
+            label: المصادر
+            widget: list
+            i18n: true
+            fields:
+              - name: url
+                label: الرابط
+                widget: string
+                required: false
+              - name: archiveURL
+                label: رابط الأرشيف
+                widget: string
+                required: false
+              - name: date
+                label: التاريخ
+                widget: datetime
+                format: YYYY-MM-DD
+                date_format: YYYY-MM-DD
+                time_format: false
+                required: false
+              - name: label
+                label: الوصف
+                widget: string
+                required: false
+                i18n: true
+              - name: mediaType
+                label: نوع الوسيط
+                widget: select
+                required: false
+                options:
+                  - { label: صورة, value: image }
+                  - { label: فيديو, value: video }
+              - name: mediaPath
+                label: وسيط خاص بهذا المصدر (اختياري)
+                widget: file
+                media_folder: /static/media/cases/{{slug}}
+                public_folder: /media/cases/{{slug}}
+                required: false
+          - name: analysis
+            label: التحليل
+            widget: list
+            required: false
+            i18n: true
+            fields:
+              - name: url
+                label: الرابط
+                widget: string
+                required: false
+              - name: archiveURL
+                label: رابط الأرشيف
+                widget: string
+                required: false
+              - name: date
+                label: التاريخ
+                widget: datetime
+                format: YYYY-MM-DD
+                date_format: YYYY-MM-DD
+                time_format: false
+                required: false
+              - name: label
+                label: الوصف
+                widget: string
+                required: false
+                i18n: true
+              - name: mediaType
+                label: نوع الوسيط
+                widget: select
+                required: false
+                options:
+                  - { label: صورة, value: image }
+                  - { label: فيديو, value: video }
+              - name: mediaPath
+                label: وسيط خاص بهذا التحليل
+                widget: file
+                media_folder: /static/media/cases/{{slug}}
+                public_folder: /media/cases/{{slug}}
+                required: false
+
+
+      # ...existing code...
+      # Replace the embedded cases list with references
+      
+
   - name: profiles
     label: الحسابات
     label_singular: حساب
@@ -122,119 +290,12 @@ collections:
       - name: cases
         label: الحالات الموثقة
         widget: list
-        i18n: true
-        fields:
-          - name: title
-            label: العنوان
-            widget: string
-            i18n: true
-
-          - name: description
-            label: الوصف
-            widget: text
-            i18n: true
-
-          - name: dateAdded
-            label: تاريخ الإضافة
-            widget: datetime
-            format: YYYY-MM-DD
-            date_format: YYYY-MM-DD
-            time_format: false
-            i18n: duplicate
-            default: {{now}}
-
-          - name: type
-            label: النوع
-            widget: select
-            options:
-              - { label: تضليل, value: misinfo }
-              - { label: إشاعة, value: rumor }
-              - { label: تحريض, value: hate }
-              - { label: احتيال, value: fraud }
-              - { label: عنف, value: violence }
-              - { label: تشهير, value: defamation }
-            i18n: duplicate
-
-          - name: source
-            label: المصادر
-            widget: list
-            i18n: true
-            fields:
-              - name: url
-                label: الرابط
-                widget: string
-                required: false
-              - name: archiveURL
-                label: رابط الأرشيف
-                widget: string
-                required: false
-              - name: date
-                label: التاريخ
-                widget: datetime
-                format: YYYY-MM-DD
-                date_format: YYYY-MM-DD
-                time_format: false
-                required: false
-              - name: label
-                label: الوصف
-                widget: string
-                required: false
-                i18n: true
-              - name: mediaType
-                label: نوع الوسيط
-                widget: select
-                required: false
-                options:
-                  - { label: صورة, value: image }
-                  - { label: فيديو, value: video }
-              - name: mediaPath
-                label: مسار الوسيط
-                widget: file
-                media_folder: /static/media/profiles/{{username}}/cases
-                public_folder: /media/profiles/{{username}}/cases
-                required: false
-                hint: "مثال: /media/profiles/syriahr/cases/bashar-mahyob-body/image.jpg"
-
-          - name: analysis
-            label: التحليل
-            widget: list
-            required: false
-            i18n: true
-            fields:
-              - name: url
-                label: الرابط
-                widget: string
-                required: false
-              - name: archiveURL
-                label: رابط الأرشيف
-                widget: string
-                required: false
-              - name: date
-                label: التاريخ
-                widget: datetime
-                format: YYYY-MM-DD
-                date_format: YYYY-MM-DD
-                time_format: false
-                required: false
-              - name: label
-                label: الوصف
-                widget: string
-                required: false
-                i18n: true
-              - name: mediaType
-                label: نوع الوسيط
-                widget: select
-                required: false
-                options:
-                  - { label: صورة, value: image }
-                  - { label: فيديو, value: video }
-              - name: mediaPath
-                label: مسار الوسيط
-                widget: file
-                media_folder: /static/media/profiles/{{username}}/cases
-                public_folder: /media/profiles/{{username}}/cases
-                required: false
-                hint: "مثال: /media/profiles/syriahr/cases/bashar-mahyob-body/image.jpg"
+        i18n: duplicate
+        hint: "أدخل slug الحالة، مثال: bashar-mahyob-body"
+        field:
+          name: slug
+          label: معرف الحالة
+          widget: string
 
   - name: about
     label: صفحة عن المشروع
@@ -248,47 +309,3 @@ collections:
             label: المحتوى
             widget: markdown
             i18n: true
-
-  - name: factCheckingPlatforms
-    label: مواقع التحقق
-    label_singular: موقع تحقق
-    files:
-      - name: platforms
-        label: المواقع
-        file: src/lib/data/factCheckingPlatforms.json
-        format: json
-        i18n: true
-        fields:
-          - name: ar
-            label: المواقع (عربي)
-            widget: list
-            i18n: duplicate
-            fields:
-              - name: name
-                label: الاسم
-                widget: string
-              - name: icon
-                label: الشعار
-                widget: image
-                media_folder: /static/media/icons
-                public_folder: /media/icons
-              - name: description
-                label: الوصف
-                widget: text
-              - name: platforms
-                label: الروابط
-                widget: list
-                fields:
-                  - name: platform
-                    label: المنصة
-                    widget: select
-                    options:
-                      - { label: تويتر / X, value: twitter }
-                      - { label: فيسبوك, value: facebook }
-                      - { label: يوتيوب, value: youtube }
-                      - { label: تيليغرام, value: telegram }
-                      - { label: إنستغرام, value: instagram }
-                      - { label: موقع إلكتروني, value: website }
-                  - name: url
-                    label: الرابط
-                    widget: string

@@ -1,0 +1,66 @@
+{
+  "ar": {
+    "slug": "syrian-army-hasakah-neighborhoods",
+    "title": "إدعاء دخول الجيش السوري لأحياء مدينة الحسكة",
+    "dateAdded": "2026-02-21",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "ar24",
+        "description": "نشر الحساب مقطع فيديو مرفقاً بإدعاء أن الجيش دخل أحياء الحسكة للسيطرة على المدينة لكن الفيديو مولد باستخدام الذكاء الاصطناعي والجيش السوري لم يدخل أحياء مدينة الحسكة بل تم توقيع اتفاق لاندماج قسد ودخلت لاحقاً قوات الأمن لتنسيق العملية.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/61559591626046/videos/1547737689794688",
+            "archiveURL": "https://archive.ph/gl99q",
+            "date": "2026-01-25",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/source.jpg"
+          },
+          {
+            "url": "https://www.facebook.com/61559591626046/videos/1789180891766920/",
+            "archiveURL": "https://archive.ph/gGEGS",
+            "date": "2026-01-15",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/source.jpg"
+          },
+          {
+            "url": "https://www.facebook.com/61559591626046/videos/1789180891766920/",
+            "archiveURL": "https://archive.ph/gGEGS",
+            "date": "2026-01-15",
+            "label": "",
+            "mediaType": "video",
+            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/aleppo-falls-2-years/source.mp4"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "",
+            "archiveURL": "",
+            "date": "2026-02-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/fact.jpg"
+          },
+          {
+            "url": "",
+            "archiveURL": "",
+            "date": "2026-02-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/aleppo-falls-2-years/fact-1.jpg"
+          },
+          {
+            "url": "",
+            "archiveURL": "",
+            "date": "2026-02-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/aleppo-falls-2-years/fact-2.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

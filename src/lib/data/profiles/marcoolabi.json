@@ -22,40 +22,7 @@
       }
     ],
     "cases": [
-      {
-        "title": "إدعاء أن تطبيق شام كاش ليس وطنياً وسيرفراته خارج الحدود السورية",
-        "description": "نشر محمد تحليلاً لتطبيق شام كاش يروج فيه أن التطبيق ليس وطنياً وسيرفراته خارج الحدود السورية دون أدلة تدعم هذا الإدعاء، فبالنظر إلى الدومين الذي يعتمد عليه التطبيق يتبين أنه يقود إلى عنوان إنترنت في سوريا وشركة استضافة تدعى \"هاي سبيد\" مقرها دمشق.",
-        "dateAdded": "2026-03-10",
-        "type": "misinfo",
-        "source": [
-          {
-            "url": "https://www.facebook.com/marco.olabi/posts/pfbid02VaSsGXRQpBmtgozrGwRrXg4QxP8fxP9c7KWnVG8C6xFhR4rY4WvKFWRpHnXDAP5jl",
-            "archiveURL": "https://archive.ph/YvYjI",
-            "date": "2026-03-09",
-            "label": "منشور الإدعاء أن تطبيق شام كاش يستخدم سيرفرات خارج سوريا",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/marcoolabi/cases/source.jpg"
-          }
-        ],
-        "analysis": [
-          {
-            "url": "https://www.nslookup.io/domains/api.shamcash.sy/dns-records/",
-            "archiveURL": "https://archive.ph/wfKej",
-            "date": "2026-03-10",
-            "label": "عنوان الإنترنت الذي يشير إليه الرابط api.shamcash.sy هو 164.138.205.140",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/marcoolabi/cases/fact-1.jpg"
-          },
-          {
-            "url": "https://ipinfo.io/164.138.205.140",
-            "archiveURL": "https://archive.ph/DfX2Q",
-            "date": "2026-03-10",
-            "label": "عنوان الإنترنت يشير إلى سيرفرات في سوريا تتبع شركة highspeed-sy.com",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/marcoolabi/cases/fact-2.jpg"
-          }
-        ]
-      }
+      "sham-cash"
     ]
   }
 }

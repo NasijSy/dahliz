@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "aleppo-military-operation",
+    "title": "مشاركة فيديو قديم عن تحرك عسكري",
+    "dateAdded": "2026-01-08",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "rudaw",
+        "description": "قامت رووداو بنشر مقطع فيديو إدعت أنه لحشود عسكرية تابعة للجيش السوري تتجمع للهجوم خلال الساعات المقبلة لكن تبين أن الفيديو قديم وتم تداوله قبل عدة أشهر.",
+        "source": [
+          {
+            "url": "https://x.com/rudaw_arabic/status/2008980217109598255",
+            "archiveURL": "https://archive.ph/sUxfj",
+            "date": "2026-01-07",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-military-operation/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/100091527296106/videos/1344663090425005/",
+            "archiveURL": "https://archive.ph/zHfg2",
+            "date": "2025-09-29",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-military-operation/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

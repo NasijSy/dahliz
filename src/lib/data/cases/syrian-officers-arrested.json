@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "syrian-officers-arrested",
+    "title": "إدعاء القبض على ثلاثة قياديين في الجيش السوري",
+    "dateAdded": "2026-01-16",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "rnknews",
+        "description": "خلال عملية الجيش السوري ضد قسد في حلب، نشر الحساب صورة لأشخاص معتقلين وعيونهم معصوبة مدعياً أن الوحدات الخاصة التابعة لقسد قامت بأسر ثلاثة قياديين في الجيش السوري لكن الصورة قديمة تعود للعام 2022 وتظهر القبض على عناصر من داعش.",
+        "source": [
+          {
+            "url": "https://x.com/RNK_News_Agency/status/2009717141675880933",
+            "archiveURL": "https://archive.ph/FCHl3",
+            "date": "2026-01-09",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/syrian-officers-arrested/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.kurdistan24.net/en/story/388266",
+            "archiveURL": "https://archive.ph/qllpY",
+            "date": "2022-05-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/syrian-officers-arrested/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "ar": {
+    "slug": "turkey-flags-aleppo",
+    "title": "مسيرة تحمل أعلام تركيا في حي الشيخ مقصود",
+    "dateAdded": "2026-01-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "rojavanetwork",
+        "description": "قام الحساب بالترويج إلى قيام مسيرة ترفع أعلام تركيا ورايات تركمانية بالإضافة لعلم طالبان بالتجول في شوارع حي الشيخ مقصود في حلب بعد عملية الجيش هناك لكن الفيديو قديم يعود إلى فعالية نظمها بعض التركمان في حي التضامن بمدينة دمشق في وقت سابق بذكرى التحرير.",
+        "source": [
+          {
+            "url": "https://x.com/RojavaNetwork/status/2010770254285115881",
+            "archiveURL": "https://archive.ph/Ybd4Z",
+            "date": "2026-01-12",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/turkey-flags-aleppo/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/turkish-flag-video-sheikh-maqsoud",
+            "archiveURL": "http://web.archive.org/web/20260115153458/https://www.verify-sy.com/ar/factcheck/turkish-flag-video-sheikh-maqsoud",
+            "date": "2026-01-14",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/turkey-flags-aleppo/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "rudaw",
+        "description": "قامت القناة بالترويج إلى أن بعض التركمان دخلوا إلى حي الشيخ مقصود في حلب بعد عملية الجيش هناك وحملوا أعلام تركيا لكن الفيديو قديم يعود إلى فعالية نظمها بعض التركمان في حي التضامن بمدينة دمشق في وقت سابق بذكرى التحرير.",
+        "source": [
+          {
+            "url": "https://x.com/Rudawkurdish/status/2011348726300946768",
+            "archiveURL": "https://archive.ph/3ELec",
+            "date": "2026-01-14",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/turkey-flags-aleppo/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/turkish-flag-video-sheikh-maqsoud",
+            "archiveURL": "http://web.archive.org/web/20260115153458/https://www.verify-sy.com/ar/factcheck/turkish-flag-video-sheikh-maqsoud",
+            "date": "2026-01-14",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/turkey-flags-aleppo/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

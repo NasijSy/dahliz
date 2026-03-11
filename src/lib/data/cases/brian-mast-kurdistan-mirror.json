@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "brian-mast-kurdistan-mirror",
+    "title": "تعليق برايان ماست على أحداث الشيخ مقصود",
+    "dateAdded": "2026-01-13",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "syriahr",
+        "description": "ادعى المرصد أن عضو مجلس النواب الأمريكي برايان ماست قد تحدث عن تحطيم أحد الجنود السوريين لمرآة على شكل خريطة كردستان خلال عملية الجيش في حي الشيخ مقصود في حلب، لكن ذلك لم يرد ضمن المقابلة.",
+        "source": [
+          {
+            "url": "https://www.youtube.com/shorts/pkDN8-0em-Y",
+            "archiveURL": "https://archive.ph/nun8M",
+            "date": "2026-01-14",
+            "label": "مقطع فيديو ينسب لبرايان ماست تصريحات تتعلق بحادثة تحطيم خريطة كردستان",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/brian-mast-kurdistan-mirror/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/Brian-Mast-KurdistanMap-Aleppo",
+            "archiveURL": "https://web.archive.org/web/20260115160257/https://www.verify-sy.com/ar/factcheck/Brian-Mast-KurdistanMap-Aleppo",
+            "date": "2026-01-15",
+            "label": "المقطع الأصلي للمقابلة مع برايان ماست حيث لم يتطرق لمشهد تحطيم خريطة كردستان",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/brian-mast-kurdistan-mirror/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

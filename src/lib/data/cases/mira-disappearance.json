@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "mira-disappearance",
+    "title": "إدعاء اختفاء ميرا جلال ثابت على خلفية طائفية",
+    "dateAdded": "2026-02-21",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "wyazbk",
+        "description": "كان وحيد من أوائل الحسابات التي روجت أن الفتاة اختفت وتم اختطافها على خلفية طائفية ليصبح الخبر محط أنظار العالم فيما تبين لاحقاً أن الفتاة قد هربت مع شخص تحبه وتربطهما علاقة وثيقة حيث حاول الشاب التقدم لخطبتها أكثر من مرة لكن أهلها كانوا رافضين ويمارسون الضغوط عليها وظهرت الفتاة لاحقاً في إعلانات تجارية وعدة مقابلات تلفزيونية داعية لتسهيل الزواج بين الطوائف المختلفة ومشجعة من يقعون بالحب ويمرون بمواقف شبيهة على عدم الاستسلام.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/alahteatea/posts/pfbid02skzKzjLvzm9jvvLSSpP859nnVBFTpRafwffEjeAnBpHBNEZbW57xsDhC5DYy6Dyql",
+            "archiveURL": "https://archive.ph/pgxof",
+            "date": "2025-04-27",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/mira-disappearance/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.youtube.com/shorts/tfThRlSrN9w",
+            "archiveURL": "https://archive.ph/01Xdi",
+            "date": "2025-05-11",
+            "label": "",
+            "mediaType": "video",
+            "mediaPath": "/media/cases/mira-disappearance/fact.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

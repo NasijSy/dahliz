@@ -27,84 +27,9 @@
       }
     ],
     "cases": [
-      {
-        "title": "نشر شائعات عن هجوم على القصر الجمهوري وتعرض الرئيس للأذى",
-        "description": "شارك ايدي كوهين بالترويج لإشاعات بأن الرئيس الشرع قد تعرض لإصابة في كمين محكم لكن الصورة معدلة بالذكاء الاصطناعي كما أن الرئيس ظهر للعلن في ذات اليوم مساء.",
-        "dateAdded": "2026-01-05",
-        "type": "misinfo",
-        "source": [
-          {
-            "url": "https://x.com/EdyCohen/status/2008111845954171155",
-            "archiveURL": "https://archive.ph/w6mUT",
-            "date": "2026-01-05",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/edycohen/cases/president-ambush-claim/source.jpg"
-          }
-        ],
-        "analysis": [
-          {
-            "url": "https://www.verify-sy.com/ar/factcheck/palace-assassination-conspiracy",
-            "archiveURL": "https://web.archive.org/web/20260105202807/https://www.verify-sy.com/ar/factcheck/palace-assassination-conspiracy",
-            "date": "2026-01-05",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/edycohen/cases/president-ambush-claim/fact.jpg"
-          }
-        ]
-      },
-      {
-        "title": "إدعاء رفع العلم الإسرائيلي في المظاهرات في إدلب",
-        "description": "نشر ايدي كوهين صورة زعم أنها من إدلب وتظهر رفع العلم الإسرائيلي في إحدى المظاهرات لكن الصورة تم تعديلها والصورة الأصلية ليست في سوريا بل في مصر وتعود لمظاهرة عام 2012 وتم تعديل الصورة واستبدال العلم الفلسطيني ووضع العلم الإسرائيلي مكانه بشكل مضلل.",
-        "dateAdded": "2026-01-15",
-        "type": "misinfo",
-        "source": [
-          {
-            "url": "https://x.com/EdyCohen/status/1959478420754108607",
-            "archiveURL": "https://archive.ph/kfSWV",
-            "date": "2025-08-24",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/edycohen/cases/israeli-flags-revolution-protests/source.jpg"
-          }
-        ],
-        "analysis": [
-          {
-            "url": "https://www.facebook.com/photo/?fbid=266834076724587&set=a.125651527509510",
-            "archiveURL": "https://archive.ph/QXYMp",
-            "date": "2012-03-02",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/edycohen/cases/israeli-flags-revolution-protests/fact.jpg"
-          }
-        ]
-      },
-      {
-        "title": "نسب تصريح مفبرك لوزير الدفاع السوري",
-        "description": "تداول تصريح نسب لوزير الدفاع السوري يبرر فيه عدم قيام إسرائيل باحتلال المزيد من الأراضي السورية لكن التصريح مفبرك حيث لم يعلم مصدره أو لم يرد عن أي مصدر إخباري موثوق.",
-        "dateAdded": "2026-01-15",
-        "type": "rumor",
-        "source": [
-          {
-            "url": "https://www.facebook.com/dredycohen/posts/pfbid03NKf2MPVVoBDtHqkcjnxqKZqrZqnu7EFFfFYkRWT69VYt4x8ffXesuy2CJhpZxshl",
-            "archiveURL": "https://archive.ph/36wSD",
-            "date": "2025-12-19",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/edycohen/cases/minister-defense-israel/source.jpg"
-          }
-        ],
-        "analysis": [
-          {
-            "url": "https://www.verify-sy.com/ar/factcheck/DefenseMinisterClaim-occupied-the-south",
-            "archiveURL": "https://web.archive.org/web/20260115205314/https://www.verify-sy.com/ar/factcheck/DefenseMinisterClaim-occupied-the-south",
-            "date": "2025-12-19",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/edycohen/cases/minister-defense-israel/fact.jpg"
-          }
-        ]
-      }
+      "president-ambush-claim",
+      "israeli-flags-revolution-protests",
+      "minister-defense-israel"
     ]
   }
 }

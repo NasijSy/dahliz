@@ -1,0 +1,90 @@
+{
+  "ar": {
+    "slug": "coast-protests-shooting",
+    "title": "إدعاء إطلاق النار على متظاهرين ووقوع شهداء في مظاهرات في شهر نوفمبر",
+    "dateAdded": "2026-01-04",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "syriahr",
+        "description": "نشر المرصد عدة منشورات يدعى فيها حصول إطلاق نار على المتظاهرين ووقوع شهداء لكن بعد ثبوت عدم صحة وقوع شهداء قام المرصد بحذف المنشورات التي ذكرت ذلك وأبقى على المنشورات التي تزعم بإطلاق نار على المتظاهرين",
+        "source": [
+          {
+            "url": "https://www.facebook.com/watch/?v=2698408823830300",
+            "archiveURL": "https://archive.ph/5SaT6",
+            "date": "2025-11-25",
+            "label": "منشور للمرصد يعترف فيه بأنه نشر إدعاءات لوقوع شهداء دون التحقق من صحتها ثم قام بحذفها لاحقاً",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/coast-protests-shooting/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/report/misinformation-inciting-hate-amid-protests-in-coastal-cities-homs-hama",
+            "archiveURL": "https://web.archive.org/web/20260104154122/https://www.verify-sy.com/ar/report/misinformation-inciting-hate-amid-protests-in-coastal-cities-homs-hama",
+            "date": "2025-11-25",
+            "label": "تحقيق لفريق تأكد يغطي فيه المظاهرات والأخبار التي تم تداولها",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/coast-protests-shooting/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "wyazbk",
+        "description": "روّج وحيد أن الحكومة السورية تقتل المتظاهرين العزل وإدعى سقوط شهداء في تلك المظاهرات لكن الرجل المصاب الذي ظهر في الفيديو ملقاً على الأرض كان في الواقع تعرض لضربة حجر في الرأس نتيجة التصادم مع مسيرات مضادة خرجت في نفس المكان.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/reel/823268267274871/",
+            "archiveURL": "https://web.archive.org/web/20260104155513/https://www.facebook.com/reel/823268267274871/?_rdc=1&_rdr",
+            "date": "2025-11-25",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/coast-protests-shooting/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/report/misinformation-inciting-hate-amid-protests-in-coastal-cities-homs-hama",
+            "archiveURL": "https://web.archive.org/web/20260104154122/https://www.verify-sy.com/ar/report/misinformation-inciting-hate-amid-protests-in-coastal-cities-homs-hama",
+            "date": "2025-11-25",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/coast-protests-shooting/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "xmedia",
+        "description": "روجت المؤسسة لرواية أن الأمن العام قام بإطلاق النار على المتظاهرين والمنازل ونقلت عن روسيا اليوم خبر سقوط عدة ضحايا لكن ذلك لم يثبت.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/xmedia.k/posts/pfbid02w9HxHeRHRTpBRKFfCh6LQbbZmsfioT6zJkXSLnhwEHUi9or7v1zPBFUfTQk4pNYKl",
+            "archiveURL": "https://archive.ph/H64ie",
+            "date": "2025-11-25",
+            "label": "منشور يروج لإدعاء سقوط ثلاثة ضحايا في منطقة دوار الأزهري في مدينة اللاذقية",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/coast-protests-shooting/source-1.jpg"
+          },
+          {
+            "url": "https://www.facebook.com/xmedia.k/posts/pfbid0umKEh4CfFD4kJpPeoRxKqYmBhzqKkebxk7S6g2MoR8RV838Sew8FiigdJKRtJwvvl",
+            "archiveURL": "https://web.archive.org/web/20260104175341/https://www.facebook.com/xmedia.k/posts/pfbid0umKEh4CfFD4kJpPeoRxKqYmBhzqKkebxk7S6g2MoR8RV838Sew8FiigdJKRtJwvvl?_rdc=1&_rdr",
+            "date": "2025-11-25",
+            "label": "منشور يدعي إطلاق النار على المعتصمين وسقوط عشرات الإصابات",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/coast-protests-shooting/source-2.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/report/misinformation-inciting-hate-amid-protests-in-coastal-cities-homs-hama",
+            "archiveURL": "https://web.archive.org/web/20260104154122/https://www.verify-sy.com/ar/report/misinformation-inciting-hate-amid-protests-in-coastal-cities-homs-hama",
+            "date": "2025-11-25",
+            "label": "تحقيق لفريق تأكد يغطي فيه المظاهرات والأخبار التي تم تداولها",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/coast-protests-shooting/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

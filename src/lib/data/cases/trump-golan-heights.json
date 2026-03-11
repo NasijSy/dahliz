@@ -1,0 +1,58 @@
+{
+  "ar": {
+    "slug": "trump-golan-heights",
+    "title": "إدعاء أن ترامب اعترف بسيادة إسرائيل على الجولان حديثاً",
+    "dateAdded": "2026-01-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "mohammed_jajeh",
+        "description": "ادعى الحساب أن الرئيس ترامب أعلن موقفه من هضبة الجولان واعترف بسيادة إسرائيل عليها حديثاً لكن ترامب كان وقع على الاعتراف المقصود في 2019 في ولايته الأولى وخلال حكم بشار الأسد.",
+        "source": [
+          {
+            "url": "https://x.com/mohammed_jajeh/status/1972771238776016951",
+            "archiveURL": "https://archive.ph/n2r2p",
+            "date": "2025-09-30",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/trump-golan-heights/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "archiveURL": "https://web.archive.org/web/20251228213154/https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "date": "2025-12-18",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/trump-golan-heights/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "wyazbk",
+        "description": "إدعى وحيد أن ترامب قام بالاعتراف بسيادة إسرائيل على الجولان بعد سقوط نظام الأسد مهاجماً الحكومة السورية الجديدة لكن ترامب كان وقع على الاعتراف المقصود في 2019 في ولايته الأولى وخلال حكم بشار الأسد.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/alahteatea/posts/pfbid036w3DCczi8toUcByXkrmUutWb2AACrL5M5ju5E6QCYFNNMsgJap1bu2RukhMY5xERl",
+            "archiveURL": "https://web.archive.org/web/20260104154347/https://www.facebook.com/alahteatea/posts/pfbid036w3DCczi8toUcByXkrmUutWb2AACrL5M5ju5E6QCYFNNMsgJap1bu2RukhMY5xERl?_rdc=1&_rdr",
+            "date": "2025-12-17",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/trump-golan-heights/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "archiveURL": "https://web.archive.org/web/20251228213154/https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "date": "2025-12-18",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/trump-golan-heights/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

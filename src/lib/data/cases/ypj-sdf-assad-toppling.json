@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "ypj-sdf-assad-toppling",
+    "title": "تلفيق تصريح لقيادية في وحدات حماية المرأة",
+    "dateAdded": "2026-01-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "syriatomorrow",
+        "description": "نشرت الصفحة تصريحاً نسبته إلى قيادية في وحدات حماية المرأة ضمن قسد، سوزدار حاجي، وزعمت قولها أن قسد كان لها الدور الأكبر في سقوط نظام الأسد لكن التصريح ملفق ولم يرد مثل هذا في المقابلة.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Coorba.jo/posts/pfbid0cbE3EDw1er7nxyZAoisJan6ahUfTqq8hmDxcWpr8uFfPu8hTSaKX7C4FF4X7XcVvl",
+            "archiveURL": "https://archive.ph/FrXf6",
+            "date": "2025-12-14",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/ypj-sdf-assad-toppling/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/suzdar-haji-sdf-assad-defeat-statement-claim",
+            "archiveURL": "https://web.archive.org/web/20260115193908/https://www.verify-sy.com/ar/factcheck/suzdar-haji-sdf-assad-defeat-statement-claim",
+            "date": "2025-12-15",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/ypj-sdf-assad-toppling/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

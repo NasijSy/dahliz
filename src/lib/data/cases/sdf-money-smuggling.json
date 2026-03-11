@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "sdf-money-smuggling",
+    "title": "إدعاء أن تحقيق ل سي ان ان كشف عن تورط قيادات قسد بتهريب أموال",
+    "dateAdded": "2026-01-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "syriatomorrow",
+        "description": "نشرت الصفحة تحقيقاً مزعوماً نسبته ل سي ان ان يتضمن مجموعة من الاتهامات لقيادات من قسد شملت تهريب أموال وتزوير مستندات لكن التحقيق ملفق ولم يظهر له أي أثر في موقع سي ان ان.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Coorba.jo/posts/pfbid0UDKotv1re9dGrNcfcX1keku3v5XRqgu3WPxzdzqWYjNiRwxfRuoBWbZL7UFqfL89l",
+            "archiveURL": "https://archive.ph/ra3yT",
+            "date": "2025-12-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sdf-money-smuggling/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/CNN-Syria-Oil-Smuggling-Probe",
+            "archiveURL": "https://web.archive.org/web/20260115183903/https://www.verify-sy.com/ar/factcheck/CNN-Syria-Oil-Smuggling-Probe",
+            "date": "2025-12-02",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sdf-money-smuggling/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

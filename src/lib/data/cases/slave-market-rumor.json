@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "slave-market-rumor",
+    "title": "سوق النخاسة في إدلب",
+    "dateAdded": "2026-01-04",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "ronahitv",
+        "description": "روّجت القناة لإدعاء يزعم افتتاح ما وُصف بأسواق نخاسة في إدلب لبيع نساء من الطائفة العلوية اختُطفن على يد مجموعات مسلحة دون تقديم أدلة موثّقة.",
+        "source": [
+          {
+            "url": "https://ronahi.tv/ar/archives/276911",
+            "archiveURL": "https://web.archive.org/web/20250711191857/https://ronahi.tv/ar/%d9%81%d9%8a-%d8%ad%d8%a7%d8%af%d8%ab%d8%aa%d9%8a%d9%86-%d9%85%d9%86%d9%81%d8%b5%d9%84%d8%aa%d9%8a%d9%86-%d9%85%d9%82%d8%aa%d9%84-%d8%b4%d8%a7%d8%a8%d9%8a%d9%86-%d8%a8%d8%b1%d8%b5%d8%a7%d8%b5-%d9%85/",
+            "date": "2025-03-24",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/slave-market-rumor/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/report/2505132034",
+            "archiveURL": "https://web.archive.org/web/20260104172926/https://www.verify-sy.com/ar/report/2505132034",
+            "date": "2025-05-13",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/slave-market-rumor/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "hasakah-arabs-massacre",
+    "title": "إدعاء حصول مجزرة في الحسكة راح ضحيتها أكثر من 300 قتيل مدني",
+    "dateAdded": "2026-02-20",
+    "type": "rumor",
+    "profiles": [
+      {
+        "username": "roaastudies",
+        "description": "روج الحساب لحصول مجازر مرعبة في الحسكة ووقوع أكثر من 300 قتيل مدني على يد قسد لأنهم خرجو للاحتفال باقتراب الجيش السوري لكن الأدلة المتداولة حينها كانت ملفقة وأفادت مصادر محلية لمنصة تأكد بوقوع ضحايا في قرية العشرة لكن الأرقام المتداولة مبالغ بها وتشير التحقيقات إلى أن حملة الترويج لحصول المجازر كانت ممنهجة.",
+        "source": [
+          {
+            "url": "https://x.com/Roaastudies/status/2012978301980037365",
+            "archiveURL": "https://archive.ph/JqSIZ",
+            "date": "2026-01-18",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/hasakah-arabs-massacre/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/ahdath-qaryat-al-ashra-hasaka",
+            "archiveURL": "https://web.archive.org/web/20260204214038/https://www.verify-sy.com/ar/factcheck/ahdath-qaryat-al-ashra-hasaka",
+            "date": "2026-01-18",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/hasakah-arabs-massacre/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

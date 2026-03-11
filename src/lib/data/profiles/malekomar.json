@@ -17,58 +17,8 @@
       }
     ],
     "cases": [
-      {
-        "title": "إدعاء رفع علم إسرائيل في بصرى الشام بريف درعا",
-        "description": "قام بالترويج إلى أن الفرقة الثامنة التابعة للقيادي احمد العودة قامت برفع علم إسرائيل في ساحة بصرى الشام ودعوة الكيان للدخول لكن مقطع الفيديو قديم ويعود لرفعه على دوار العنقود في السويداء قبل تاريخه بسنة  كما أن الفرقة الثامنة تم حلها وتسلم أسحلتها منذ شهور.",
-        "dateAdded": "2026-02-20",
-        "type": "misinfo",
-        "source": [
-          {
-            "url": "https://x.com/EngMalek_Omar/status/2024922410516955600",
-            "archiveURL": "https://archive.ph/NnTd3",
-            "date": "2026-02-20",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/malekomar/cases/israeli-flag-daraa/source.jpg"
-          }
-        ],
-        "analysis": [
-          {
-            "url": "https://x.com/ivarmm/status/1896691364555055393",
-            "archiveURL": "https://archive.ph/5pGeG",
-            "date": "2025-03-04",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/malekomar/cases/israeli-flag-daraa/fact.jpg"
-          }
-        ]
-      },
-      {
-        "title": "إدعاء أن دورية إسرائيلية قبضت على عناصر حكومية سورية",
-        "description": "إدعى أن دورية إسرائيلية أجبرت عناصر ينتمون للحكومة السورية على خلع ملابسهم في ريف درعا لكن الصور مولدة باستخدام الذكاء الاصطناعي وتم نشرها سابقاً.",
-        "dateAdded": "2026-02-21",
-        "type": "misinfo",
-        "source": [
-          {
-            "url": "https://x.com/EngMalek_Omar/status/2015738450771681624",
-            "archiveURL": "https://archive.ph/ZZQBc",
-            "date": "2026-01-26",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/malekomar/cases/israel-soldiers-daraa/source.jpg"
-          }
-        ],
-        "analysis": [
-          {
-            "url": "https://www.misbar.com/factcheck/2025/10/01/%D8%B5%D9%88%D8%B1-%D8%A8%D8%A7%D9%84%D8%B0%D9%83%D8%A7%D8%A1-%D8%A7%D9%84%D8%A7%D8%B5%D8%B7%D9%86%D8%A7%D8%B9%D9%8A-%D9%88%D9%84%D9%8A%D8%B3%D8%AA-%D9%84%D8%A7%D8%B9%D8%AA%D9%82%D8%A7%D9%84-%D8%A7%D9%84%D8%AC%D9%8A%D8%B4-%D8%A7%D9%84%D8%A5%D8%B3%D8%B1%D8%A7%D8%A6%D9%8A%D9%84%D9%8A-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D9%85%D9%86-%D8%A7%D9%84%D8%A3%D9%85%D9%86-%D8%A7%D9%84%D8%B3%D9%88%D8%B1%D9%8A",
-            "archiveURL": "https://archive.ph/nLhEe",
-            "date": "2025-10-01",
-            "label": "",
-            "mediaType": "image",
-            "mediaPath": "/media/profiles/malekomar/cases/israel-soldiers-daraa/fact.jpg"
-          }
-        ]
-      }
+      "israeli-flag-daraa",
+      "israel-soldiers-daraa"
     ]
   }
 }

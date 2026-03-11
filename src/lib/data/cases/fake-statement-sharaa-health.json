@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "fake-statement-sharaa-health",
+    "title": "فبركة وثيقة رسمية",
+    "dateAdded": "2026-01-05",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "rojavanetwork",
+        "description": "ضمن مشاركتها بشن هجمة إعلامية استمرت لعدة أيام ركزت على نشر شائعات بحصول هجوم على القصر الرئاسي، قامت الشبكة بنشر وثيقة مفبركة إدعت أنها صادرة عن وزارة الداخلية تقوم فيها بتبرير عدم ظهور الرئيس الشرع للعلن خلال تلك الفترة لكن الورقة لم تنشر عبر قنوات الوزارة وقامت الوزارة بتأكيد أنها مفبركة.",
+        "source": [
+          {
+            "url": "https://x.com/RojavaNetwork/status/2008138229040713935",
+            "archiveURL": "https://archive.ph/fTIdQ",
+            "date": "2026-01-05",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/fake-statement-sharaa-health/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/interior-ministry-statement-media-appearance",
+            "archiveURL": "https://web.archive.org/web/20260105194734/https://www.verify-sy.com/ar/factcheck/interior-ministry-statement-media-appearance",
+            "date": "2026-01-05",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/fake-statement-sharaa-health/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

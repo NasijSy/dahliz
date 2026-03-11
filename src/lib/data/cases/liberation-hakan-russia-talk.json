@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "liberation-hakan-russia-talk",
+    "title": "إدعاء تصريح وزير خارجية تركيا بأنه تم تحييد روسيا وإيران قبل المعركة",
+    "dateAdded": "2026-02-08",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "adbulfattah1",
+        "description": "قام الحساب بالترويج أن حقان فيدان وزير خارجية تركيا ورئيس الاستخبارات الأسبق صرح بأنه تم تحييد روسيا وإيران قبل المعركة لكن بالعودة للمقابلة الأصلية بعد سقوط نظام الأسد يتبين أن هذا الإدعاء مضلل حيث يبين حقان أن اجتماعاتهم كانت خلال العملية وقبيل هروب الأسد وهو يتوافق مع ما أشار إليه الرئيس الشرع أيضاً بأن المفاوضات والعروض بدأت بعد إحراز التقدم والسيطرة على ريف حلب الغربي.",
+        "source": [
+          {
+            "url": "https://x.com/Adbulfattah1/status/1998366850221301849",
+            "archiveURL": "https://archive.ph/j0W8c",
+            "date": "2025-12-09",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/liberation-hakan-russia-talk/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.youtube.com/watch?v=sUQ8J8UBLrM",
+            "archiveURL": "https://web.archive.org/web/20260208130946/https://www.youtube.com/watch?v=sUQ8J8UBLrM",
+            "date": "2024-12-15",
+            "label": "",
+            "mediaType": "video",
+            "mediaPath": "/media/cases/liberation-hakan-russia-talk/fact.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

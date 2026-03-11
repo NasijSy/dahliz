@@ -1,0 +1,42 @@
+{
+  "ar": {
+    "slug": "bashar-mahyob-body",
+    "title": "إدعاء مقتل بشار ميهوب والتمثيل بجثته",
+    "dateAdded": "2026-01-02",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "syriahr",
+        "description": "نشر المرصد عدة إدعاءات عن حادثة في قرية بيت عليان وروج بشدة لرواية أن مقاتلين من أصول أجنبية يعملون ضمن قوات الحكومة السورية قاموا بقتل والتمثيل بجثة شخص ليتبين لاحقاً أنه لم يقتل أصلاً وإنما تم القبض عليه ضمن خلية متهمة بشن هجمات على مواقع عسكرية وقتل عناصر أمن ليقوم بعدها قام المرصد بحذف جميع المنشورات دون أي توضيح.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/photo.php?fbid=1209011477923909&set=pb.100064452053745.-2207520000&type=3",
+            "archiveURL": "https://archive.ph/tX3HR",
+            "date": "2025-08-31",
+            "label": "الصورة التي نشرها المرصد يطالب وزارة الداخلية بالتوضيح والمحاسبة مع إدعاء بانتهاكات وشروط فرضت لمنع العزاء. قام المرصد بحذف البوست لاحقاً.",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/bashar-mahyob-body/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/syrianmoi/posts/1103665605189370",
+            "archiveURL": "https://archive.ph/46Mb0",
+            "date": "2025-09-05",
+            "label": "منشور لوزارة الداخلية ويظهر فيه بشار ميهوب بعد القبض عليه وهو على قيد الحياة ضمن خلية متهمة باغتيال عناصر أمن.",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/bashar-mahyob-body/fact-1.jpg"
+          },
+          {
+            "url": "https://www.verify-sy.com/ar/report/2509052305",
+            "archiveURL": "https://web.archive.org/web/20260104160143/https://www.verify-sy.com/ar/report/2509052305",
+            "date": "2025-09-05",
+            "label": "تحقيق لفريق تأكد يوثق الإدعاءات التي نشرها المرصد ويفندها.",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/bashar-mahyob-body/fact-2.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

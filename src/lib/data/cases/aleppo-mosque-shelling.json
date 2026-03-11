@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "aleppo-mosque-shelling",
+    "title": "استخدام صور قديمة على أنها تظهر قصف قرية الكيارية",
+    "dateAdded": "2026-02-20",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "roaastudies",
+        "description": "نشر الحساب صوراً ادعى أنها تظهر قصف قسد لمسجد قرية الكيارية لكن الصور قديمة تعود لعام 2024 حيث قصف نظام الأسد معهداً لتحفيظ القرآن في أريحا بريف إدلب وهو ما أدى لاستشهاد 3 أطفال.",
+        "source": [
+          {
+            "url": "https://x.com/Roaastudies/status/2008281421371023399",
+            "archiveURL": "https://archive.ph/ZPbnI",
+            "date": "2026-01-05",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-mosque-shelling/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/100090289793934/posts/pfbid0FhEQK4ww4jHPZ56S5uhPM1bXgPRaro4iCe7Zc69TDEsp7zCd2KsUfqFEAvjomfEQl",
+            "archiveURL": "https://archive.ph/GSSoP",
+            "date": "2024-11-26",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-mosque-shelling/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

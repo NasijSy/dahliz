@@ -1,0 +1,74 @@
+{
+  "ar": {
+    "slug": "anas-habra-apology-video",
+    "title": "استخدام مقطع مجتزء لتلفيق تهمة بشخص",
+    "dateAdded": "2026-02-26",
+    "type": "defamation",
+    "profiles": [
+      {
+        "username": "alexmouawad",
+        "description": "نشر لطف الله فيديو يتناول فيه \"فبركة فيديو شتيمة النبي وأحداث صيدنايا\" ويعلق فيه بشكل ساخر على مقطع لأنس هبرة ويتضمن الفيديو إشارة إلى أن أنس يعترف بأنه المسؤول عن الحادثة لكن المقطع مجتزء من مقطع نشره أنس في السنة التي قبلها وقال خلاله \"ما أنا فبركت فيديو...\" وتم اقتطاع هذا الجزء بشكل مضلل واستخدام ما تلاه في محاولة لإظهاره كاعتراف وتلفيق التهمة له.",
+        "source": [
+          {
+            "url": "https://www.instagram.com/p/DVEW8l8DG0L/",
+            "archiveURL": "https://archive.ph/7cPqM",
+            "date": "2026-02-22",
+            "label": "فيديو للطف الله يتهم فيه أنس هبره بالمسؤولية عن فبركة تسجيل شتم الرسول محمد الذي تسبب بغضب شعبي ويحمله مسؤولية ما تبعها ويشهر به بناء على مقطع مجتزء",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/anas-habra-apology-video/source-1.jpg"
+          },
+          {
+            "url": "https://www.instagram.com/p/DVEW8l8DG0L/",
+            "archiveURL": "https://archive.ph/7cPqM",
+            "date": "2026-02-22",
+            "label": "فيديو للطف الله يتهم فيه أنس هبره بالمسؤولية عن فبركة تسجيل شتم الرسول محمد الذي تسبب بغضب شعبي ويحمله مسؤولية ما تبعها ويشهر به بناء على مقطع مجتزء",
+            "mediaType": "video",
+            "mediaPath": "/media/cases/anas-habra-apology-video/source-2.mp4"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.instagram.com/reel/DJrs1MYtaK5/",
+            "archiveURL": "https://archive.ph/8t3Dy",
+            "date": "2025-05-15",
+            "label": "المقطع مجتزء من فيديو أطول نشره أنس السنة اللي قبلها حيث قال عند التوقيت 1:51 في الفيديو الأصلي \"ما أنا فبركت فيديو...\" لكن تم اقتطلع المقطع بداية من \"فبركت\" لوحدها دون السياق التي وردت فيه",
+            "mediaType": "video",
+            "mediaPath": "/media/cases/anas-habra-apology-video/fact.mp4"
+          }
+        ]
+      },
+      {
+        "username": "eiadcharbaji",
+        "description": "نشر إياد مقطع فيديو روج إلى أنه يظهر اعتراف صريحاً لأنس هبرة بفبركة تسجيل مسئ للرسول وكان المنشور يتضمن اتهاماً لأنس يحمله مسؤولية الجرائم الطائفية التي لحقت التسجيل، لكن المقطع مجتزء من مقطع نشره أنس في السنة التي قبلها وقال خلاله \"ما أنا فبركت فيديو...\" وتم اقتطاع هذا الجزء بشكل مضلل واستخدام ما تلاه في محاولة لإظهاره كاعتراف وتلفيق التهمة له.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/100063496719683/videos/893652083570173",
+            "archiveURL": "https://archive.ph/WtVGN",
+            "date": "2026-02-22",
+            "label": "منشور يدعي فيه إياد أن أنس اعترف صراحة بفبركة التسجيل المسئ للرسول مع مقطع فيديو مجتزئ",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/anas-habra-apology-video/source-1.jpg"
+          },
+          {
+            "url": "https://www.facebook.com/100063496719683/videos/893652083570173",
+            "archiveURL": "https://archive.ph/WtVGN",
+            "date": "2026-02-22",
+            "label": "مقطع الفيديو المجتزء المستخدم في المنشور",
+            "mediaType": "video",
+            "mediaPath": "/media/cases/anas-habra-apology-video/source-2.mp4"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.instagram.com/reel/DJrs1MYtaK5/",
+            "archiveURL": "https://archive.ph/8t3Dy",
+            "date": "2025-05-15",
+            "label": "الفيديو كامل الذي نشره أنس السنة اللي قبلها حيث قال عند التوقيت 1:51 في الفيديو الأصلي \"ما أنا فبركت فيديو...\" لكن تم اقتطلع المقطع بداية من \"فبركت\" لوحدها دون السياق التي وردت فيه",
+            "mediaType": "video",
+            "mediaPath": "/media/cases/anas-habra-apology-video/fact.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}
