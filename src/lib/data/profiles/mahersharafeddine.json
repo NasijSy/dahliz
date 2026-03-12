@@ -1,0 +1,29 @@
+{
+  "ar": {
+    "name": "ماهر شرف الدين",
+    "type": "person",
+    "username": "mahersharafeddine",
+    "dateAdded": "2026-01-03",
+    "lastUpdated": "2026-01-03",
+    "summary": "إعلامي سوري من محافظة السويداء كان معارضاً لنظام الأسد",
+    "imagePath": "/media/profiles/mahersharafeddine/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "ماهر شرف الدين",
+        "url": "https://www.facebook.com/maher.sharafeddine"
+      },
+      {
+        "platform": "twitter",
+        "alias": "ماهر شرف الدين",
+        "url": "https://x.com/mahersharafeddi"
+      }
+    ],
+    "cases": [
+      "statues-museums",
+      "raed-almatni-body",
+      "caesar-sanctions-removal"
+    ],
+    "classification": "unreliable"
+  }
+}

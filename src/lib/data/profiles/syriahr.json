@@ -1,0 +1,42 @@
+{
+  "ar": {
+    "username": "syriahr",
+    "name": "المرصد السوري لحقوق الإنسان",
+    "type": "org",
+    "classification": "disinformation",
+    "dateAdded": "2026-01-02",
+    "lastUpdated": "2026-02-20",
+    "summary": "مؤسسة إعلامية يديرها أسامة علي سليمان المعروف بـرامي عبد الرحمن",
+    "imagePath": "/media/profiles/syriahr/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "المرصد السوري لحقوق الإنسان",
+        "url": "https://x.com/syriahr"
+      },
+      {
+        "platform": "website",
+        "alias": "syriahr.com",
+        "url": "https://www.syriahr.com/"
+      },
+      {
+        "platform": "facebook",
+        "alias": "المرصد السوري",
+        "url": "https://www.facebook.com/syriahro"
+      }
+    ],
+    "cases": [
+      "bashar-mahyob-body",
+      "raqqa-education-appointment",
+      "coast-protests-shooting",
+      "presidential-palace-clashes",
+      "fake-statement-sharaa-health",
+      "sheikh-maqsoud-arms-depot-shelling",
+      "brian-mast-kurdistan-mirror",
+      "abo-dujanah-release"
+    ],
+    "tags": [
+      "silent-deletion"
+    ]
+  }
+}

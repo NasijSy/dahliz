@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "sharaa-disappearance",
+    "title": "نشر شائعات عن هجوم على القصر الجمهوري وأن الشرع غادر البلاد",
+    "dateAdded": "2026-01-05",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "rojavanetwork",
+        "description": "شارك الحساب بالترويج لشائعات بحصول هجوم واشتباكات في القصر الرئاسي وأن الرئيس الشرع قد غادر لتركيا لكن الشرع ظهر في اليوم نفسه في دمشق ونفى المتحدث باسم وزارة الداخلية تلك الشائعات.",
+        "source": [
+          {
+            "url": "https://x.com/RojavaNetwork/status/2008005496779809000",
+            "archiveURL": "https://archive.ph/E8phj",
+            "date": "2026-01-05",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sharaa-disappearance/rojavanetwork-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/alsharaa-mezzeh-after-rumors",
+            "archiveURL": "https://web.archive.org/web/20260105212648/https://www.verify-sy.com/ar/factcheck/alsharaa-mezzeh-after-rumors",
+            "date": "2026-01-05",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sharaa-disappearance/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

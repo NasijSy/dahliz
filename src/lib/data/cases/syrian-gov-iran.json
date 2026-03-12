@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "syrian-gov-iran",
+    "title": "إدعاء مقابلة وزير الخارجية السوري مع نظيره الإيراني باستخدام صورة مولدة بالذكاء الاصطناعي",
+    "dateAdded": "2026-01-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "rahmon",
+        "description": "قام عمر رحمون بنشر صورة تظهر وزير الخارجية السوري أسعد الشيباني مع وزير خارجية إيران عباس عراقجي وزعم أنهما التقيا في سلطنة عمان لكن الخبر ليس مدعوم من أي مصدر آخر والصورة نفسها مولدة بواسطة الذكاء الاصطناعي.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/rahmon83/posts/pfbid022bKtQPu5jmJmAhUzKZCmqnrLcdNb8mtjUsk35wVarLhCCeWwakwn4d4EU6pxstCPl",
+            "archiveURL": "https://archive.ph/p12Tb",
+            "date": "2025-11-24",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/syrian-gov-iran/rahmon-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.annahar.com/factcheck/258471/مفاجأة-ديبلوماسية-كبيرة-في-مسقط-لقا-بين-وزيري-خارجية-سوريا-وإيران-النهار-تتحقق-factcheck",
+            "archiveURL": "https://archive.ph/8CA88",
+            "date": "2025-11-25",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/syrian-gov-iran/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

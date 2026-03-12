@@ -1,0 +1,27 @@
+{
+  "ar": {
+    "username": "marcoolabi",
+    "name": "محمد علبي",
+    "type": "person",
+    "dateAdded": "2026-03-10",
+    "lastUpdated": "2026-03-10",
+    "summary": "منسق اللجنة الاقتصادية في التحالف السوري الديمقراطي",
+    "imagePath": "/media/profiles/marcoolabi/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Marco Olabi",
+        "url": "https://www.facebook.com/marco.olabi"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Marco Olabi (Mohammed)",
+        "url": "https://x.com/MarcoOlabi"
+      }
+    ],
+    "cases": [
+      "sham-cash"
+    ],
+    "classification": "reliable"
+  }
+}

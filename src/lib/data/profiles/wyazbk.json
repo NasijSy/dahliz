@@ -1,0 +1,36 @@
+{
+  "ar": {
+    "name": "وحيد يزبك",
+    "type": "person",
+    "username": "wyazbk",
+    "dateAdded": "2026-01-02",
+    "lastUpdated": "2026-02-08",
+    "summary": "صحفي سوري كان عضواً سابقاً في مجلس محافظة حمص ويقيم في لبنان",
+    "imagePath": "/media/profiles/wyazbk/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "الاعلامي وحيد يزبك",
+        "url": "https://www.facebook.com/alahteatea/"
+      },
+      {
+        "platform": "facebook",
+        "alias": "الاعلامي وحيد يزبك البديلة",
+        "url": "https://www.facebook.com/profile.php?id=100064225800896"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Wahid Yazbk وحيد يزبك",
+        "url": "https://x.com/WYazbk"
+      }
+    ],
+    "cases": [
+      "statues-museums",
+      "trump-golan-heights",
+      "coast-protests-shooting",
+      "kurdish-fighters-rape",
+      "mira-disappearance"
+    ],
+    "classification": "unreliable"
+  }
+}

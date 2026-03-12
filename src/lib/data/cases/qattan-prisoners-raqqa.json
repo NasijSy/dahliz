@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "qattan-prisoners-raqqa",
+    "title": "إدعاء أن الحكومة السورية قامت بالإفراج عن جميع السجناء في الرقة",
+    "dateAdded": "2026-02-08",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "adbulfattah1",
+        "description": "قام الحساب بالترويج لقيام الحكومة السورية بالإفراج عن جميع السجناء في الرقة بدون تأهيل لكن الخبر غير صحيح حيث أن الفيديو يعود لقبل السيطرة الفعلية على السجن حين كانت القوات السورية في محيطه تفاوض الحراس التابعين لقسد لتسليمه ويظهر الفيديو أهالي السجناء في محيط السجن وهم ينتظرون فرصة لقاء ذويهم.",
+        "source": [
+          {
+            "url": "https://x.com/Adbulfattah1/status/2014666540675682632",
+            "archiveURL": "https://archive.ph/bGHGd",
+            "date": "2026-01-23",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/qattan-prisoners-raqqa/adbulfattah1-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.youtube.com/watch?v=RK3wogqJFyw",
+            "archiveURL": "https://web.archive.org/web/20260208114630/https://www.youtube.com/watch?v=RK3wogqJFyw",
+            "date": "2026-01-20",
+            "label": "",
+            "mediaType": "video",
+            "mediaPath": "/media/cases/qattan-prisoners-raqqa/fact.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

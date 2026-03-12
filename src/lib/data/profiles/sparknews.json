@@ -1,0 +1,28 @@
+{
+  "ar": {
+    "name": "Spark News",
+    "type": "anon",
+    "username": "sparknews",
+    "dateAdded": "2026-02-15",
+    "lastUpdated": "2026-02-15",
+    "summary": "حساب إعلامي يدار من مقيمين في تركيا",
+    "imagePath": "/media/profiles/sparknews/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "سبارك نيوز - Spark News",
+        "url": "https://www.facebook.com/2030.Spark.News/"
+      },
+      {
+        "platform": "facebook",
+        "alias": "سيرفر+Server",
+        "url": "https://www.facebook.com/Server.Plus.2030"
+      }
+    ],
+    "cases": [
+      "ministry-defense-book",
+      "salary-100-dollars"
+    ],
+    "classification": "reliable"
+  }
+}

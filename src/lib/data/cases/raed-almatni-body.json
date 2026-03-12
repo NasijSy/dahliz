@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "raed-almatni-body",
+    "title": "جثة الشيخ رائد المتني",
+    "dateAdded": "2026-01-03",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "mahersharafeddine",
+        "description": "حاول ماهر التشكيك بصحة الفيديو وادعى أنه فيديو من العراق ودعى أهل السويداء لإلغاء متابعة الصفحة التي قامت بنشرته إلا أن تحليل الفيديو من قبل فريق 'تأكد' أثبت صحة المقطع المتداول ومطابقته للشيخ المتني.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/maher.sharafeddine/posts/pfbid02q2rsXprr2rDupbHACi1u3TGWDjQwjjdMSQWvtuoYKz93cg49CD87abdfjnT67JFvl",
+            "archiveURL": "https://archive.ph/5Xij6",
+            "date": "2025-12-03",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/raed-almatni-body/mahersharafeddine-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/authentic-video-matni",
+            "archiveURL": "https://web.archive.org/web/20260104153300/https://www.verify-sy.com/ar/factcheck/authentic-video-matni",
+            "date": "2025-12-03",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/raed-almatni-body/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

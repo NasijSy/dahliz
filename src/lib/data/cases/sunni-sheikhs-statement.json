@@ -1,0 +1,50 @@
+{
+  "ar": {
+    "slug": "sunni-sheikhs-statement",
+    "title": "بيان علماء من الطائفة السنية ضد مظاهرات",
+    "dateAdded": "2026-01-04",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "xmedia",
+        "description": "نشرت المنصة إدعاءاً بأن عدداً من كبار علماء أهل السنة أصدرو بياناً يتهمون فيه بعض التيارات بكونها متشددة وتسعى لتمزيق المجتمع، وقاموا بذكر قائمة من العلماء أبرزهم محمد راتب النابلسي لكن عدداً من الشيوخ المذكورين أنكرو هذا البيان المزعوم واعتبروه محاولة للتفرقة. قامت المؤسسة لاحقاً بتعديل المنشور وحذف اسم الشيخ النابلسي.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/xmedia.k/posts/pfbid021jdV8tYDaV8bV1eVRt1VMMyhaQJ7yUs7br3MPwuK932dBJXur8E2GeJ6si4inJKql",
+            "archiveURL": "https://archive.ph/yWs6c",
+            "date": "2025-11-28",
+            "label": "منشور يزعم إصدار عدد من كبار علماء أهل السنة لبيان ويذكر أبرز الشخصيات الموقعة",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sunni-sheikhs-statement/xmedia-source-1.jpg"
+          },
+          {
+            "url": "https://www.facebook.com/xmedia.k/posts/pfbid021jdV8tYDaV8bV1eVRt1VMMyhaQJ7yUs7br3MPwuK932dBJXur8E2GeJ6si4inJKql",
+            "archiveURL": "https://archive.ph/yWs6c",
+            "date": "2025-11-28",
+            "label": "تاريخ تعديل المنشور ويظهر النص الأصلي وهو يذكر بين الشخصيات محمد راتب النابلسي",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sunni-sheikhs-statement/xmedia-source-2.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/MhdRatebNabulsi/posts/pfbid02exXHhWibAFG6khpaqy7B5xwngTvZ3h7ugkUNWe5g4Bq1dGgV9L9ovdo1AtgWUgG1l",
+            "archiveURL": "https://archive.ph/CiEDU",
+            "date": "2025-11-28",
+            "label": "منشور من حساب الدكتور راتب النابلسي ينفي فيه البيان ويدعو للمشاركة بالمظاهرات في وجه دعاة التقسيم",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sunni-sheikhs-statement/fact-1.jpg"
+          },
+          {
+            "url": "https://www.facebook.com/Dralsawaf/posts/1376588567153109",
+            "archiveURL": "https://archive.ph/DtNse",
+            "date": "2025-11-28",
+            "label": "نفي الدكتور محمد شريف الصواف منبهاً أن تلفيق البيان هدفه التفرقة والتجزئة",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sunni-sheikhs-statement/fact-2.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

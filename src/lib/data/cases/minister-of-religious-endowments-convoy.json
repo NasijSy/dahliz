@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "minister-of-religious-endowments-convoy",
+    "title": "ترويج أن موكب حكومي في حمص يعود لوزير الأوقاف",
+    "dateAdded": "2026-02-26",
+    "type": "defamation",
+    "profiles": [
+      {
+        "username": "alexmouawad",
+        "description": "نشر مقطع فيديو يعلق فيه على فيديو متداول لموكب حكومي ويروج أنه بالكامل لوزير الأوقاف لكن الخبر المرافق للفيديو والذي يعتمد عليه لطف الله هو خبر مضلل فالموكب كان يضم عدة شخصيات مثل محافظ حمص بالإضافة لمدير الأمن الداخلي في المحافظة ومدراء أوقاف وشخصيات أخرى كانوا في طريقهم سوياً لحضور حفل رسمي لافتتاح مبنى مديرية الأوقاف في حمص حينها.",
+        "source": [
+          {
+            "url": "https://www.instagram.com/p/DUnzsMhjPL5/",
+            "archiveURL": "",
+            "date": "2026-02-11",
+            "label": "ترويج لإدعاء أن الموكب يعود لوزير الأوقاف",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/minister-of-religious-endowments-convoy/alexmouawad-source-1.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/61578134927809/posts/pfbid0uk9p5E7JSFt5CpKPcw9maNrhaQHc6MKZVfw648TD4Yzdo7E5uMUebxoMvy673qfkl",
+            "archiveURL": "https://web.archive.org/web/20260226025707/https://www.facebook.com/61578134927809/posts/pfbid0uk9p5E7JSFt5CpKPcw9maNrhaQHc6MKZVfw648TD4Yzdo7E5uMUebxoMvy673qfkl?_rdc=1&_rdr",
+            "date": "2026-02-12",
+            "label": "تصريح المتحدث الرسمي باسم وزارة الأوقاف يوضح فيه المناسبة ويرد على الإشاعات المتداولة مبيناً أن الموكب كان يجمع العديد من المسؤولين",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/minister-of-religious-endowments-convoy/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "name": "ايدي كوهين",
+    "type": "person",
+    "username": "edycohen",
+    "dateAdded": "2026-01-05",
+    "lastUpdated": "2026-01-05",
+    "summary": "شخصية إعلامية إسرائيلية تغطي الأحداث في البلدان المجاورة",
+    "imagePath": "/media/profiles/edycohen/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "إيدي كوهين אדי כהן",
+        "url": "https://x.com/EdyCohen"
+      },
+      {
+        "platform": "facebook",
+        "alias": "إيدي كوهين Edy cohen",
+        "url": "https://www.facebook.com/dredycohen"
+      },
+      {
+        "platform": "youtube",
+        "alias": "Edy Cohen ايدي كوهين",
+        "url": "https://www.youtube.com/@EdyCohen"
+      }
+    ],
+    "cases": [
+      "president-ambush-claim",
+      "israeli-flags-revolution-protests",
+      "minister-defense-israel"
+    ],
+    "classification": "unreliable"
+  }
+}

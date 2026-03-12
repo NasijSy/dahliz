@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "aleppo-castle-strike",
+    "title": "قصف طائرة في محيط قلعة حلب",
+    "dateAdded": "2026-01-04",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "ronahitv",
+        "description": "ادعت القناة أن أعمدة الدخانة المتصاعدة من محيط قلعة حلب ناتجة عن استهداف طائرة مجهولة للمكان بينما كان الدخان في الحقيقة ناتجاً عن حريق في معمل إسفنج عند منطقة باب النصر المجاورة لقلعة حلب.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/reel/25155471304135218",
+            "archiveURL": "https://archive.ph/vClXf",
+            "date": "2026-01-02",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-castle-strike/ronahitv-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/aleppo-citadel-airstrike",
+            "archiveURL": "https://web.archive.org/web/20260104161759/https://www.verify-sy.com/ar/factcheck/aleppo-citadel-airstrike",
+            "date": "2026-01-02",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-castle-strike/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

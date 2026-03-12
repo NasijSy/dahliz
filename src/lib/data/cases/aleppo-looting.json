@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "aleppo-looting",
+    "title": "فيديو مضلل لتعفيش في حي الشيخ مقصود",
+    "dateAdded": "2026-01-16",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "rnknews",
+        "description": "نشر الحساب مقطع فيديو لأشخاص يحملون بعض الأدوات المنزلية من سيارة وادعى أنه يوثق سرقات وتعفيش في حي الشيخ مقصود في حلب لكن الفيديو مضلل ويعود لوقفة احتجاجية أمام مقر لجنة مكافحة الكسب غير المشروع في دمشق اعتراضاً على تسوية رجل الأعمال محمد حمشو ومطالبين بالعدالة.",
+        "source": [
+          {
+            "url": "https://x.com/RNK_News_Agency/status/2011478070893404666?s=20",
+            "archiveURL": "https://archive.ph/hSkL8",
+            "date": "2026-01-14",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-looting/rnknews-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/items-from-sheikh-maqsoud",
+            "archiveURL": "http://web.archive.org/web/20260116014945/https://www.verify-sy.com/ar/factcheck/items-from-sheikh-maqsoud",
+            "date": "2026-01-15",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-looting/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

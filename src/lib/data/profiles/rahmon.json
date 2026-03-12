@@ -1,0 +1,30 @@
+{
+  "ar": {
+    "name": "عمر رحمون",
+    "type": "person",
+    "username": "rahmon",
+    "dateAdded": "2026-01-05",
+    "lastUpdated": "2026-01-15",
+    "summary": "إعلامي سوري أجرى تسوية أمنية مع نظام الأسد في عام 2016",
+    "imagePath": "/media/profiles/rahmon/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "عمر رحمون",
+        "url": "https://x.com/Rahmon83"
+      },
+      {
+        "platform": "facebook",
+        "alias": "عمر رحمون",
+        "url": "https://www.facebook.com/rahmon83/"
+      }
+    ],
+    "cases": [
+      "sharaa-death",
+      "sharaa-interview",
+      "syrian-gov-iran",
+      "jolani-death"
+    ],
+    "classification": "unreliable"
+  }
+}

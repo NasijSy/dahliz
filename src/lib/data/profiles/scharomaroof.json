@@ -1,0 +1,25 @@
+{
+  "ar": {
+    "name": "Scharo Maroof",
+    "type": "person",
+    "username": "scharomaroof",
+    "dateAdded": "2026-01-08",
+    "lastUpdated": "2026-02-20",
+    "summary": "ناشط كردي يقيم في ألمانيا",
+    "imagePath": "/media/profiles/scharomaroof/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "ScharoMaroof",
+        "url": "https://x.com/ScharoMaroof"
+      }
+    ],
+    "cases": [
+      "sheikh-maqsoud-arms-depot-shelling",
+      "ministry-defense-patch",
+      "mosque-military-site",
+      "shammar-gov-clashes"
+    ],
+    "classification": "reliable"
+  }
+}

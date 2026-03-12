@@ -1,0 +1,24 @@
+{
+  "ar": {
+    "name": "AR24",
+    "type": "anon",
+    "username": "ar24",
+    "dateAdded": "2026-02-21",
+    "lastUpdated": "2026-02-21",
+    "summary": "حساب إعلامي يعتمد على فيديوهات مولدة باستخدام الذكاء الاصطناعي",
+    "imagePath": "/media/profiles/ar24/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "AR24",
+        "url": "https://www.facebook.com/profile.php?id=61559591626046"
+      }
+    ],
+    "cases": [
+      "army-enter-hasakah",
+      "syrian-army-hasakah-neighborhoods",
+      "aleppo-falls-2-years"
+    ],
+    "classification": "unreliable"
+  }
+}

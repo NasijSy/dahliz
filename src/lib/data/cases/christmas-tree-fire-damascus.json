@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "christmas-tree-fire-damascus",
+    "title": "إدعاء أن حرق شجرة عيد الميلاد كان مفتعلاً",
+    "dateAdded": "2026-01-14",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "roaastudies",
+        "description": "تعرضت شجرة عيد ميلاد في صحنايا نهاية عام 2025 للاشتعال. قام الحساب بالترويج إلى أن الحريق كان مفتعلاً فيما أكد راعي الكنيسة وشهود عيان أنه حادث عرضي نجم عن إطلاق الألعاب النارية وساعد على ذلك أن الزينة كانت سهلة الاشتعال.",
+        "source": [
+          {
+            "url": "https://x.com/Roaastudies/status/2003888956086325415",
+            "archiveURL": "https://archive.ph/IX9zG",
+            "date": "2025-12-24",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/christmas-tree-fire-damascus/roaastudies-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/elianw1/posts/pfbid034ZzisyUH6Uq31yHBmnTuAg6SLaGhuhtUzyuffGaephn53jc9cDhwJKz8va6kcJsnl",
+            "archiveURL": "https://archive.ph/c6fgD",
+            "date": "2025-12-24",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/christmas-tree-fire-damascus/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

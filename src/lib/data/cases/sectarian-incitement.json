@@ -1,0 +1,58 @@
+{
+  "ar": {
+    "slug": "sectarian-incitement",
+    "title": "إدعاء أنه لم تنطلق أي رصاصة من الساحل أو السويداء ضد الدولة قبل حملات التجييش",
+    "dateAdded": "2026-03-10",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "eiadcharbaji",
+        "description": "ضمن منشور عن انتشار الكراهية والتحريض ودور السوشال ميديا في حالة التجييش، ذكر إياد أن التحريض ضد العلويين في الساحل بدأ في شباط  2025 وتكرر المشهد في السويداء في حزيران 2025، لكن تكمن المشكلة بأنه أرفق ذلك بإدعاء مغلوط قال فيه: \"حدث كل ذلك قبل أن يتم اطلاق رصاصة واحدة من الساحل والسويداء ضد الدولة\" وهذا لا يتطابق مع الوقائع على الأرض. فكلا المنطقتين شهدت توترات واعتداءات من قبل مجموعات مسلحة على القوات الحكومية خلال الأشهر الأولى. حيث يذكر من التوترات في الساحل قبل شباط: كمين خربة المعزة بريف طرطوس بتاريخ 25 كانون الأول 2024 والذي أدى لسقوط 14 عنصر من الأمن بالإضافة لهجمات متعددة على الحواجز أحدها في جبلة في شهر كانون الثاني 2025 وأدى لمقتل 2 من عناصر الأمن وجرح آخرين. كذلك السويداء بقيت خارج سيطرة الدولة وكانت الأحداث في تصاعد مستمر مع عدة هجمات قبل حزيران حيث بدأت الاحتكاكات بقيام مجموعات درزية بقتل عنصر من وزارة الدفاع كان داخلاً إلى جرمانا في شهر شباط بالإضافة لتعطيل الهجري لأي اتفاق مع تصريحاته بأنه \"لا وفاق ولا توافق\" وتصعيد شمل تشكيل المجلس العسكري في السويداء في شباط وإرسال رتل عسكري من السويداء لمؤازرة المليشيات في صحنايا في شهر نيسان كما كان هناك هجوم في شهر آيار في قرية الدور بريف السويداء على دورية أمنية.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/100063496719683/posts/pfbid09UHk6c55vmeCPZenZbMYk7tNytn6uNCdV8opK1rgXv4uuit6K9SuXd3tVAdHR3wyl",
+            "archiveURL": "https://archive.ph/xOQhS",
+            "date": "2026-02-13",
+            "label": "المنشور الذي يتناول فيه التحريض في شباط وحزيران مع إدعاء بعدم إطلاق رصاصة واحدة قبلها",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sectarian-incitement/eiadcharbaji-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.skynewsarabia.com/middle-east/1764601-%D8%B3%D9%88%D8%B1%D9%8A%D8%A7-%D9%85%D9%82%D8%AA%D9%84-14-%D8%B9%D9%86%D8%A7%D8%B5%D8%B1-%D9%88%D8%B2%D8%A7%D8%B1%D8%A9-%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A%D8%A9-%D9%83%D9%85%D9%8A%D9%86-%D8%A8%D8%B7%D8%B1%D8%B7%D9%88%D8%B3",
+            "archiveURL": "https://archive.ph/9c26X",
+            "date": "2024-12-26",
+            "label": "كمين خربة المعزة بريف طرطوس يودي بحياة 14 عنصر من الأمن بتاريخ 25 كانون الأول 2024",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sectarian-incitement/fact-1.jpg"
+          },
+          {
+            "url": "https://www.aljazeera.net/news/2025/1/22/قتيلان-من-قوات-الحكومة-السورية-برصاص",
+            "archiveURL": "https://archive.is/buFWn",
+            "date": "2025-01-22",
+            "label": "مقتل عنصرين من القوات الحكومية في هجوم في منطقة جبلة بريف اللاذقية في شهر كانون الثاني",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sectarian-incitement/fact-2.jpg"
+          },
+          {
+            "url": "https://www.facebook.com/enab.baladi/posts/pfbid028URLEFzVVA5M2o5CEo9KoQUu8yRTvnpjUKKbjTGgEXWrXy56WcZ1D2oZh3dwb6yCl",
+            "archiveURL": "https://archive.ph/PmIqG",
+            "date": "2025-05-07",
+            "label": "كمين نفذته المليشيات الدرزية في ريف السويداء راح ضحيته عنصرين وأدى لإصابة أربعة آخرين في شهر آيار 2025",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sectarian-incitement/fact-3.jpg"
+          },
+          {
+            "url": "https://www.enabbaladi.net/741947/%D9%87%D8%AF%D9%88%D8%A1-%D8%AD%D8%B0%D8%B1-%D9%81%D9%8A-%D8%AC%D8%B1%D9%85%D8%A7%D9%86%D8%A7-%D8%A7%D9%84%D9%82%D8%B5%D8%A9-%D8%A7%D9%84%D9%83%D8%A7%D9%85%D9%84%D8%A9-%D9%84%D9%84%D8%AA%D9%88%D8%AA/",
+            "archiveURL": "https://archive.ph/imwUz",
+            "date": "2025-03-01",
+            "label": "مقتل عنصر بوزارة الدفاع السورية وإصابة آخر في جرمانا في شهر شباط",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sectarian-incitement/fact-4.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

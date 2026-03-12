@@ -1,0 +1,30 @@
+{
+  "ar": {
+    "username": "syriatomorrow",
+    "name": "سوريا الغد",
+    "type": "anon",
+    "classification": "unreliable",
+    "dateAdded": "2026-01-15",
+    "lastUpdated": "2026-01-15",
+    "summary": "صفحة تدار من الأردن وتنتحل اسم وشعار منظمة سورية مستقلة",
+    "imagePath": "/media/profiles/syriatomorrow/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "سوريا الغد",
+        "url": "https://www.facebook.com/Coorba.jo"
+      }
+    ],
+    "cases": [
+      "female-kurdish-fighters-prisoners",
+      "mazloum-abdi-aleppo",
+      "ypj-sdf-assad-toppling",
+      "ilham-ypj-damascus",
+      "sdf-money-smuggling"
+    ],
+    "tags": [
+      "engagement-farming",
+      "fake-identity"
+    ]
+  }
+}

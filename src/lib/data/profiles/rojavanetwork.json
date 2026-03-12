@@ -1,0 +1,24 @@
+{
+  "ar": {
+    "name": "Rojava Network",
+    "type": "anon",
+    "username": "rojavanetwork",
+    "dateAdded": "2026-01-05",
+    "lastUpdated": "2026-01-05",
+    "summary": "حساب إخباري يديره شخص مقيم في أوربا",
+    "imagePath": "/media/profiles/rojavanetwork/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "Rojava Network",
+        "url": "https://x.com/RojavaNetwork"
+      }
+    ],
+    "cases": [
+      "sharaa-disappearance",
+      "fake-statement-sharaa-health",
+      "turkey-flags-aleppo"
+    ],
+    "classification": "unreliable"
+  }
+}

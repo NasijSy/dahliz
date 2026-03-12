@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "syrian-army-hasakah-neighborhoods",
+    "title": "إدعاء دخول الجيش السوري لأحياء مدينة الحسكة",
+    "dateAdded": "2026-02-21",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "ar24",
+        "description": "نشر الحساب مقطع فيديو مرفقاً بإدعاء أن الجيش دخل أحياء الحسكة للسيطرة على المدينة لكن الفيديو مولد باستخدام الذكاء الاصطناعي والجيش السوري لم يدخل أحياء مدينة الحسكة بل تم توقيع اتفاق لاندماج قسد ودخلت لاحقاً قوات الأمن لتنسيق العملية.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/61559591626046/videos/1547737689794688",
+            "archiveURL": "https://archive.ph/gl99q",
+            "date": "2026-01-25",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/ar24-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "",
+            "archiveURL": "",
+            "date": "2026-02-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/syrian-army-hasakah-neighborhoods/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

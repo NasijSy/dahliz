@@ -1,0 +1,50 @@
+{
+  "ar": {
+    "slug": "aleppo-falls-2-years",
+    "title": "إدعاء أن الجيش سيطر على كامل حلب بعد حصار دام سنتين من سقوط الأسد",
+    "dateAdded": "2026-02-21",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "ar24",
+        "description": "نشر الحساب مقطع فيديو مرفقاً بإدعاء أن الجيش دخل أحياء الحسكة للسيطرة على المدينة لكن الفيديو مولد باستخدام الذكاء الاصطناعي والجيش السوري لم يدخل أحياء مدينة الحسكة بل تم توقيع اتفاق لاندماج قسد ودخلت لاحقاً قوات الأمن لتنسيق العملية.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/61559591626046/videos/1789180891766920/",
+            "archiveURL": "https://archive.ph/gGEGS",
+            "date": "2026-01-15",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-falls-2-years/ar24-source.jpg"
+          },
+          {
+            "url": "https://www.facebook.com/61559591626046/videos/1789180891766920/",
+            "archiveURL": "https://archive.ph/gGEGS",
+            "date": "2026-01-15",
+            "label": "",
+            "mediaType": "video",
+            "mediaPath": "/media/cases/aleppo-falls-2-years/ar24-source.mp4"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "",
+            "archiveURL": "",
+            "date": "2026-02-08",
+            "label": "نصوص يفترض أنها تشير إلى أماكن لكنها غير مفهومة",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-falls-2-years/fact-1.jpg"
+          },
+          {
+            "url": "",
+            "archiveURL": "",
+            "date": "2026-02-08",
+            "label": "نتيجة التحقق بأحد أدوات اكتشاف إذا ما كان الفيديو مولداً باستخدام الذكاء الاصطناعي تظهر احتمالية عالية",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-falls-2-years/fact-2.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ar": {
+    "name": "Karim Franceschi",
+    "type": "person",
+    "username": "karimfranceschi",
+    "dateAdded": "2025-12-31",
+    "lastUpdated": "2026-01-13",
+    "summary": "ناشط وكاتب إيطالي كان مقاتلاً في وحدات حماية الشعب",
+    "imagePath": "/media/profiles/karimfranceschi/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "Karim Franceschi",
+        "url": "https://x.com/karimfranceschi"
+      }
+    ],
+    "cases": [
+      "palmyra-attack",
+      "female-kurdish-fighters-prisoners"
+    ],
+    "classification": "unreliable"
+  }
+}

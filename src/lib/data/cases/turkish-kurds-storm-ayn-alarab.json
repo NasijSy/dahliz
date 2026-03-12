@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "turkish-kurds-storm-ayn-alarab",
+    "title": "إدعاء دخول أكراد تركيا إلى عين عرب بريف حلب",
+    "dateAdded": "2026-02-21",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "xmedia",
+        "description": "قام الحساب بمشاركة مقطع فيديو أرفقه بتاريخ حديث وادعى أنه في حلب ويظهر دخول أكراد تركيا إلى عين العرب فيما تبين أن المقطع قديم يعود نشره لعام 2023 وهو مصور في مقاطعة نمانغان في شمال أوزبكستان ويظهر نادياً يدعى 'dengiz tulpori' يستضيف رياضة تقليدية للخيول شائعة في دول آسيا الوسطى تدعى 'Kok-borou' ولا علاقة للمقطع بسوريا.",
+        "source": [
+          {
+            "url": "https://x.com/X_news_media/status/2013517796336980133",
+            "archiveURL": "https://archive.ph/Cn1UI",
+            "date": "2026-01-20",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/turkish-kurds-storm-ayn-alarab/xmedia-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.instagram.com/ildar___aylin/reel/CnpwXOMoZOn/",
+            "archiveURL": "https://perma.cc/WHB5-7F37",
+            "date": "2023-01-20",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/turkish-kurds-storm-ayn-alarab/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

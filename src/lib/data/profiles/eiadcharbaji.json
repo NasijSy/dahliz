@@ -1,0 +1,23 @@
+{
+  "ar": {
+    "username": "eiadcharbaji",
+    "name": "إياد شربجي",
+    "type": "person",
+    "dateAdded": "2026-03-10",
+    "lastUpdated": "2026-03-10",
+    "summary": "صحفي سوري ساهم في تأسيس رابطة الصحفيين السوريين",
+    "imagePath": "/media/profiles/eiadcharbaji/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Eiad Charbaji - إياد شربجي",
+        "url": "https://www.facebook.com/profile.php?id=100063496719683"
+      }
+    ],
+    "cases": [
+      "anas-habra-apology-video",
+      "sectarian-incitement"
+    ],
+    "classification": "reliable"
+  }
+}

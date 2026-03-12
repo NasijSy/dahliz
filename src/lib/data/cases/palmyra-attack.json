@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "palmyra-attack",
+    "title": "هجوم تدمر 2025",
+    "dateAdded": "2026-01-04",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "karimfranceschi",
+        "description": "قام كريم بنشر تغريدة ادعى فيها أن منفذ الهجوم في تدمر هو شخص قريب من الرئيس الشرع وحاشيته وحاول إلفاق تهمة العمل الإرهابي بشخص بريء دون أي دليل وشمل ادعاءه تفاصيل كاذبة أخرى حول العملية حيث أن المهاجم لم يفجر نفسه.",
+        "source": [
+          {
+            "url": "https://x.com/karimfranceschi/status/1999871444524699716",
+            "archiveURL": "https://archive.ph/lLNOy",
+            "date": "2025-12-13",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/palmyra-attack/karimfranceschi-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/MisleadingTadmorImage",
+            "archiveURL": "https://web.archive.org/web/20260104143005/https://www.verify-sy.com/ar/factcheck/MisleadingTadmorImage",
+            "date": "2025-12-13",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/palmyra-attack/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

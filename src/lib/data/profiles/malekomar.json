@@ -1,0 +1,23 @@
+{
+  "ar": {
+    "name": "Malek Omar",
+    "type": "person",
+    "username": "malekomar",
+    "dateAdded": "2026-02-20",
+    "lastUpdated": "2026-02-21",
+    "summary": "ناشط كردي يعمل كمهندس أنظمة تقنية في أوربا",
+    "imagePath": "/media/profiles/malekomar/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "Eng Malek Omar",
+        "url": "https://x.com/EngMalek_Omar"
+      }
+    ],
+    "cases": [
+      "israeli-flag-daraa",
+      "israel-soldiers-daraa"
+    ],
+    "classification": "reliable"
+  }
+}

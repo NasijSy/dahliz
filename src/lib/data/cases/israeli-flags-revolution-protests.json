@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "israeli-flags-revolution-protests",
+    "title": "إدعاء رفع العلم الإسرائيلي في المظاهرات في إدلب",
+    "dateAdded": "2026-01-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "edycohen",
+        "description": "نشر ايدي كوهين صورة زعم أنها من إدلب وتظهر رفع العلم الإسرائيلي في إحدى المظاهرات لكن الصورة تم تعديلها والصورة الأصلية ليست في سوريا بل في مصر وتعود لمظاهرة عام 2012 وتم تعديل الصورة واستبدال العلم الفلسطيني ووضع العلم الإسرائيلي مكانه بشكل مضلل.",
+        "source": [
+          {
+            "url": "https://x.com/EdyCohen/status/1959478420754108607",
+            "archiveURL": "https://archive.ph/kfSWV",
+            "date": "2025-08-24",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/israeli-flags-revolution-protests/edycohen-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/photo/?fbid=266834076724587&set=a.125651527509510",
+            "archiveURL": "https://archive.ph/QXYMp",
+            "date": "2012-03-02",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/israeli-flags-revolution-protests/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

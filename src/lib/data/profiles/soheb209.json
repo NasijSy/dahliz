@@ -1,0 +1,27 @@
+{
+  "ar": {
+    "name": "صهيب اليعربي",
+    "type": "anon",
+    "username": "soheb209",
+    "dateAdded": "2026-02-06",
+    "lastUpdated": "2026-02-07",
+    "summary": "ناشط سوري مقيم في أوربا يغطي أخبار منطقة الجزيرة السورية",
+    "imagePath": "/media/profiles/soheb209/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "صهيب اليعربي",
+        "url": "https://x.com/SOHEB209"
+      },
+      {
+        "platform": "facebook",
+        "alias": "صهيب اليعربي",
+        "url": "https://www.facebook.com/Soheb903/"
+      }
+    ],
+    "cases": [
+      "sipan-hamo-death"
+    ],
+    "classification": "reliable"
+  }
+}

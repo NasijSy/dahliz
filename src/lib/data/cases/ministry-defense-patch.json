@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "ministry-defense-patch",
+    "title": "إدعاء وجود عناصر لداعش بين صفوف الجيش بناء على صورة غير واضحة",
+    "dateAdded": "2026-01-13",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "scharomaroof",
+        "description": "قام بالترويج بوجود عناصر لداعش يقاتلون ضمن الجيش السوري بناء على صورة غير واضحة لشارة يرتديها أحد الجنود لكن بالعودة للبث الأصلي بدقة أعلى نجد الرمز أكثر وضوحاً وهو الشعار الرسمي للدولة ويرتديه كثير من قوى الأمن بأشكال مختلفة.",
+        "source": [
+          {
+            "url": "https://x.com/ScharoMaroof/status/2008911589240398206",
+            "archiveURL": "https://archive.ph/lELQu",
+            "date": "2026-01-07",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/ministry-defense-patch/scharomaroof-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/aljazeerachannel/videos/2989787778077795/",
+            "archiveURL": "https://web.archive.org/web/20260115170029/https://www.facebook.com/aljazeerachannel/videos/2989787778077795/",
+            "date": "2026-01-07",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/ministry-defense-patch/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

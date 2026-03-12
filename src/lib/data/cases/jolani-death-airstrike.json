@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "jolani-death-airstrike",
+    "title": "إدعاء مقتل قائد هيئة تحرير الشام في غارة روسية",
+    "dateAdded": "2026-01-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "mohammed_jajeh",
+        "description": "ادعى الحساب أن جبهة النصرة نعت الجولاني وشارك صورة من البيان المزعوم لكن البيان مفبرك.",
+        "source": [
+          {
+            "url": "https://x.com/mohammed_jajeh/status/1863230238009761898",
+            "archiveURL": "https://archive.ph/uCxml",
+            "date": "2024-12-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/jolani-death-airstrike/mohammed_jajeh-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://arabic.cnn.com/middle-east/article/2024/12/02/factchecking-hts-aleppo-al-julani",
+            "archiveURL": "https://web.archive.org/web/20241202125427/https://arabic.cnn.com/middle-east/article/2024/12/02/factchecking-hts-aleppo-al-julani",
+            "date": "2024-12-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/jolani-death-airstrike/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

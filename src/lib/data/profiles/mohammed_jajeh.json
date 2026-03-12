@@ -1,0 +1,31 @@
+{
+  "ar": {
+    "name": "Mohammed Al-Jajeh",
+    "type": "person",
+    "username": "mohammed_jajeh",
+    "dateAdded": "2026-01-15",
+    "lastUpdated": "2026-02-08",
+    "summary": "إعلامي مؤيد لنظام الأسد يقيم في الأردن",
+    "imagePath": "/media/profiles/mohammed_jajeh/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Mohammed Al-Jajeh",
+        "url": "https://www.facebook.com/people/Mohammed-Al-Jajeh/61575661776270/"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Mohammed Al-Jajeh",
+        "url": "https://x.com/mohammed_jajeh"
+      }
+    ],
+    "cases": [
+      "jolani-death-airstrike",
+      "jolani-photo-sudan",
+      "trump-golan-heights",
+      "sharaa-fall-white-house",
+      "aleppo-women-dress"
+    ],
+    "classification": "unreliable"
+  }
+}

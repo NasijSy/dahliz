@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "kurdish-fighters-rape",
+    "title": "إدعاء حصول جريمة اغتصاب بجثث نساء كرديات",
+    "dateAdded": "2026-02-08",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "wyazbk",
+        "description": "قام وحيد بالترويج لحصول جريمة اغتصاب جثث فتيات كرديات مع صور مغبشة لمظاهر صادمة لكن تبين أن الصور قديمة ونشرت في إحدى المواقع قبل سنوات.",
+        "source": [
+          {
+            "url": "https://x.com/WYazbk/status/2015030695400177883",
+            "archiveURL": "https://archive.ph/5sYrJ",
+            "date": "2026-01-24",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/kurdish-fighters-rape/wyazbk-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/sexual-assault-kurdish-girls-photos",
+            "archiveURL": "https://web.archive.org/web/20260125195241/https://www.verify-sy.com/ar/factcheck/sexual-assault-kurdish-girls-photos",
+            "date": "2026-01-25",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/kurdish-fighters-rape/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

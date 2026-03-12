@@ -1,0 +1,17 @@
+{
+    "name": "dahliz",
+    "main": ".svelte-kit/cloudflare/_worker.js",
+    "compatibility_date": "2026-01-16",
+    "compatibility_flags": ["nodejs_compat"],
+    "assets": {
+        "binding": "ASSETS",
+        "directory": ".svelte-kit/cloudflare",
+    },
+    "d1_databases": [
+		{
+            "binding": "dahliz_reports",
+            "database_name": "dahliz-reports",
+            "database_id": "f5454436-f69f-41e8-ab40-1c50ca2df0f4"
+		}
+	]
+}

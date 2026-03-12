@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "president-ambush-claim",
+    "title": "نشر شائعات عن هجوم على القصر الجمهوري وتعرض الرئيس للأذى",
+    "dateAdded": "2026-01-05",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "edycohen",
+        "description": "شارك ايدي كوهين بالترويج لإشاعات بأن الرئيس الشرع قد تعرض لإصابة في كمين محكم لكن الصورة معدلة بالذكاء الاصطناعي كما أن الرئيس ظهر للعلن في ذات اليوم مساء.",
+        "source": [
+          {
+            "url": "https://x.com/EdyCohen/status/2008111845954171155",
+            "archiveURL": "https://archive.ph/w6mUT",
+            "date": "2026-01-05",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/president-ambush-claim/edycohen-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/palace-assassination-conspiracy",
+            "archiveURL": "https://web.archive.org/web/20260105202807/https://www.verify-sy.com/ar/factcheck/palace-assassination-conspiracy",
+            "date": "2026-01-05",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/president-ambush-claim/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

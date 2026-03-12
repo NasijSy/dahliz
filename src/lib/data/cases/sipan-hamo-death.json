@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "sipan-hamo-death",
+    "title": "إدعاء مقتل قائد وحدات حماية الشعب سيبان حمو",
+    "dateAdded": "2026-02-07",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "soheb209",
+        "description": "قام بالترويج أن القائد في قوات قسد سيبان حمو قد لقي مصرعه وأن الخبر مؤكد لكن تبين أن الخبر عار عن الصحة حيث ظهر حمو بعدها في عدة لقاءات منها لقاء مع قوات الحكومة السورية",
+        "source": [
+          {
+            "url": "https://x.com/SOHEB209/status/2013907509908480364",
+            "archiveURL": "https://archive.ph/nEzIv",
+            "date": "2026-01-21",
+            "label": "منشور يدّعي فيه صهيب بشكل مؤكد مقتل القيادي سيبان حمو",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sipan-hamo-death/soheb209-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/AlekhbariahSY/status/2019759042294341727",
+            "archiveURL": "https://archive.ph/G83pJ",
+            "date": "2026-02-06",
+            "label": "ظهر سيبان حمو في عدة لقاءات وتم تعيينه لاحقاً معاوناً لوزير الدفاع بعد إبرام اتفاق مع قسد",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sipan-hamo-death/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

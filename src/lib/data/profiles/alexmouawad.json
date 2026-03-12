@@ -1,0 +1,28 @@
+{
+  "ar": {
+    "username": "alexmouawad",
+    "name": "Lutfallah (Alex) Mouawad",
+    "type": "person",
+    "dateAdded": "2026-02-26",
+    "lastUpdated": "2026-02-26",
+    "summary": "كوميدي سوري يقيم في فرنسا ويتناول الأحداث السياسية بطابع ساخر",
+    "imagePath": "/media/profiles/alexmouawad/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Lutfallah Mouawad",
+        "url": "https://www.facebook.com/loutfallah.mouawad/"
+      },
+      {
+        "platform": "instagram",
+        "alias": "alex_mouawad18",
+        "url": "https://www.instagram.com/alex_mouawad18/"
+      }
+    ],
+    "cases": [
+      "minister-of-religious-endowments-convoy",
+      "anas-habra-apology-video"
+    ],
+    "classification": "reliable"
+  }
+}

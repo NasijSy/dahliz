@@ -1,0 +1,32 @@
+{
+  "ar": {
+    "username": "rnknews",
+    "name": "RNK News Agency",
+    "type": "anon",
+    "classification": "disinformation",
+    "dateAdded": "2026-01-16",
+    "lastUpdated": "2026-02-20",
+    "summary": "حساب إعلامي يديره ناشط في أوربا",
+    "imagePath": "/media/profiles/rnknews/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "حساب المؤسس",
+        "url": "https://x.com/ezdi366"
+      },
+      {
+        "platform": "telegram",
+        "alias": "RNK وكالة",
+        "url": "https://t.me/RNK21RNK"
+      }
+    ],
+    "cases": [
+      "aleppo-looting",
+      "syrian-officers-arrested",
+      "shammar-gov-clashes"
+    ],
+    "tags": [
+      "coordinated-amplification"
+    ]
+  }
+}

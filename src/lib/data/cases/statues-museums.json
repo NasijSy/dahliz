@@ -1,0 +1,58 @@
+{
+  "ar": {
+    "slug": "statues-museums",
+    "title": "تماثيل متحف دمشق الوطني",
+    "dateAdded": "2026-01-03",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "mahersharafeddine",
+        "description": "قام ماهر بنشر فيديو يظهر بعض التماثيل الأثرية بدون رأس في متحف دمشق الوطني وإدعى أن التماثيل قد قطع رأسها وأن هذا يفسر عدم استخدام صور للآثار على العملة الجديدة لكن الحقيقة أن التماثيل كانت على هذه الحال منذ وضعها في المتحف.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/maher.sharafeddine/posts/pfbid0h25bkfZ84n1Cj7GqQGA2y1z9KkHsbnBiAnUwsr6tcLGRkFjaoY3Aj8JhzFpturZcl",
+            "archiveURL": "https://archive.ph/0SM2N",
+            "date": "2025-12-31",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/statues-museums/mahersharafeddine-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/syrian-currency-museum-claims",
+            "archiveURL": "https://web.archive.org/web/20260104153634/https://www.verify-sy.com/ar/factcheck/syrian-currency-museum-claims",
+            "date": "2026-01-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/statues-museums/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "wyazbk",
+        "description": "قام وحيد يزبك بنشر فيديو يقوم بالترويج أن بعض التماثيل الأثرية بدون رأس في متحف دمشق الوطني قد تم تخريبها من قبل الحكومة السورية لكن الحقيقة أنها على هذه الحال منذ وضعها في المتحف.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/reel/1374469323785041",
+            "archiveURL": "https://web.archive.org/web/20260104155038/https://www.facebook.com/reel/1374469323785041",
+            "date": "2025-12-31",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/statues-museums/wyazbk-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/syrian-currency-museum-claims",
+            "archiveURL": "https://web.archive.org/web/20260104153634/https://www.verify-sy.com/ar/factcheck/syrian-currency-museum-claims",
+            "date": "2026-01-01",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/statues-museums/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "ar": {
+    "slug": "sheikh-maqsoud-arms-depot-shelling",
+    "title": "تصوير استهداف لمستودع أسلحة على أنه قصف يستهدف المدنيين في حي الشيخ مقصود",
+    "dateAdded": "2026-01-13",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "syriahr",
+        "description": "خلال عملية الجيش السوري ضد قوات موالية لقسد في حلب، قام الجيش بالإعلان عن المواقع العسكرية التي سيقوم باستهدافها مسبقاً مطالباً المدنيين بالابتعاد عنها. أحد هذه المواقع كان يقع بالقرب من المشفى. روج المرصد ضمن حملة إعلامية ممنهجة لرواية قسد على أن المشفى تتعرض للقصف بشكل مستمر وقام باستخدام مقطع فيديو لاستهداف الموقع العسكري القريب وتصويره على أنه استهداف للحي. يظهر مقطع الفيديو تعرض الموقع للقصف ويترافق مع انفجارات مستمرة في المكان وهو ما يشير إلى متفجرات مخزنة في المكان، وبعد الدخول للمنطقة نشرت صور للموقع المستهدف تؤكد طبيعته العسكرية والأسلحة المدمرة التي كانت متمركزة فيه.",
+        "source": [
+          {
+            "url": "https://x.com/syriahr/status/2009649043073310773",
+            "archiveURL": "https://archive.ph/Ed1G5",
+            "date": "2026-01-09",
+            "label": "إدعاء المرصد أن قصفاً عنيفاً يستهدف حي الشيخ مقصود",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sheikh-maqsoud-arms-depot-shelling/syriahr-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/Sana__gov/status/2010342524968431635",
+            "archiveURL": "https://archive.ph/Yo11J",
+            "date": "2026-01-11",
+            "label": "صور من داخل الموقع العسكري المستهدف الذي كان يشتغل في الفيديو",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sheikh-maqsoud-arms-depot-shelling/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "scharomaroof",
+        "description": "خلال عملية الجيش السوري ضد قوات موالية لقسد في حلب، قام الجيش بالإعلان عن المواقع العسكرية التي سيقوم باستهدافها مسبقاً مطالباً المدنيين بالابتعاد عنها. قام شارو ضمن حملة إعلامية ممنهجة، قام شارو بالترويج لاستهداف إحدى هذه المواقع على أنها استهداف لمشفى. عند القصف انتشر مقطع فيديو يظهر الموقع ويترافق مع انفجارات مستمرة في المكان وهو ما يشير إلى متفجرات مخزنة. وبعد الدخول للمنطقة نشرت صور للموقع المستهدف تؤكد طبيعته العسكرية والأسلحة المدمرة التي كانت متمركزة فيه.",
+        "source": [
+          {
+            "url": "https://x.com/ScharoMaroof/status/2009643410936811788",
+            "archiveURL": "https://archive.ph/YWXef",
+            "date": "2026-01-09",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sheikh-maqsoud-arms-depot-shelling/scharomaroof-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/Sana__gov/status/2010342524968431635",
+            "archiveURL": "https://archive.ph/Yo11J",
+            "date": "2026-01-11",
+            "label": "صور من داخل الموقع العسكري المستهدف",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sheikh-maqsoud-arms-depot-shelling/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

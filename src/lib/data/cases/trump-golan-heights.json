@@ -1,0 +1,82 @@
+{
+  "ar": {
+    "slug": "trump-golan-heights",
+    "title": "إدعاء أن ترامب اعترف بسيادة إسرائيل على الجولان حديثاً",
+    "dateAdded": "2026-01-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "mohammed_jajeh",
+        "description": "ادعى الحساب أن الرئيس ترامب أعلن موقفه من هضبة الجولان واعترف بسيادة إسرائيل عليها حديثاً  لكن ترامب يتكلم بصيغة الماضي حيث كان قد وقع رسمياً على الاعتراف بسيادة إسرائيل على الجولان في عام 2019 في ولايته الأولى وذلك خلال رئاسة بشار الأسد لسوريا.",
+        "source": [
+          {
+            "url": "https://x.com/mohammed_jajeh/status/1972771238776016951",
+            "archiveURL": "https://archive.ph/n2r2p",
+            "date": "2025-09-30",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/trump-golan-heights/mohammed_jajeh-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "archiveURL": "https://web.archive.org/web/20251228213154/https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "date": "2025-12-18",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/trump-golan-heights/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "wyazbk",
+        "description": "إدعى وحيد أن ترامب قام بالاعتراف بسيادة إسرائيل على الجولان بعد سقوط نظام الأسد مهاجماً الحكومة السورية الجديدة  لكن ترامب يتكلم بصيغة الماضي حيث كان قد وقع رسمياً على الاعتراف بسيادة إسرائيل على الجولان في عام 2019 في ولايته الأولى وذلك خلال رئاسة بشار الأسد لسوريا.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/alahteatea/posts/pfbid036w3DCczi8toUcByXkrmUutWb2AACrL5M5ju5E6QCYFNNMsgJap1bu2RukhMY5xERl",
+            "archiveURL": "https://web.archive.org/web/20260104154347/https://www.facebook.com/alahteatea/posts/pfbid036w3DCczi8toUcByXkrmUutWb2AACrL5M5ju5E6QCYFNNMsgJap1bu2RukhMY5xERl?_rdc=1&_rdr",
+            "date": "2025-12-17",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/trump-golan-heights/wyazbk-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "archiveURL": "https://web.archive.org/web/20251228213154/https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "date": "2025-12-18",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/trump-golan-heights/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "alimoheyaldeen",
+        "description": "روج علي في منشور أن الرئيس الشرع (الملقب بالجولاني) قد تنازل عن الجولان مستنداً إلى تصريح لترامب بأنه وقع على نقل حقوق مرتفعات الجولان لكن ترامب يتكلم بصيغة الماضي حيث كان قد وقع رسمياً على الاعتراف بسيادة إسرائيل على الجولان في عام 2019 في ولايته الأولى وذلك خلال رئاسة بشار الأسد لسوريا.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/a.moheyaldeen/posts/pfbid02w1YXL5WVaqyawBHuPS5N1JVJZzW36XBBybBZG9RPGdoSu4mA1TTLbnmM4yxtKYAYl",
+            "archiveURL": "https://archive.ph/lxXbN",
+            "date": "2025-12-17",
+            "label": "إدعاء أن الجولاني تنازل عن الجولان",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/trump-golan-heights/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "archiveURL": "https://web.archive.org/web/20251228213154/https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "date": "2025-12-18",
+            "label": "ترامب اعترف رسمياً  بسيادة إسرائيل على مرتفعات الجولان بعام 2019 خلال ولايته الأولى وكان حينها بشار الأسد في سدة الرئاسة",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/trump-golan-heights/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

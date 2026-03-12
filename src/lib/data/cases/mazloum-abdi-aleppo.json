@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "mazloum-abdi-aleppo",
+    "title": "تلفيق تصريح لمظلوم عبدي",
+    "dateAdded": "2026-01-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "syriatomorrow",
+        "description": "نشرت الصفحة تصريحاً نسبته لمظلوم عبدي تقول على لسانه أن قوات قسد ماضية باسترداد مدينة حلب بالكامل وأن الانسحاب كان تكتيكياً لكن التصريح ملفق ولم يتناوله أي مصدر موثوق.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Coorba.jo/posts/pfbid021epxLcoqc9u5VTPUEg2PRLXNuBY1r6haYPsHWjGQNdCRdtYqFjJCDnqk2ibo523Hl",
+            "archiveURL": "https://archive.ph/Ulzcu",
+            "date": "2026-01-09",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/mazloum-abdi-aleppo/syriatomorrow-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/false-claims-ashrafieh-sheikh-maqsoud",
+            "archiveURL": "https://web.archive.org/web/20260115183943/https://www.verify-sy.com/ar/factcheck/false-claims-ashrafieh-sheikh-maqsoud",
+            "date": "2026-01-09",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/mazloum-abdi-aleppo/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "aleppo-ashrafiya-photo",
+    "title": "نشر صور قديمة معدلة بالذكاء الاصطناعي",
+    "dateAdded": "2026-01-14",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "roaastudies",
+        "description": "خلال عملية وزارة الدفاع في الشيخ مقصود لطرد مقاتلين مؤيدين لقسد، نشر الحساب صورة زعم أنها من الأحداث الجارية وتظهر السيطرة على حي الأشرفية لكن الصورة قديمة لا علاقة لها بالعملية في أحياء حلب حينها كما أنها معدلة بالذكاء الاصطناعي.",
+        "source": [
+          {
+            "url": "https://x.com/Roaastudies/status/2009341187031986428",
+            "archiveURL": "https://archive.ph/mE8Jj",
+            "date": "2026-01-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-ashrafiya-photo/roaastudies-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/100064677370921/posts/pfbid0wAajj57WLY17mLPduXkb4x85PfZSH6Hg2V8zE8hXn7nLQaGvUXsQu3ZV5bTvY3Hel",
+            "archiveURL": "https://archive.ph/J69Ch",
+            "date": "2025-08-05",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-ashrafiya-photo/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

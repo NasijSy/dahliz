@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "aleppo-women-dress",
+    "title": "إدعاء مضلل عن قرار يخص فرض ضوابط شرعية في حلب",
+    "dateAdded": "2026-02-08",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "mohammed_jajeh",
+        "description": "قام بالترويج بوجود قرار يضيق على النساء في حلب وأنهم بحاجة للمساعدة لكن الصورة المستخدمة تعود لأكثر من 12 عام ولم يتسنى التأكد من مدى صحتها.",
+        "source": [
+          {
+            "url": "https://x.com/mohammed_jajeh/status/2017286221685239978",
+            "archiveURL": "https://archive.ph/ibSyw",
+            "date": "2026-01-30",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-women-dress/mohammed_jajeh-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.almjhar.com/ar-sy/NewsView/2212/60893/_%D8%AC%D8%A8%D9%87%D8%A9_%D8%A7%D9%84%D9%86%D8%B5%D8%B1%D8%A9_%D8%AA%D8%AD%D8%B1_%D9%85_%D8%AE%D8%B1%D9%88%D8%AC_%D8%A7%D9%84%D9%85%D8%B1%D8%A3%D8%A9_%D9%85%D8%AA%D8%A8%D8%B1_%D8%AC%D8%A9.aspx",
+            "archiveURL": "https://archive.ph/6nVXY",
+            "date": "2013-07-02",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/aleppo-women-dress/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

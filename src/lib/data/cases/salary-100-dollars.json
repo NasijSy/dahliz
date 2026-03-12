@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "salary-100-dollars",
+    "title": "إدعاء أن حاكم البنك المركزي صرح أن 100 دولار تكفي للمعيشة",
+    "dateAdded": "2026-02-15",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "sparknews",
+        "description": "بالعودة للمقابلة تبين أن المذيع هو من طرح هذا بصيغة سؤال فكان رد الحاكم رفضاً ضمنياً مبيناً أنهم يدركون الواقع ويعملون على تغييره",
+        "source": [
+          {
+            "url": "https://www.facebook.com/2030.Spark.News/posts/pfbid02Wvjm821u73cLoUrMitDdVS2syKdauaSFtqizZKovkV6p8AUzuL23X2XgXaPbLVQjl",
+            "archiveURL": "https://archive.ph/PysLl",
+            "date": "2026-02-15",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/salary-100-dollars/sparknews-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://youtu.be/1_pv7k_l5bQ?t=439",
+            "archiveURL": "https://web.archive.org/web/20260215125047/https://www.youtube.com/watch?v=1_pv7k_l5bQ&t=440s",
+            "date": "2026-02-11",
+            "label": "",
+            "mediaType": "video",
+            "mediaPath": "/media/cases/salary-100-dollars/fact.mp4"
+          }
+        ]
+      }
+    ]
+  }
+}

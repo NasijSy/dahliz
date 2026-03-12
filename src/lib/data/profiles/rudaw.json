@@ -1,0 +1,54 @@
+{
+  "ar": {
+    "name": "Rudaw",
+    "type": "org",
+    "username": "rudaw",
+    "dateAdded": "2026-01-08",
+    "lastUpdated": "2026-01-13",
+    "summary": "مجموعة إعلامية تبث من أربيل كردستان العراق وتنشر محتوى بعدة لغات",
+    "imagePath": "/media/profiles/rudaw/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "website",
+        "alias": "rudaw.net",
+        "url": "https://www.rudaw.net"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Rudaw English",
+        "url": "https://x.com/RudawEnglish"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Rudaw",
+        "url": "https://x.com/Rudawkurdish"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Rudaw عربية",
+        "url": "https://x.com/rudaw_arabic"
+      },
+      {
+        "platform": "facebook",
+        "alias": "Rudaw",
+        "url": "https://www.facebook.com/Rudaw.net"
+      },
+      {
+        "platform": "facebook",
+        "alias": "Rudaw English",
+        "url": "https://www.facebook.com/RudawEnglish"
+      },
+      {
+        "platform": "facebook",
+        "alias": "عربية Rudaw",
+        "url": "https://www.facebook.com/RudawArabi"
+      }
+    ],
+    "cases": [
+      "aleppo-military-operation",
+      "kurdish-journalist-death",
+      "turkey-flags-aleppo"
+    ],
+    "classification": "reliable"
+  }
+}

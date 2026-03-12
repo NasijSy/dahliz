@@ -1,0 +1,40 @@
+{
+  "ar": {
+    "name": "رؤى لدراسات الحرب",
+    "type": "org",
+    "username": "roaastudies",
+    "dateAdded": "2026-01-14",
+    "lastUpdated": "2026-02-20",
+    "summary": "وكالة إعلامية تغطي الصراعات العسكرية في المنطقة",
+    "imagePath": "/media/profiles/roaastudies/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "website",
+        "alias": "roaawarstudies.com",
+        "url": "https://roaawarstudies.com/"
+      },
+      {
+        "platform": "twitter",
+        "alias": "رؤى لدراسات الحرب",
+        "url": "https://x.com/RoaaWarStudies"
+      },
+      {
+        "platform": "facebook",
+        "alias": "رؤى لدراسات الحرب",
+        "url": "https://www.facebook.com/RoaaMediaNews/"
+      },
+      {
+        "platform": "telegram",
+        "alias": "رؤى لدراسات الحرب",
+        "url": "https://t.me/roaawarstudies"
+      }
+    ],
+    "cases": [
+      "aleppo-ashrafiya-photo",
+      "christmas-tree-fire-damascus",
+      "aleppo-mosque-shelling",
+      "hasakah-arabs-massacre"
+    ],
+    "classification": "unreliable"
+  }
+}

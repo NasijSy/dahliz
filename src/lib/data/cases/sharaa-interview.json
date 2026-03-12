@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "sharaa-interview",
+    "title": "نفي حدوث مقابلة مع قناة شمس والاستمرار بالإدعاء أن الشرع لم ولن يظهر",
+    "dateAdded": "2026-01-14",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "rahmon",
+        "description": "قامت قناة شمس وهي قناة ناشئة في أربيل في إقليم كردستان، بالإعلان عن عدم عرض مقابلة أجرتها مع الرئيس الشرع، لكن  عمر رحمون ادعى أن اللقاء لم يحصل أصلاً وأصر أن الشرع تم تغيبه عن المشهد فيما ظهر مدير القناة في مقابلة وضح فيها أن دافع عدم العرض هو أن الرئيس الشرع وجه فيها انتقادات حادة لقسد وأن القناة تعتذر عن بثها لأنها لا ترغب بتأجيج الصراع. بالإضافة للمقابلة، كان الشرع قد ظهر سابقاً علناً في الأسواق وأجرى لقاء مع وفد اتحاد الغرف التجارية المصرية مطلع عام 2026.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/rahmon83/posts/pfbid02FtMF1EKx2YHzheYfJKLuRbVe2K84otD9aB6NtKvKyEF4ScgMyhEYn9k27sUT97LKl",
+            "archiveURL": "https://archive.ph/BLvYS",
+            "date": "2026-01-13",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sharaa-interview/rahmon-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/shamsnewstv/status/2011155644988985410",
+            "archiveURL": "https://archive.ph/SU4u3",
+            "date": "2026-01-13",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sharaa-interview/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

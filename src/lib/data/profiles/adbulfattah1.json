@@ -1,0 +1,24 @@
+{
+  "ar": {
+    "name": "Qahtan Fattah",
+    "type": "anon",
+    "username": "adbulfattah1",
+    "dateAdded": "2026-02-08",
+    "lastUpdated": "2026-02-08",
+    "summary": "حساب يقيم في الولايات المتحدة الأمريكية",
+    "imagePath": "/media/profiles/adbulfattah1/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "Qahtan Fattah",
+        "url": "https://x.com/Adbulfattah1"
+      }
+    ],
+    "cases": [
+      "qattan-prisoners-raqqa",
+      "sharaa-trump-gift",
+      "liberation-hakan-russia-talk"
+    ],
+    "classification": "unreliable"
+  }
+}

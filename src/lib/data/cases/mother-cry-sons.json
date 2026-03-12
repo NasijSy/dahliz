@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "mother-cry-sons",
+    "title": "مواطنة علوية تروي تفاصيل قتل أولادها الخمسة",
+    "dateAdded": "2026-01-04",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "ronahitv",
+        "description": "نشرت القناة مقطع فيديو لأم تبكي على خسارة خمسة من أبنائها ونسبوا إلى الام في المنشور قولها أن 'المسلحون قتلوا أولادي ال 5 أمام عيني' مع أن الأم لم تذكر شيئاً من ذلك بالمقطع وعند تواصل منصة تأكد مع مصور المقطع وضح أنها تتحدث عن فقدان أحد أبنائها وأولاده في الزلزال الذي ضرب تركيا وشمال سوريا في 2023.",
+        "source": [
+          {
+            "url": "https://www.instagram.com/reel/DKmUqkTz8zB/",
+            "archiveURL": "https://archive.ph/zTIN6",
+            "date": "2025-06-07",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/mother-cry-sons/ronahitv-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/2506082229",
+            "archiveURL": "https://web.archive.org/web/20260104163713/https://www.verify-sy.com/ar/factcheck/2506082229",
+            "date": "2025-06-08",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/mother-cry-sons/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

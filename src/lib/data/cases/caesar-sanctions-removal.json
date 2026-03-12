@@ -1,0 +1,74 @@
+{
+  "ar": {
+    "slug": "caesar-sanctions-removal",
+    "title": "إدعاء أنه لم يتم إلغاء قانون قيصر",
+    "dateAdded": "2026-01-03",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "mahersharafeddine",
+        "description": "وصف ماهر إلغاء قانون قيصر بالظاهري والشكلي وادعى أن عقوبات قيصر ستعود في حال فشل تنفيذ بعض الشروط لكن هذا مضلل حيث تم إلغاء قانون قيصر بشكل كامل وبلا آلية لعودة تلقائية وهو ما أكدته الخزانة الأمريكية. ولكن على هامش إلغاء قانون قيصر طلب الكونغرس من الرئيس الأمريكي مراقبة أداء الحكومة السورية وترك له قرار فرض عقوبات على أفراد معينين في حال لم تحرز الحكومة تقدماً.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/maher.sharafeddine/posts/pfbid02uMwQx7PikPtjsc4eSPcrkmJR5PteELHPjnr4EvhViHUobDC8tJfwFXRTHoBVbpaol",
+            "archiveURL": "https://web.archive.org/web/20260104152754/https://www.facebook.com/maher.sharafeddine/posts/1520968329393373?ref=embed_post&_rdc=1&_rdr",
+            "date": "2025-12-11",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/caesar-sanctions-removal/mahersharafeddine-source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://ofac.treasury.gov/media/934736/download?inline",
+            "archiveURL": "https://archive.ph/xjEHo",
+            "date": "2025-12-18",
+            "label": "تعميم من الخزانة الأمريكية يؤكد أن الكونغرس ألغى قانون قيصر بالكامل",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/caesar-sanctions-removal/fact.jpg"
+          },
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/us-congress-caesar-act-suspension-claim",
+            "archiveURL": "https://web.archive.org/web/20260104151713/https://www.verify-sy.com/ar/factcheck/us-congress-caesar-act-suspension-claim",
+            "date": "2025-12-11",
+            "label": "تقرير من تأكد بما يخص رفع عقوبات قيصر",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/caesar-sanctions-removal/fact-1.jpg"
+          }
+        ]
+      },
+      {
+        "username": "alimoheyaldeen",
+        "description": "إدعى علي في منشور له أن قانون قيصر لم يرفع بشكل دائم وأن ما حصل هو تعديل مؤقت لمدة ستة أشهر وأنه يحق للكونغرس إعادة فرض العقوبات تلقائيا إذا لم تلتزم الحكومة السورية بشروط لكن ذلك مضلل فقد تم إلغاء قانون قيصر بشكل كامل وبلا آلية لعودة تلقائية وهو ما أكدته الخزانة الأمريكية. ولكن على هامش إلغاء قانون قيصر طلب الكونغرس من الرئيس الأمريكي مراقبة أداء الحكومة السورية وترك له قرار فرض عقوبات على أفراد معينين في حال لم تحرز الحكومة تقدماً.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/a.moheyaldeen/posts/pfbid02p6rRFj2VEbB48vmwWFRZ5mRDsQVNQPrAkoQq7LYgvvYAPHebLaN1SztHapQTLorLl",
+            "archiveURL": "https://archive.ph/fjo2S",
+            "date": "2025-12-09",
+            "label": "",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/caesar-sanctions-removal/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://ofac.treasury.gov/media/934736/download?inline",
+            "archiveURL": "https://archive.ph/xjEHo",
+            "date": "2025-12-18",
+            "label": "تعميم من الخزانة الأمريكية يؤكد أن الكونغرس ألغى قانون قيصر بالكامل",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/caesar-sanctions-removal/fact.jpg"
+          },
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/us-congress-caesar-act-suspension-claim",
+            "archiveURL": "https://web.archive.org/web/20260104151713/https://www.verify-sy.com/ar/factcheck/us-congress-caesar-act-suspension-claim",
+            "date": "2025-12-11",
+            "label": "تقرير من تأكد بما يخص رفع عقوبات قيصر",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/caesar-sanctions-removal/fact-1.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

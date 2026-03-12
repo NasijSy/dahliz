@@ -1,0 +1,32 @@
+{
+  "ar": {
+    "name": "X Media",
+    "type": "org",
+    "username": "xmedia",
+    "dateAdded": "2026-01-04",
+    "lastUpdated": "2026-02-21",
+    "summary": "مؤسسة إعلامية مقرها الإمارات تغطي الشأن السوري",
+    "imagePath": "/media/profiles/xmedia/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "X Media",
+        "url": "https://www.facebook.com/xmedia.k"
+      },
+      {
+        "platform": "twitter",
+        "alias": "X media",
+        "url": "https://x.com/X_news_media"
+      }
+    ],
+    "cases": [
+      "sunni-sheikhs-statement",
+      "coast-protests-shooting",
+      "female-kurdish-fighters-prisoners",
+      "mosque-military-site",
+      "mossad-jolani-fighters",
+      "turkish-kurds-storm-ayn-alarab"
+    ],
+    "classification": "disinformation"
+  }
+}

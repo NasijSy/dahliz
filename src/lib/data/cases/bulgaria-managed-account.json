@@ -1,0 +1,42 @@
+{
+  "ar": {
+    "slug": "bulgaria-managed-account",
+    "title": "إدعاء أن حساب رئيس الجهاز المركزي للرقابة المالية يدار من بلغاريا",
+    "dateAdded": "2026-03-11",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "alimoheyaldeen",
+        "description": "روج علي إلى أن حساب رئيس الجهاز المركزي للرقابة المالية يدار من بلغاريا لكن ذلك مضلل فمنصة X (تويتر) تعتمد بتحديد الموقع الجغرافي على عنوان الانترنت (IP) الذي يتم منه عادة الدخول إلى الحساب لذا فالموقع الجغرافي المشار إليه يتأثر عند الاتصال من خلال ال VPN أو أجهزة اتصال فضائية المستوردة مثل ستارلينك مما يعتم على الموقع الأصلي.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/a.moheyaldeen/posts/pfbid0C4F8G3Ps3nh9iGavqF9fRgPNgV2VWUfEPEAijKpNDphNmSP1Fwqb15mj1aXnUrjvl",
+            "archiveURL": "https://archive.ph/DzVrW",
+            "date": "2025-11-23",
+            "label": "المنشور يروج بشكل مضلل أن الحساب يدار من بلغاريا",
+            "mediaType": "",
+            "mediaPath": "/media/cases/bulgaria-managed-account/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/mohmeedomrkdid/about",
+            "archiveURL": "",
+            "date": "2026-03-11",
+            "label": "تحذير من موقع X (تويتر) بأن بيانات الدولة أو المنطقة قد لا تكون دقيقة",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/bulgaria-managed-account/fact-1.jpg"
+          },
+          {
+            "url": "https://x.com/mohmeedomrkdid/about",
+            "archiveURL": "",
+            "date": "2026-03-11",
+            "label": "لاحقاً ظهر على الحساب أنه موجود في الجمهورية العربية السورية",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/bulgaria-managed-account/fact-2.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "ar": {
+    "name": "شام حمدان",
+    "type": "person",
+    "username": "shamhmdan",
+    "dateAdded": "2026-02-20",
+    "lastUpdated": "2026-02-20",
+    "summary": "إعلامي كان يعمل سابقاً كمراسل لقناة الإخبارية السورية",
+    "imagePath": "/media/profiles/shamhmdan/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "شام سلمان حمدان",
+        "url": "https://www.facebook.com/sham.slman.hmdan"
+      }
+    ],
+    "cases": [
+      "israeli-flag-daraa",
+      "sharaa-trump-gift"
+    ],
+    "classification": "unreliable"
+  }
+}
