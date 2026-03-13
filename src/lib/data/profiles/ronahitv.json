@@ -1,11 +1,12 @@
 {
   "ar": {
+    "username": "ronahitv",
     "name": "قناة روناهي",
     "type": "org",
-    "username": "ronahitv",
+    "classification": "reliable",
     "dateAdded": "2026-01-04",
     "lastUpdated": "2026-01-04",
-    "summary": "قناة تلفزيونية كردية، مقرها في مدينة القامشلي ضمن مناطق حكم الإدارة الذاتية",
+    "summary": "قناة تلفزيونية كردية، مقرها في مدينة القامشلي",
     "imagePath": "/media/profiles/ronahitv/profile.jpg",
     "platformLinks": [
       {
@@ -18,7 +19,6 @@
         "alias": "فضائية روناهي Ronahî TV Arabic",
         "url": "https://www.facebook.com/ronahitvarabic/"
       }
-    ],
-    "classification": "reliable"
+    ]
   }
 }
