@@ -1,3 +1,5 @@
+import { getCaseCountForProfile } from './loadCases.js';
+
 /**
  * Loads all profile JSON files from src/lib/data/profiles/
  * Each file is structured as { ar: { ...profileData } }
@@ -17,7 +19,7 @@ function sortProfiles(profiles, sortBy) {
   return [...profiles].sort((a, b) => {
     switch (sortBy) {
       case 'cases':
-        return (b.cases?.length ?? 0) - (a.cases?.length ?? 0);
+        return getCaseCountForProfile(b.username, 'ar') - getCaseCountForProfile(a.username, 'ar');
       case 'dateAdded':
         return new Date(b.dateAdded) - new Date(a.dateAdded);
       case 'lastUpdated':

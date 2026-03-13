@@ -3,12 +3,16 @@
 
   let { profile, allTags = [] } = $props();
 
+  const allCasesForProfile = $derived(
+    getCasesForProfile(profile.username, 'ar')
+  );
+
   const resolvedCases = $derived(
-    getCasesForProfile(profile.username, 'ar').slice(0, 3)
+    allCasesForProfile.slice(0, 3)
   );
 
   const caseCount = $derived(
-    Array.isArray(profile.cases) ? profile.cases.length : 0
+    allCasesForProfile.length
   );
 
   const classificationConfig = {

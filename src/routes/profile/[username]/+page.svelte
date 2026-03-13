@@ -103,7 +103,7 @@
     <h3 class="mt-6">بعض الحالات الموثقة</h3>
     <ul class="flex flex-col gap-4 ps-4">
       {#each data.cases as caseItem}
-        {@const profileEntry = caseItem.profiles.find(p => p.username === data.profile.username)}
+        {@const profileEntry = caseItem.profiles?.find(p => p.username === data.profile.username)}
         <li class="p-2 rounded-lg list-disc list-outside">
           <a href="/case/{caseItem.slug}" class="font-semibold hover:underline text-lg">
             {caseItem.title}
