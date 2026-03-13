@@ -1,0 +1,34 @@
+{
+  "ar": {
+    "slug": "sahnaya-yarub-yousef-matouq",
+    "title": "إدعاء مقتل يعرب يوسف معتوق بعد تعرضه للضرب",
+    "dateAdded": "2026-03-13",
+    "type": "rumor",
+    "profiles": [
+      {
+        "username": "presssuwayda",
+        "description": "روجت السويداء برس أن الشاب تعرض لاعتداء جسدي عنيف شمل الضرب المبرح والخنق من قبل مجموعة أشخاص وأنه تعرض لجريمة قتل لكن بحسب تحقيق فريق \"تأكد\" فإن الطبيب الشرعي عماد حمد نوفل الذي كشف على جثمان الشاب في مشفى شهبا الوطني بمحافظة السويداء، وضح أن سبب الوفاة هو الشنق، مؤكداً عدم وجود أي علامات ضرب أو كدمات على الجثة، وأن ما يُتداول عن وجود آثار ضرب غير صحيح.",
+        "source": [
+          {
+            "url": "https://x.com/presssuwayda/status/2031653617292194301",
+            "archiveURL": "https://archive.ph/nuusX",
+            "date": "2026-03-11",
+            "label": "إدعاء أن الشاب تعرض لاعتداء جسدي عنيف شمل الضرب المبرح والخنق",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sahnaya-yarub-yousef-matouq/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/yarab-matouq-killed-sectarian-motive-sahnaya",
+            "archiveURL": "https://web.archive.org/web/20260313150841/https://www.verify-sy.com/ar/factcheck/yarab-matouq-killed-sectarian-motive-sahnaya",
+            "date": "2026-03-13",
+            "label": "تحقيق لفريق تأكد: صرح الطبيب الشرعي الذي كشف على الجثة أن سبب الوفاة هو الشنق ونفى وجود علامات ضرب أو كدمات.",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sahnaya-yarub-yousef-matouq/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
