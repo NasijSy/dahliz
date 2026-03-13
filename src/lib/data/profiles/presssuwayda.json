@@ -1,0 +1,25 @@
+{
+  "ar": {
+    "username": "presssuwayda",
+    "name": "السويداء برس",
+    "type": "org",
+    "classification": "reliable",
+    "dateAdded": "2026-03-13",
+    "lastUpdated": "2026-03-13",
+    "summary": "منصة إخبارية تنقل أخبار السويداء",
+    "imagePath": "https://pbs.twimg.com/profile_images/1997721001816104960/DbRvAIYq_400x400.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "السويداء برس",
+        "url": "https://www.facebook.com/profile.php?id=61584812930973"
+      },
+      {
+        "platform": "twitter",
+        "alias": "السويداء برس",
+        "url": "https://x.com/presssuwayda"
+      }
+    ],
+    "tags": []
+  }
+}
