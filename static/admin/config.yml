@@ -170,6 +170,7 @@ collections:
       - name: profiles
         label: ظهور الحالة عند الحسابات
         widget: list
+        required: false
         i18n: true
         fields:
           - name: username
