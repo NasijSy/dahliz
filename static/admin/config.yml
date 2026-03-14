@@ -18,8 +18,8 @@ public_folder: /media
 
 collections:
   - name: article_types
-    label: أنواع المقالات
-    label_singular: نوع مقالة
+    label: Article Types
+    label_singular: Article Type
     folder: src/lib/data/article-types
     create: true
     delete: true
@@ -29,15 +29,15 @@ collections:
     extension: json
     fields:
       - name: slug
-        label: المعرف (Slug)
+        label: Slug
         widget: string
-        pattern: ['^[a-z0-9-]+$', 'يجب أن يكون المعرف بأحرف صغيرة وأرقام وشرطة فقط']
+        pattern: ['^[a-z0-9-]+$', 'Slug must contain only lowercase letters, numbers, and hyphens']
       - name: label
-        label: الاسم
+        label: Label
         widget: string
   - name: articles
-    label: المقالات
-    label_singular: مقالة
+    label: Articles
+    label_singular: Article
     folder: src/lib/data/articles
     create: true
     delete: true
@@ -50,23 +50,23 @@ collections:
     public_folder: /media/articles/{{slug}}
     fields:
       - name: slug
-        label: المعرف (Slug)
+        label: Slug
         widget: string
         i18n: duplicate
-        pattern: ['^[a-z0-9-]+$', 'يجب أن يكون المعرف بأحرف صغيرة وأرقام وشرطة فقط']
+        pattern: ['^[a-z0-9-]+$', 'Slug must contain only lowercase letters, numbers, and hyphens']
 
       - name: title
-        label: العنوان
+        label: Title
         widget: string
         i18n: true
 
       - name: summary
-        label: الملخص
+        label: Summary
         widget: text
         i18n: true
 
       - name: type
-        label: النوع
+        label: Type
         widget: relation
         collection: article_types
         search_fields: [label, slug]
@@ -75,13 +75,13 @@ collections:
         i18n: duplicate
 
       - name: coverImage
-        label: صورة الغلاف
+        label: Cover Image
         widget: image
         required: false
         i18n: duplicate
 
       - name: datePublished
-        label: تاريخ النشر
+        label: Publication Date
         widget: datetime
         format: YYYY-MM-DD
         date_format: YYYY-MM-DD
@@ -90,19 +90,19 @@ collections:
         default: '{{now}}'
 
       - name: author
-        label: الكاتب
+        label: Author
         widget: string
         required: false
         i18n: true
 
       - name: body
-        label: المحتوى
+        label: Content
         widget: markdown
         i18n: true
 
   - name: tags
-    label: التصنيفات والوسوم
-    label_singular: وسم
+    label: Tags and Categories
+    label_singular: Tag
     folder: src/lib/data/tags
     create: true
     delete: true
@@ -112,16 +112,16 @@ collections:
     extension: json
     fields:
       - name: slug
-        label: المعرف (Slug)
+        label: Slug
         widget: string
-        pattern: ['^[a-z0-9-]+$', 'يجب أن يكون المعرف بأحرف صغيرة وأرقام وشرطة فقط']
+        pattern: ['^[a-z0-9-]+$', 'Slug must contain only lowercase letters, numbers, and hyphens']
       - name: label
-        label: الاسم
+        label: Label
         widget: string
 
   - name: cases
-    label: الحالات الموثقة
-    label_singular: حالة
+    label: Documented Cases
+    label_singular: Case
     folder: src/lib/data/cases
     create: true
     delete: true
@@ -135,46 +135,46 @@ collections:
     public_folder: /media/cases/{{slug}}
     fields:
       - name: slug
-        label: المعرف (Slug)
+        label: Slug
         widget: string
         i18n: duplicate
-        pattern: ['^[a-z0-9-]+$', 'يجب أن يكون المعرف بأحرف صغيرة وأرقام وشرطة فقط']
+        pattern: ['^[a-z0-9-]+$', 'Slug must contain only lowercase letters, numbers, and hyphens']
 
       - name: title
-        label: العنوان
+        label: Title
         widget: string
         i18n: true
 
       - name: dateAdded
-        label: تاريخ الإضافة
+        label: Date Added
         widget: datetime
         format: YYYY-MM-DD
         date_format: YYYY-MM-DD
         time_format: false
         i18n: duplicate
         default: '{{now}}'
-        hint: يُضبط تلقائياً عند الإنشاء
+        hint: Automatically set on creation
 
       - name: type
-        label: النوع
+        label: Type
         widget: select
         options:
-          - { label: تضليل, value: misinfo }
-          - { label: إشاعة, value: rumor }
-          - { label: تحريض, value: hate }
-          - { label: احتيال, value: fraud }
-          - { label: عنف, value: violence }
-          - { label: تشهير, value: defamation }
+          - { label: Misinformation, value: misinfo }
+          - { label: Rumor, value: rumor }
+          - { label: Incitement, value: hate }
+          - { label: Fraud, value: fraud }
+          - { label: Violence, value: violence }
+          - { label: Defamation, value: defamation }
         i18n: duplicate
 
       - name: profiles
-        label: ظهور الحالة عند الحسابات
+        label: Case Appearances by Profile
         widget: list
         required: false
         i18n: true
         fields:
           - name: username
-            label: الحساب
+            label: Profile
             widget: relation
             collection: profiles
             search_fields: [name, username]
@@ -183,89 +183,89 @@ collections:
             i18n: duplicate
 
           - name: description
-            label: الوصف الخاص بهذا الحساب
+            label: Profile-Specific Description
             widget: text
             i18n: true
 
           - name: source
-            label: المصادر (الإدعاء)
+            label: Sources (Claim)
             widget: list
             i18n: true
             fields:
               - name: url
-                label: الرابط
+                label: URL
                 widget: string
                 required: false
               - name: archiveURL
-                label: رابط الأرشيف
+                label: Archive URL
                 widget: string
                 required: false
               - name: date
-                label: التاريخ
+                label: Date
                 widget: datetime
                 format: YYYY-MM-DD
                 date_format: YYYY-MM-DD
                 time_format: false
                 required: false
               - name: label
-                label: الوصف
+                label: Description
                 widget: string
                 required: false
                 i18n: true
               - name: mediaType
-                label: نوع الوسيط
+                label: Media Type
                 widget: select
                 required: false
                 options:
-                  - { label: صورة, value: image }
-                  - { label: فيديو, value: video }
+                  - { label: Image, value: image }
+                  - { label: Video, value: video }
               - name: mediaPath
-                label: الوسيط
+                label: Media
                 widget: file
                 # Inherits collection-level media_folder: /static/media/cases/{{slug}}
                 required: false
 
           - name: analysis
-            label: التحليل (الحقيقة)
+            label: Analysis (Fact)
             widget: list
             required: false
             i18n: true
             fields:
               - name: url
-                label: الرابط
+                label: URL
                 widget: string
                 required: false
               - name: archiveURL
-                label: رابط الأرشيف
+                label: Archive URL
                 widget: string
                 required: false
               - name: date
-                label: التاريخ
+                label: Date
                 widget: datetime
                 format: YYYY-MM-DD
                 date_format: YYYY-MM-DD
                 time_format: false
                 required: false
               - name: label
-                label: الوصف
+                label: Description
                 widget: string
                 required: false
                 i18n: true
               - name: mediaType
-                label: نوع الوسيط
+                label: Media Type
                 widget: select
                 required: false
                 options:
-                  - { label: صورة, value: image }
-                  - { label: فيديو, value: video }
+                  - { label: Image, value: image }
+                  - { label: Video, value: video }
               - name: mediaPath
-                label: الوسيط
+                label: Media
                 widget: file
                 required: false
 
   - name: profiles
-    label: الحسابات
-    label_singular: حساب
+    label: Profiles
+    label_singular: Profile
     folder: src/lib/data/profiles
     create: true
     delete: true
@@ -276,92 +276,92 @@ collections:
     i18n: true
     fields:
       - name: username
-        label: اسم المستخدم
+        label: Username
         widget: string
         i18n: duplicate
-        pattern: ['^[a-z0-9_]+$', 'يجب أن يكون اسم المستخدم بأحرف صغيرة وأرقام وشرطة سفلية فقط']
+        pattern: ['^[a-z0-9_]+$', 'Username must contain only lowercase letters, numbers, and underscores']
 
       - name: name
-        label: الاسم
+        label: Name
         widget: string
         i18n: true
 
       - name: type
-        label: نوع الحساب
+        label: Profile Type
         widget: select
         options:
-          - { label: منظمة, value: org }
-          - { label: شخص, value: person }
-          - { label: مجهول, value: anon }
-          - { label: بوت, value: bot }
+          - { label: Organization, value: org }
+          - { label: Person, value: person }
+          - { label: Anonymous, value: anon }
+          - { label: Bot, value: bot }
         i18n: duplicate
 
       - name: classification
-        label: درجة الموثوقية
+        label: Reliability Classification
         widget: select
         i18n: duplicate
         options:
-          - { label: "موثوق نسبياً - أخطاء محدودة", value: reliable }
-          - { label: "غير موثوق - تداول شائعات بشكل متكرر دون تحقق", value: unreliable }
-          - { label: "مضلل - نشر معلومات مضللة بشكل متعمد وممنهج", value: disinformation }
-        hint: بناء على سلوك الحساب وسجله
+          - { label: "Relatively Reliable - Limited errors", value: reliable }
+          - { label: "Unreliable - Repeatedly shares rumors without verification", value: unreliable }
+          - { label: "Disinformation - Deliberate and systematic spread of false information", value: disinformation }
+        hint: Based on account behavior and track record
 
       - name: dateAdded
-        label: تاريخ الإضافة
+        label: Date Added
         widget: datetime
         format: YYYY-MM-DD
         date_format: YYYY-MM-DD
         time_format: false
         i18n: duplicate
         default: '{{now}}'
-        hint: يُضبط تلقائياً عند الإنشاء
+        hint: Automatically set on creation
 
       - name: lastUpdated
-        label: آخر تحديث
+        label: Last Updated
         widget: datetime
         format: YYYY-MM-DD
         date_format: YYYY-MM-DD
         time_format: false
         i18n: duplicate
         default: '{{now}}'
-        hint: حدّث هذا الحقل يدوياً عند إجراء تغييرات
+        hint: Update this field manually when making changes
 
       - name: summary
-        label: الوصف
+        label: Summary
         widget: text
         i18n: true
 
       - name: imagePath
-        label: صورة الملف الشخصي
+        label: Profile Image
         widget: image
         media_folder: /static/media/profiles/{{username}}
         public_folder: /media/profiles/{{username}}
         i18n: duplicate
 
       - name: platformLinks
-        label: روابط المنصات
+        label: Platform Links
         widget: list
         i18n: duplicate
         fields:
           - name: platform
-            label: المنصة
+            label: Platform
             widget: select
             options:
-              - { label: تويتر / X, value: twitter }
-              - { label: فيسبوك, value: facebook }
-              - { label: يوتيوب, value: youtube }
-              - { label: تيليغرام, value: telegram }
-              - { label: إنستغرام, value: instagram }
-              - { label: موقع إلكتروني, value: website }
+              - { label: Twitter / X, value: twitter }
+              - { label: Facebook, value: facebook }
+              - { label: YouTube, value: youtube }
+              - { label: Telegram, value: telegram }
+              - { label: Instagram, value: instagram }
+              - { label: Website, value: website }
           - name: alias
-            label: اسم الحساب
+            label: Account Name
             widget: string
           - name: url
-            label: الرابط
+            label: URL
             widget: string
 
       - name: tags
-        label: الوسوم
+        label: Tags
         widget: relation
         collection: tags
         multiple: true
@@ -372,14 +372,14 @@ collections:
         i18n: duplicate
 
   - name: about
-    label: صفحة عن المشروع
+    label: About Page
     files:
       - name: content
-        label: المحتوى
+        label: Content
         file: src/lib/data/about.md
         i18n: true
         fields:
           - name: body
-            label: المحتوى
+            label: Content
             widget: markdown
             i18n: true
