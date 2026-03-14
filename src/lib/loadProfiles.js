@@ -59,8 +59,8 @@ export function getProfiles(locale = 'ar', sortBy = 'cases', classification = nu
  */
 export function getProfile(username, locale = 'ar') {
   const key = `./data/profiles/${username}.json`;
-  const mod = profileFiles[key];
-  if (!mod) return null;
-  const data = mod.default ?? mod;
+  const fileModule = profileFiles[key];
+  if (!fileModule) return null;
+  const data = fileModule.default ?? fileModule;
   return data[locale] ?? data[Object.keys(data)[0]] ?? null;
 }

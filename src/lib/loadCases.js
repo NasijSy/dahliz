@@ -25,8 +25,8 @@ function buildLocaleCaches(locale = 'ar') {
   if (casesCache.has(locale) && casesByProfileCache.has(locale)) return;
 
   const cases = Object.values(caseFiles)
-    .map((mod) => {
-      const data = mod.default ?? mod;
+    .map((fileModule) => {
+      const data = fileModule.default ?? fileModule;
       return data[locale] ?? data[Object.keys(data)[0]];
     })
     .filter(Boolean);
@@ -62,9 +62,9 @@ export function getCases(locale = 'ar') {
 
 export function getCase(slug, locale = 'ar') {
   const key = `./data/cases/${slug}.json`;
-  const mod = caseFiles[key];
-  if (!mod) return null;
-  const data = mod.default ?? mod;
+  const fileModule = caseFiles[key];
+  if (!fileModule) return null;
+  const data = fileModule.default ?? fileModule;
   return data[locale] ?? data[Object.keys(data)[0]] ?? null;
 }
 
