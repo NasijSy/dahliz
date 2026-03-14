@@ -1,0 +1,25 @@
+{
+  "ar": {
+    "username": "alaaghazal",
+    "name": "Alaa Ghazal",
+    "type": "person",
+    "classification": "reliable",
+    "dateAdded": "2026-03-14",
+    "lastUpdated": "2026-03-14",
+    "summary": "مختص بالمجال التقني",
+    "imagePath": "/media/profiles/alaaghazal/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Alaa Ghazal",
+        "url": "https://www.facebook.com/Alaa.Ghazzal"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Alaa GHAZAL",
+        "url": "https://x.com/AlaaG"
+      }
+    ],
+    "tags": []
+  }
+}
