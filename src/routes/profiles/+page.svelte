@@ -20,6 +20,14 @@
         { value: 'disinformation', label: 'تضليل ممنهج' },
     ];
 
+    const profileTypeOptions = [
+        { value: '',       label: 'الكل' },
+        { value: 'org',    label: 'منظمة' },
+        { value: 'person', label: 'شخص' },
+        { value: 'anon',   label: 'مجهول' },
+        { value: 'bot',    label: 'بوت' },
+    ];
+
     const tagOptions = $derived(
         data.allTags.map((t) => ({ value: t.slug, label: t.label }))
     );
@@ -29,6 +37,7 @@
         const base = {
             sortBy: data.sortBy,
             ...(data.classification ? { classification: data.classification } : {}),
+            ...(data.profileType ? { type: data.profileType } : {}),
         };
         const merged = { ...base, ...params };
 
@@ -47,6 +56,10 @@
 
     function handleClassificationChange(e) {
         window.location.href = buildUrl({ classification: e.target.value });
+    }
+
+    function handleProfileTypeChange(e) {
+        window.location.href = buildUrl({ type: e.target.value });
     }
 
     function handleTagsChange(next) {
@@ -73,9 +86,26 @@
         <Note content={note} />
 
         <div class="flex flex-row gap-3 mt-6 items-center flex-wrap justify-center">
+            <!-- Profile type filter -->
+            <div class="flex gap-2 items-center">
+                <label for="profile-type-select" class="text-gray-500 text-sm whitespace-nowrap">نوع الحساب:</label>
+                <div class="relative">
+                    <select
+                        id="profile-type-select"
+                        onchange={handleProfileTypeChange}
+                        value={data.profileType ?? ''}
+                        class="{selectClass} pr-4 pl-7"
+                    >
+                        {#each profileTypeOptions as opt}
+                            <option value={opt.value}>{opt.label}</option>
+                        {/each}
+                    </select>
+                </div>
+            </div>
+
             <!-- Classification filter -->
             <div class="flex gap-2 items-center">
-                <label for="classification-select" class="text-gray-500 text-sm whitespace-nowrap">التصنيف:</label>
+                <label for="classification-select" class="text-gray-500 text-sm whitespace-nowrap">تقييم المصداقية:</label>
                 <div class="relative">
                     <select
                         id="classification-select"
