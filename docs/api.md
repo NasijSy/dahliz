@@ -5,7 +5,7 @@ All endpoints are read-only, pre-rendered as static JSON files, and served under
 ## Base URL
 
 ```
-https://<your-domain>/api/v1
+https://dahliz.nasij.org/api/v1
 ```
 
 ## Endpoints
@@ -68,8 +68,8 @@ using the fields present in every profile object.
 |-------|------|-------------|
 | `username` | string | Unique identifier used in URLs |
 | `name` | string | Display name |
-| `type` | `"person"` \| `"org"` \| `"anon"` | Whether the profile is an individual, an organisation, or an anonymous account |
-| `classification` | `"reliable"` \| `"unreliable"` \| `"disinformation"` | Editorial classification |
+| `type` | `"person"` \| `"org"` \| `"anon"` \| `"bot"` | Whether the profile is an individual, an organisation, an anonymous account, or an automated bot |
+| `classification` | `"reliable"` \| `"unreliable"` \| `"disinformation"` | Editorial reliability classification (see values below) |
 | `caseCount` | number | Total number of cases this profile appears in |
 | `dateAdded` | string \| null | ISO 8601 date the profile was added |
 | `lastUpdated` | string \| null | ISO 8601 date of the last edit |
@@ -78,18 +78,26 @@ using the fields present in every profile object.
 | `platformLinks` | array | Social platform links (see below) |
 | `tags` | string[] | Behaviour tags, e.g. `"coordinated-amplification"`, `"fake-identity"` |
 
+**`classification` values**
+
+| Value | Meaning |
+|-------|---------|
+| `"reliable"` | Relatively reliable — limited errors |
+| `"unreliable"` | Unreliable — repeatedly shares unverified rumours |
+| `"disinformation"` | Misleading — intentional and systematic spread of false information |
+
 **`platformLinks` item**
 
 | Field | Type | Description |
 |-------|------|-------------|
-| `platform` | string | Platform name, e.g. `"facebook"`, `"instagram"` |
+| `platform` | `"twitter"` \| `"facebook"` \| `"youtube"` \| `"telegram"` \| `"instagram"` \| `"website"` | Social platform identifier |
 | `alias` | string | Display name on that platform |
 | `url` | string | Direct URL to the account |
 
 ### Example request
 
 ```js
-const res = await fetch('https://<your-domain>/api/v1/profiles.json');
+const res = await fetch('https://dahliz.nasij.org/api/v1/profiles.json');
 const { data, meta } = await res.json();
 
 // Filter to unreliable profiles client-side
@@ -160,7 +168,7 @@ Returns `404` when the username does not exist:
 ### Example request
 
 ```js
-const res = await fetch('https://<your-domain>/api/v1/profiles/alexmouawad.json');
+const res = await fetch('https://dahliz.nasij.org/api/v1/profiles/alexmouawad.json');
 if (!res.ok) throw new Error(`Profile not found`);
 const { data } = await res.json();
 console.log(data.name, '—', data.caseCount, 'cases');
@@ -211,14 +219,25 @@ an extra request. `meta.byType` counts cases per type across the full dataset.
 | `slug` | string | Unique identifier used in URLs |
 | `title` | string | Case title |
 | `dateAdded` | string \| null | ISO 8601 date the case was added |
-| `type` | `"misinfo"` \| `"rumor"` \| `"defamation"` | Type of case |
+| `type` | `"misinfo"` \| `"rumor"` \| `"hate"` \| `"fraud"` \| `"violence"` \| `"defamation"` | Type of case |
 | `profileCount` | number | Number of profiles involved |
 | `profiles` | array | Lightweight profile references (username + classification) |
+
+**`type` values**
+
+| Value | Meaning |
+|-------|---------|
+| `"misinfo"` | Misinformation — false or misleading content |
+| `"rumor"` | Unverified rumour spread without fact-checking |
+| `"hate"` | Incitement or hate speech |
+| `"fraud"` | Scam or deceptive content |
+| `"violence"` | Content promoting or depicting violence |
+| `"defamation"` | Defamatory content targeting individuals or groups |
 
 ### Example request
 
 ```js
-const res = await fetch('https://<your-domain>/api/v1/cases.json');
+const res = await fetch('https://dahliz.nasij.org/api/v1/cases.json');
 const { data, meta } = await res.json();
 
 // Filter to misinfo cases involving an unreliable profile
@@ -297,16 +316,16 @@ Returns the full case record including every profile involvement with its source
 | `source` | array | Original content items that were checked |
 | `analysis` | array | Fact-check or analysis articles |
 
-**`source` / `analysis` item**
+**`source` / `analysis` item** — all fields are optional
 
 | Field | Type | Description |
 |-------|------|-------------|
-| `url` | string | Direct URL |
-| `archiveURL` | string | Archive copy URL |
-| `date` | string | ISO 8601 date |
-| `label` | string | Optional display label |
-| `mediaType` | string | `"image"` or `"video"` |
-| `mediaPath` | string | Path to the cached media file |
+| `url` | string \| null | Direct URL to the content |
+| `archiveURL` | string \| null | Archive copy URL |
+| `date` | string \| null | ISO 8601 date |
+| `label` | string \| null | Optional display label |
+| `mediaType` | `"image"` \| `"video"` \| null | Media type of the attached file |
+| `mediaPath` | string \| null | Path to the cached media file |
 
 ### Error
 
@@ -319,7 +338,7 @@ Returns `404` when the slug does not exist:
 ### Example request
 
 ```js
-const res = await fetch('https://<your-domain>/api/v1/cases/aleppo-castle-strike.json');
+const res = await fetch('https://dahliz.nasij.org/api/v1/cases/aleppo-castle-strike.json');
 if (!res.ok) throw new Error('Case not found');
 const { data } = await res.json();
 
@@ -367,7 +386,7 @@ Returns aggregate counts useful for dashboards and overview displays.
 ### Example request
 
 ```js
-const res = await fetch('https://<your-domain>/api/v1/stats.json');
+const res = await fetch('https://dahliz.nasij.org/api/v1/stats.json');
 const { data } = await res.json();
 console.log(`Tracking ${data.profiles.total} profiles across ${data.cases.total} cases`);
 ```
