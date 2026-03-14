@@ -1,7 +1,6 @@
 import { json } from '@sveltejs/kit';
 import { getProfiles } from '$lib/loadProfiles.js';
 import { getCases } from '$lib/loadCases.js';
-import { DEFAULT_LOCALE } from '../locale.js';
 
 export const prerender = true;
 
@@ -11,8 +10,8 @@ export const prerender = true;
  * Returns aggregate counts useful for dashboards and overview displays.
  */
 export function GET() {
-	const profiles = getProfiles(DEFAULT_LOCALE);
-	const cases = getCases(DEFAULT_LOCALE);
+	const profiles = getProfiles();
+	const cases = getCases();
 
 	/** @type {Record<string, number>} */
 	const profilesByClassification = {};

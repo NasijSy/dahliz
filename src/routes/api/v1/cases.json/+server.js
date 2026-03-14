@@ -1,7 +1,6 @@
 import { json } from '@sveltejs/kit';
 import { getCases } from '$lib/loadCases.js';
 import { getProfile } from '$lib/loadProfiles.js';
-import { DEFAULT_LOCALE } from '../locale.js';
 
 export const prerender = true;
 
@@ -18,11 +17,11 @@ export const prerender = true;
  * Filtering by case type can be applied client-side using the `type` field.
  */
 export function GET() {
-	const allCases = getCases(DEFAULT_LOCALE);
+	const allCases = getCases();
 
 	const cases = allCases.map((c) => {
 		const profiles = (c.profiles ?? []).map((p) => {
-			const profileData = getProfile(p.username, DEFAULT_LOCALE);
+			const profileData = getProfile(p.username);
 			return {
 				username: p.username,
 				classification: profileData?.classification ?? null

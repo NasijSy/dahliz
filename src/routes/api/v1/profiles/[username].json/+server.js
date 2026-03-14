@@ -1,13 +1,12 @@
 import { json, error } from '@sveltejs/kit';
 import { getProfiles, getProfile } from '$lib/loadProfiles.js';
 import { getCasesForProfile } from '$lib/loadCases.js';
-import { DEFAULT_LOCALE } from '../../locale.js';
 
 export const prerender = true;
 
 /** Pre-render one entry per username so the static site includes every profile. */
 export function entries() {
-	return getProfiles(DEFAULT_LOCALE).map((p) => ({ username: p.username }));
+	return getProfiles().map((p) => ({ username: p.username }));
 }
 
 /**
@@ -16,10 +15,10 @@ export function entries() {
  * Returns full profile data plus a lightweight list of every associated case.
  */
 export function GET({ params }) {
-	const profile = getProfile(params.username, DEFAULT_LOCALE);
+	const profile = getProfile(params.username);
 	if (!profile) throw error(404, { message: 'Profile not found' });
 
-	const cases = getCasesForProfile(params.username, DEFAULT_LOCALE).map((c) => ({
+	const cases = getCasesForProfile(params.username).map((c) => ({
 		slug: c.slug,
 		title: c.title,
 		dateAdded: c.dateAdded ?? null,
