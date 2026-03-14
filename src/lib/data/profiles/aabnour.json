@@ -1,0 +1,25 @@
+{
+  "ar": {
+    "username": "aabnour",
+    "name": "أيمن عبد النور",
+    "type": "person",
+    "classification": "reliable",
+    "dateAdded": "2026-03-14",
+    "lastUpdated": "2026-03-14",
+    "summary": "مؤسس ورئيس تحرير موقع كلنا شركاء",
+    "imagePath": "/media/profiles/aabnour/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Ayman Abdel Nour",
+        "url": "https://www.facebook.com/aabnour"
+      },
+      {
+        "platform": "twitter",
+        "alias": "Ayman Abdel Nour",
+        "url": "https://x.com/aabnour"
+      }
+    ],
+    "tags": []
+  }
+}
