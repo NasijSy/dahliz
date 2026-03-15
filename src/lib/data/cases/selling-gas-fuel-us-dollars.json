@@ -1,0 +1,35 @@
+{
+  "ar": {
+    "slug": "selling-gas-fuel-us-dollars",
+    "title": "إدعاء أن بيع الغاز والوقود سيكون حصراً بالدولار",
+    "dateAdded": "2026-03-15",
+    "lastUpdated": "2026-03-15",
+    "type": "rumor",
+    "profiles": [
+      {
+        "username": "watansy",
+        "description": "قامت جريدة الوطن عبر موقعها الرسمي بالترويج إلى أن بيع أسطوانة الغاز سيصبح بالدولار ولكن الشركة السورية للبترول وضحت أنه لا يوجد تغيير في آلية البيع للمستهلكين وأن بيع الغاز المنزلي والمشتقات النفطية مستمر بالليرة السورية وفق الأسعار المعتمدة.",
+        "source": [
+          {
+            "url": "https://alwatan.sy/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D8%AD%D8%B5%D8%B1/",
+            "archiveURL": "https://web.archive.org/web/20260315224706/https://alwatan.sy/%D8%AC%D9%85%D8%B9%D9%8A%D8%A9-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D8%A8%D9%8A%D8%B9-%D8%A7%D9%84%D8%BA%D8%A7%D8%B2-%D9%88%D8%A7%D9%84%D9%85%D8%AD%D8%B1%D9%88%D9%82%D8%A7%D8%AA-%D8%AD%D8%B5%D8%B1/",
+            "date": "2026-03-10",
+            "label": "إدعاء أن الغاز سيصبح شراءه بالدولار",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/selling-gas-fuel-us-dollars/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/SPC.SYR/posts/pfbid02cVaWMa3KbHztLfBoGxfae4EnrJKiAPh9AgpqDLofNivsYEUFpYGeQWsCFo1ft4n2l?__cft__[0]=AZbVGIA7oReDmu-unsAyWpt8Mn9emmb7n7kzWIttzaoxLGQHC2Ijy6b8U5wXVy-Z0JZSI9YqscbF4X_bFsbtFWlgwLDnudlBCr2ukVfmdGQuVvsWHK_W5hIOuI0Vijc2TCO0_EfYtosPjQuQ8SDeVF9k833kSrzXHPMCTGUmTWxAfg&__tn__=%2CO%2CP-R",
+            "archiveURL": "https://archive.is/kKh1P",
+            "date": "2026-03-10",
+            "label": "توضيح من الشركة السورية للبترول ينفي وجود تغيير في عملية البيع للمستهلكين",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/selling-gas-fuel-us-dollars/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
