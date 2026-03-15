@@ -1,0 +1,20 @@
+{
+  "ar": {
+    "username": "ahmadmahmoud",
+    "name": "أحمد عبدالقادر محمود",
+    "type": "person",
+    "classification": "reliable",
+    "dateAdded": "2026-03-15",
+    "lastUpdated": "2026-03-15",
+    "summary": "كاتب سوري",
+    "imagePath": "/media/profiles/ahmadmahmoud/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Ahmad Mahmoud",
+        "url": "https://www.facebook.com/ahmadkurd.syria"
+      }
+    ],
+    "tags": []
+  }
+}
