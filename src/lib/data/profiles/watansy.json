@@ -1,0 +1,30 @@
+{
+  "ar": {
+    "username": "watansy",
+    "name": "جريدة الوطن السورية",
+    "type": "org",
+    "classification": "reliable",
+    "dateAdded": "2026-03-15",
+    "lastUpdated": "2026-03-15",
+    "summary": "صحيفة سورية",
+    "imagePath": "/media/profiles/watansy/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "website",
+        "alias": "alwatan.sy",
+        "url": "https://alwatan.sy/"
+      },
+      {
+        "platform": "facebook",
+        "alias": "الوطن - أون لاين",
+        "url": "https://www.facebook.com/Alwatan.sy/"
+      },
+      {
+        "platform": "instagram",
+        "alias": "جريدة الوطن السورية",
+        "url": "https://www.instagram.com/alwatan_sy/"
+      }
+    ],
+    "tags": []
+  }
+}
