@@ -8,6 +8,32 @@ import { getCaseCountForProfile } from './loadCases.js';
 
 const profileFiles = import.meta.glob('./data/profiles/*.json', { eager: true });
 
+/**
+ * @param {string} key
+ * @returns {string}
+ */
+function getUsernameFromProfileKey(key) {
+  return key.replace('./data/profiles/', '').replace('.json', '');
+}
+
+/**
+ * @param {any} fileModule
+ * @param {string} key
+ * @param {string} locale
+ * @returns {any|null}
+ */
+function resolveProfileFromFile(fileModule, key, locale) {
+  const data = fileModule.default ?? fileModule;
+  const localized = data[locale] ?? data[Object.keys(data)[0]];
+  if (!localized) return null;
+
+  // Treat filename as canonical identity to avoid collisions when CMS auto-appends -1.
+  return {
+    ...localized,
+    username: getUsernameFromProfileKey(key),
+  };
+}
+
 /** @typedef {'cases' | 'dateAdded' | 'lastUpdated' | 'name'} SortKey */
 
 /**
@@ -40,11 +66,8 @@ function sortProfiles(profiles, sortBy) {
  * @returns {any[]}
  */
 export function getProfiles(locale = 'ar', sortBy = 'cases', classification = null, tags = []) {
-  const profiles = Object.values(profileFiles)
-    .map((mod) => {
-      const data = mod.default ?? mod;
-      return data[locale] ?? data[Object.keys(data)[0]];
-    })
+  const profiles = Object.entries(profileFiles)
+    .map(([key, fileModule]) => resolveProfileFromFile(fileModule, key, locale))
     .filter(Boolean)
     .filter((p) => !classification || p.classification === classification)
     .filter((p) => tags.length === 0 || tags.every((t) => p.tags?.includes(t)));
@@ -61,6 +84,5 @@ export function getProfile(username, locale = 'ar') {
   const key = `./data/profiles/${username}.json`;
   const fileModule = profileFiles[key];
   if (!fileModule) return null;
-  const data = fileModule.default ?? fileModule;
-  return data[locale] ?? data[Object.keys(data)[0]] ?? null;
+  return resolveProfileFromFile(fileModule, key, locale);
 }
