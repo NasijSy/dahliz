@@ -5,8 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="robots" content="noindex" />
     <title>لوحة الإدارة | مشروع دهليز</title>
+    <script>
+      window.CMS_MANUAL_INIT = true;
+    </script>
   </head>
   <body>
     <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+    <script>
+      function getTodayDateString() {
+        return new Date().toISOString().slice(0, 10);
+      }
+
+      CMS.registerEventListener({
+        name: 'preSave',
+        handler: ({ entry }) => {
+          const collection = entry.get('collection');
+
+          if (collection !== 'profiles' && collection !== 'cases') {
+            return entry;
+          }
+
+          return entry.setIn(['data', 'lastUpdated'], getTodayDateString());
+        },
+      });
+
+      CMS.init();
+    </script>
   </body>
 </html>

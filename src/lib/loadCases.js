@@ -20,9 +20,21 @@ function getProfileCaseSourceTime(caseItem, username) {
 
 const casesCache = new Map();
 const casesByProfileCache = new Map();
+const latestCaseUpdateByProfileCache = new Map();
+
+function getCaseLastUpdatedTime(caseItem) {
+  const t = Date.parse(caseItem.lastUpdated ?? caseItem.dateAdded ?? '');
+  return Number.isNaN(t) ? Number.NEGATIVE_INFINITY : t;
+}
 
 function buildLocaleCaches(locale = 'ar') {
-  if (casesCache.has(locale) && casesByProfileCache.has(locale)) return;
+  if (
+    casesCache.has(locale) &&
+    casesByProfileCache.has(locale) &&
+    latestCaseUpdateByProfileCache.has(locale)
+  ) {
+    return;
+  }
 
   const cases = Object.values(caseFiles)
     .map((fileModule) => {
@@ -32,12 +44,18 @@ function buildLocaleCaches(locale = 'ar') {
     .filter(Boolean);
 
   const byProfile = new Map();
+  const latestUpdateByProfile = new Map();
   for (const c of cases) {
+    const caseUpdatedAt = getCaseLastUpdatedTime(c);
     for (const p of c.profiles ?? []) {
       const username = p?.username;
       if (!username) continue;
       if (!byProfile.has(username)) byProfile.set(username, []);
       byProfile.get(username).push(c);
+      latestUpdateByProfile.set(
+        username,
+        Math.max(latestUpdateByProfile.get(username) ?? Number.NEGATIVE_INFINITY, caseUpdatedAt),
+      );
     }
   }
 
@@ -53,6 +71,7 @@ function buildLocaleCaches(locale = 'ar') {
 
   casesCache.set(locale, cases);
   casesByProfileCache.set(locale, byProfile);
+  latestCaseUpdateByProfileCache.set(locale, latestUpdateByProfile);
 }
 
 export function getCases(locale = 'ar') {
@@ -75,4 +94,10 @@ export function getCasesForProfile(username, locale = 'ar') {
 
 export function getCaseCountForProfile(username, locale = 'ar') {
   return getCasesForProfile(username, locale).length;
+}
+
+export function getLatestCaseUpdateForProfile(username, locale = 'ar') {
+  buildLocaleCaches(locale);
+  const t = latestCaseUpdateByProfileCache.get(locale)?.get(username);
+  return Number.isFinite(t) ? new Date(t).toISOString().slice(0, 10) : null;
 }

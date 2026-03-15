@@ -1,4 +1,4 @@
-import { getCaseCountForProfile } from './loadCases.js';
+import { getCaseCountForProfile, getLatestCaseUpdateForProfile } from './loadCases.js';
 
 /**
  * Loads all profile JSON files from src/lib/data/profiles/
@@ -17,6 +17,31 @@ function getUsernameFromProfileKey(key) {
 }
 
 /**
+ * @param {string | null | undefined} value
+ * @returns {number}
+ */
+function parseProfileDate(value) {
+  const t = Date.parse(value ?? '');
+  return Number.isNaN(t) ? Number.NEGATIVE_INFINITY : t;
+}
+
+/**
+ * @param {string | null | undefined} profileLastUpdated
+ * @param {string | null | undefined} caseLastUpdated
+ * @returns {string | null | undefined}
+ */
+function getEffectiveLastUpdated(profileLastUpdated, caseLastUpdated) {
+  const profileTime = parseProfileDate(profileLastUpdated);
+  const caseTime = parseProfileDate(caseLastUpdated);
+
+  if (caseTime > profileTime) {
+    return caseLastUpdated;
+  }
+
+  return profileLastUpdated;
+}
+
+/**
  * @param {any} fileModule
  * @param {string} key
  * @param {string} locale
@@ -26,11 +51,14 @@ function resolveProfileFromFile(fileModule, key, locale) {
   const data = fileModule.default ?? fileModule;
   const localized = data[locale] ?? data[Object.keys(data)[0]];
   if (!localized) return null;
+  const username = getUsernameFromProfileKey(key);
+  const caseLastUpdated = getLatestCaseUpdateForProfile(username, locale);
 
   // Treat filename as canonical identity to avoid collisions when CMS auto-appends -1.
   return {
     ...localized,
-    username: getUsernameFromProfileKey(key),
+    username,
+    lastUpdated: getEffectiveLastUpdated(localized.lastUpdated, caseLastUpdated),
   };
 }
 
