@@ -3,6 +3,7 @@
     "slug": "anas-habra-apology-video",
     "title": "استخدام مقطع مجتزء لتلفيق تهمة بشخص",
     "dateAdded": "2026-02-26",
+    "lastUpdated": "2026-03-16",
     "type": "defamation",
     "profiles": [
       {
@@ -56,6 +57,38 @@
             "label": "مقطع الفيديو المجتزء المستخدم في المنشور",
             "mediaType": "video",
             "mediaPath": "/media/cases/anas-habra-apology-video/eiadcharbaji-source-2.mp4"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.instagram.com/reel/DJrs1MYtaK5/",
+            "archiveURL": "https://archive.ph/8t3Dy",
+            "date": "2025-05-15",
+            "label": "الفيديو كامل الذي نشره أنس السنة اللي قبلها حيث قال عند التوقيت 1:51 في الفيديو الأصلي \"ما أنا فبركت فيديو...\" لكن تم اقتطلع المقطع بداية من \"فبركت\" لوحدها دون السياق التي وردت فيه",
+            "mediaType": "video",
+            "mediaPath": "/media/cases/anas-habra-apology-video/fact.mp4"
+          }
+        ]
+      },
+      {
+        "username": "majdabazid",
+        "description": "إدعى مجد أن أنس هبرة هو من فبرك فيديو الإساءة للنبي وارفق مع المنشور مقطع فيديو مجتزأ على أنه اعتراف، لكن المقطع مجتزء من مقطع نشره أنس في السنة التي قبلها وقال خلاله \"ما أنا فبركت فيديو...\" وتم اقتطاع هذا الجزء بشكل مضلل واستخدام ما تلاه في محاولة لإظهاره كاعتراف وتلفيق التهمة له.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Mj.Abj/posts/pfbid02Cy6e2GJv58qHNP6Pc23YBtw3WoUAbA15YZJpM2MNNwFBoNX4iV1M4cDnc5aEcqZTl",
+            "archiveURL": "https://archive.ph/OnVkJ",
+            "date": "2026-02-22",
+            "label": "منشور يدعي فيه مجد أن أنس هو من فبرك التسجيل المسئ للرسول بناء على مقطع فيديو مجتزئ",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/anas-habra-apology-video/source-1.jpg"
+          },
+          {
+            "url": "https://www.facebook.com/Mj.Abj/posts/pfbid02Cy6e2GJv58qHNP6Pc23YBtw3WoUAbA15YZJpM2MNNwFBoNX4iV1M4cDnc5aEcqZTl",
+            "archiveURL": "https://archive.ph/OnVkJ",
+            "date": "2026-02-22",
+            "label": "مقطع الفيديو المجتزء المستخدم في المنشور",
+            "mediaType": "video",
+            "mediaPath": "/media/cases/anas-habra-apology-video/source-2.mp4"
           }
         ],
         "analysis": [
