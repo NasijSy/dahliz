@@ -1,10 +1,11 @@
 {
   "ar": {
+    "username": "scharomaroof",
     "name": "Scharo Maroof",
     "type": "person",
-    "username": "scharomaroof",
+    "classification": "unreliable",
     "dateAdded": "2026-01-08",
-    "lastUpdated": "2026-02-20",
+    "lastUpdated": "2026-03-16",
     "summary": "ناشط كردي يقيم في ألمانيا",
     "imagePath": "/media/profiles/scharomaroof/profile.jpg",
     "platformLinks": [
@@ -13,7 +14,6 @@
         "alias": "ScharoMaroof",
         "url": "https://x.com/ScharoMaroof"
       }
-    ],
-    "classification": "reliable"
+    ]
   }
 }
