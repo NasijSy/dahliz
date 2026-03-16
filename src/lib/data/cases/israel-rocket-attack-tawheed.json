@@ -1,0 +1,35 @@
+{
+  "ar": {
+    "slug": "israel-rocket-attack-tawheed",
+    "title": "إدعاء قيام تنظيم تحت اسم هيئة أنصار التوحيد بشن هجمات صاروخية من الأراضي السورية",
+    "dateAdded": "2026-03-17",
+    "lastUpdated": "2026-03-16",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "nabdsyria",
+        "description": "نشرت الصفحة ادعاء تروج فيه إلى أن تنظيماً يحمل اسم \"هيئة أنصار التوحيد\" استهدف إسرائيل بعدة صواريخ من الأراضي السورية ولكن لم يثبت اطلاق صواريخ من سوريا أو يتبين وجود لتنظيم بهذا الاسم.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/tvnabdsyria/posts/pfbid02NVPDJoMcz9zG8ZeV8T7KTxBhL4LtM3Lg9FuxJvYe9w5askYzaJJHezAZzFh7w962l",
+            "archiveURL": "https://archive.ph/5uOqp",
+            "date": "2026-03-01",
+            "label": "إدعاء أن هيئة أنصار التوحيد قامت بشن هجمات صاروخية من سوريا",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/israel-rocket-attack-tawheed/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/what-is-the-truth-about-ansar",
+            "archiveURL": "https://web.archive.org/web/20260316223041/https://www.verify-sy.com/ar/factcheck/what-is-the-truth-about-ansar",
+            "date": "2026-03-01",
+            "label": "تحقيق لتأكد يفند الإدعاء",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/israel-rocket-attack-tawheed/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
