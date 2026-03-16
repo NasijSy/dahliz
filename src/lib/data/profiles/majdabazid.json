@@ -1,0 +1,20 @@
+{
+  "ar": {
+    "username": "majdabazid",
+    "name": "مجد أبا زيد",
+    "type": "person",
+    "classification": "reliable",
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16",
+    "summary": "ناشط وباحث سوري",
+    "imagePath": "/media/profiles/majdabazid/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Majd Abazid",
+        "url": "https://www.facebook.com/Mj.Abj"
+      }
+    ],
+    "tags": []
+  }
+}
