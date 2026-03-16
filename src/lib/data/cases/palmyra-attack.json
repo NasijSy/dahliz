@@ -1,13 +1,14 @@
 {
   "ar": {
     "slug": "palmyra-attack",
-    "title": "هجوم تدمر 2025",
+    "title": "ادعاء أن منفذ هجوم تدمر في 2025 هو قيادي مقرب من الشرع",
     "dateAdded": "2026-01-04",
+    "lastUpdated": "2026-03-16",
     "type": "misinfo",
     "profiles": [
       {
         "username": "karimfranceschi",
-        "description": "قام كريم بنشر تغريدة ادعى فيها أن منفذ الهجوم في تدمر هو شخص قريب من الرئيس الشرع وحاشيته وحاول إلفاق تهمة العمل الإرهابي بشخص بريء دون أي دليل وشمل ادعاءه تفاصيل كاذبة أخرى حول العملية حيث أن المهاجم لم يفجر نفسه.",
+        "description": "قام كريم بنشر تغريدة ادعى فيها أن منفذ الهجوم في تدمر هو شخص قريب من الرئيس الشرع وحاشيته بالإضافة لصورة زعم أنها تعود لمنفذ الهجوم دون أي دليل لكن الصورة تعود للعميد سفيان الشيخ صالح قائد إدارة أمن البادية في وزارة الداخلية كما أن ادعاءه شمل تفاصيل كاذبة أخرى حول العملية حيث أن المهاجم لم يفجر نفسه.",
         "source": [
           {
             "url": "https://x.com/karimfranceschi/status/1999871444524699716",
@@ -23,7 +24,31 @@
             "url": "https://www.verify-sy.com/ar/factcheck/MisleadingTadmorImage",
             "archiveURL": "https://web.archive.org/web/20260104143005/https://www.verify-sy.com/ar/factcheck/MisleadingTadmorImage",
             "date": "2025-12-13",
-            "label": "",
+            "label": "تحقيق لفريق تأكد يفند الادعاء",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/palmyra-attack/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "nabdsyria",
+        "description": "روجت الصفحة لادعاء بأن منفذ الهجوم في تدمر ضد قوات التحالف هو قيادي قريب من الرئيس الشرع وأرفقت المنشور بصورة زعمت أنها لمنفذ الهجوم لكن منفذ الهجوم شخص مختلف والصورة المستخدمة تعود للعميد سفيان الشيخ صالح قائد إدارة أمن البادية في وزارة الداخلية.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/tvnabdsyria/posts/pfbid02pLjFqE7Ua39BJqDSK5kWM1R1aS9deFSxsr2eL17fuhTZpJiMNXKESMTFctqHB6ALl",
+            "archiveURL": "https://archive.ph/YHDZg",
+            "date": "2025-12-13",
+            "label": "إدعاء أن منفذ الهجوم هو قيادي مقرب من الشرع",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/palmyra-attack/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/MisleadingTadmorImage",
+            "archiveURL": "https://web.archive.org/web/20260104143005/https://www.verify-sy.com/ar/factcheck/MisleadingTadmorImage",
+            "date": "2025-12-13",
+            "label": "تحقيق لفريق تأكد يفند الادعاء",
             "mediaType": "image",
             "mediaPath": "/media/cases/palmyra-attack/fact.jpg"
           }
