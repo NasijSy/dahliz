@@ -32,6 +32,8 @@
         data.allTags.map((t) => ({ value: t.slug, label: t.label }))
     );
 
+    const resultsCount = $derived(data.profiles.length);
+
     /** @param {Record<string, string | string[]>} params */
     function buildUrl(params) {
         const base = {
@@ -150,6 +152,8 @@
                 </div>
             {/if}
         </div>
+
+        <p class="mt-4 text-sm text-gray-600">عدد النتائج: <span class="font-bold">{resultsCount}</span></p>
 
         <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 w-full max-w-7xl mt-8 px-2">
             {#each data.profiles as profile}
