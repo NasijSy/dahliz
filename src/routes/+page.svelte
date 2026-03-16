@@ -19,7 +19,7 @@
                 منصة مستقلة تهدف إلى تعزيز الوعي المجتمعي تجاه المحتوى المتداول  في الساحة الرقمية السورية وطبيعة المصادر التي تروج للشائعات والخطاب التحريضي 
             </p>
         </div>
-        <img class="object-contain md:w-1/2 order-1 md:order-2 flex-1 min-h-0 w-full" src="/media/filter.png" alt="Filter for damaging content" />
+        <img class="object-contain md:w-1/2 order-1 md:order-2 flex-1 min-h-0 w-full" src="/media/hero.png" alt="A hand cupping a plant away from damaging content" />
     </div>
 </div>
 
