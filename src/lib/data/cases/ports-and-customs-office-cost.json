@@ -1,0 +1,35 @@
+{
+  "ar": {
+    "slug": "ports-and-customs-office-cost",
+    "title": "اتهام الهيئة العامة للمنافذ والجمارك بصرف أموال طائلة على مكاتبها",
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "syriatrend",
+        "description": "نشرت الصفحة صورة تظهر مقارنة بين مكتب رئيس الولايات المتحدة ومكتب رئاسة الهيئة العامة للمنافذ والجمارك مع تقدير للمبالغ الطائلة التي دفعت للأثاث في بلد فقير بما يلمح إلى فساد وهدر المال العام لكن وضح مدير العلاقات في الهيئة العامة للمنافذ والجمارك في سوريا بأن المكتب كان يعود لشركة راماك المملوكة لرامي مخلوف وتم إعادة تخصيصها لتكون مقراً للهيئة كونها جهة حديثة ولم يكن لديها مقر إداري خاص بها.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Syriatrend2025/posts/pfbid05zp8nrXppuYVuj3reZGhb15JUnREFTWjxQ5tLc4NkUHMkWDSDu4CTXEeBQK1YyPgl",
+            "archiveURL": "https://archive.ph/7fgCF",
+            "date": "2026-03-14",
+            "label": "تلميح إلى هدر المال العام في الهيئة العامة للمنافذ والجمارك",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/ports-and-customs-office-cost/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/mazen_alloush/status/2033630039024042084",
+            "archiveURL": "https://archive.ph/xPXDq",
+            "date": "2026-03-16",
+            "label": "توضيح مدير العلاقات في الهيئة العامة للمنافذ والجمارك في سوريا بأن المكتب كان لشركة تعود لرامي مخلوف وتم إعادة تخصيصه",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/ports-and-customs-office-cost/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
