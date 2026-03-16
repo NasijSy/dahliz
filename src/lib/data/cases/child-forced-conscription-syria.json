@@ -1,0 +1,35 @@
+{
+  "ar": {
+    "slug": "child-forced-conscription-syria",
+    "title": "إدعاء أن جميع الفصائل كانت تستخدم تجنيد قسري للأطفال",
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "alaaghazal",
+        "description": "إدعى منار أن أطفال سوريا عانوا من التجنيد القسري على يد الجميع دون استثناء وخصوصاً في هيئة تحرير الشام، لكن هذا الإدعاء غير صحيح، فالتجنيد القسري يعني خطف الأطفال وتجنيدهم بشكل إجباري وحرمانهم من المغادرة  وهو ممارسة لم تكن شائعة لدى أغلب الفصائل وكانت تتميز بها مؤسسات تتبع لحزب العمال الكردستاني في مناطق لقسد بشكل خاص. المصادر اللي قدمها منار لا تتوافق مع إدعاءه بما يخص التجنيد القسري وتوثق في أغلبها حالات لانضمام أطفال تحت 18 عام للقتال بشكل طوعي.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/manar.hajkassem1/posts/pfbid02BdMGUNehP79dHe6s2n5JEFS7Gdhb98Nwv5TnVKgd2F52sYb7du6Yhf5PmARJ9iPBl",
+            "archiveURL": "https://archive.ph/9xmDd",
+            "date": "2026-01-25",
+            "label": "منشور يتضمن إدعاء أن التجنيد القسري على يد الجميع في سوريا",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/child-forced-conscription-syria/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://docs.un.org/ar/S/2025/535",
+            "archiveURL": "https://web.archive.org/web/20260117063500/https://docs.un.org/ar/S/2025/535",
+            "date": "2025-08-28",
+            "label": "يذكر تقرير مجلس الأمن الذي يغطي الفترة بين 2022 حتى نهاية 2024 أن أغلب حالات الخطف بغرض التجنيد كانت من حركة الشباب الثوري الوطني الذي يتبع لحزب العمال الكردستاني بالإضافة لبعض الحالات من قوات موالية للأسد.",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/child-forced-conscription-syria/fact-1.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
