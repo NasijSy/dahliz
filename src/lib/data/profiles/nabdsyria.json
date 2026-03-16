@@ -1,0 +1,30 @@
+{
+  "ar": {
+    "username": "nabdsyria",
+    "name": "نبض سوريا",
+    "type": "org",
+    "classification": "reliable",
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16",
+    "summary": "صفحة إعلامية تتم إدارتها من العراق",
+    "imagePath": "/media/profiles/nabdsyria/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "website",
+        "alias": "nabdsyria.tv",
+        "url": "https://nabdsyria.tv/"
+      },
+      {
+        "platform": "facebook",
+        "alias": "نبض سوريا",
+        "url": "https://www.facebook.com/tvnabdsyria"
+      },
+      {
+        "platform": "instagram",
+        "alias": "tvnabdsyria",
+        "url": "https://www.instagram.com/tvnabdsyria"
+      }
+    ],
+    "tags": []
+  }
+}
