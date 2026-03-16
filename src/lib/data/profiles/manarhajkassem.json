@@ -1,0 +1,30 @@
+{
+  "ar": {
+    "username": "manarhajkassem",
+    "name": "منار حاج قاسم",
+    "type": "person",
+    "classification": "reliable",
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16",
+    "summary": "صانع محتوى",
+    "imagePath": "/media/profiles/manarhajkassem/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Manar Haj Kassem",
+        "url": "https://www.facebook.com/manar.hajkassem1"
+      },
+      {
+        "platform": "instagram",
+        "alias": "Manar HK",
+        "url": "https://www.instagram.com/manar.hajkassem/"
+      },
+      {
+        "platform": "youtube",
+        "alias": "Manar HajKassem",
+        "url": "https://www.youtube.com/@Manar.hajkassem"
+      }
+    ],
+    "tags": []
+  }
+}
