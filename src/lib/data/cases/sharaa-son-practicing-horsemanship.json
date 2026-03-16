@@ -1,0 +1,35 @@
+{
+  "ar": {
+    "slug": "sharaa-son-practicing-horsemanship",
+    "title": "ادعاء تلقي نجل الرئيس تدريبات على الفروسية باستخدام صورة مفبركة",
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16",
+    "type": "rumor",
+    "profiles": [
+      {
+        "username": "syriatrend",
+        "description": "نشرت الصفحة ادعاء بأن نجل الرئيس أحمد الشرع بدأ تدريباته على رياضة الفروسية في أحد الأندية المتخصصة مع احتمال مشاركته في عروض وفعاليات ذات طابع تراثي لكن هذا الخبر ملفق والصورة معدلة باستخدام بالذكاء الاصطناعي",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Syriatrend2025/posts/pfbid02vokrPBsYbMxVCZGF3QBGDbkd7hcGiSL6GkJxaKmQN7PJJSb16KB9v5Kz9rpP6Jcxl",
+            "archiveURL": "https://archive.ph/YzRhl",
+            "date": "2026-03-12",
+            "label": "ادعاء أن نجل الرئيس يتلقى تدريبات على رياضة الفروسية في أحد الأندية المتخصصة مع صورة",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sharaa-son-practicing-horsemanship/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/mohammad-ahmad-al-sharaa-horse-riding-photo",
+            "archiveURL": "https://web.archive.org/web/20260316220002/https://www.verify-sy.com/ar/factcheck/mohammad-ahmad-al-sharaa-horse-riding-photo",
+            "date": "2026-03-12",
+            "label": "تحقيق لتأكد يوضح أن الصورة معدلة باستخدام الذكاء الاصطناعي",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/sharaa-son-practicing-horsemanship/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
