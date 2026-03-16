@@ -1,11 +1,12 @@
 {
   "ar": {
+    "username": "mohammed_jajeh",
     "name": "Mohammed Al-Jajeh",
     "type": "person",
-    "username": "mohammed_jajeh",
+    "classification": "unreliable",
     "dateAdded": "2026-01-15",
-    "lastUpdated": "2026-02-08",
-    "summary": "إعلامي مؤيد لنظام الأسد يقيم في الأردن",
+    "lastUpdated": "2026-03-16",
+    "summary": "إعلامي سوري",
     "imagePath": "/media/profiles/mohammed_jajeh/profile.jpg",
     "platformLinks": [
       {
@@ -18,7 +19,6 @@
         "alias": "Mohammed Al-Jajeh",
         "url": "https://x.com/mohammed_jajeh"
       }
-    ],
-    "classification": "unreliable"
+    ]
   }
 }
