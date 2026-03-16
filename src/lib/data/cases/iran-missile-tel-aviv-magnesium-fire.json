@@ -1,0 +1,43 @@
+{
+  "ar": {
+    "slug": "iran-missile-tel-aviv-magnesium-fire",
+    "title": "إدعاء أن مقطع فيديو لحريق في أمريكا يظهر انفجار صاروخ إيراني في تل أبيب",
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "nabdsyria",
+        "description": "نشرت الصفحة مقطع فيديو مع ادعاء أنه يظهر انفجار صاروخ إيراني وسط تل ابيب أثناء محاولة إزالته لكن الفيديو يعود للولايات المتحدة الأمريكية وهو قديم حيث نشر لأول مرة عام 2016 ويظهر حصول انفجار ناتج عن المغنيزيوم في منشأة لتدوير نفايات في ولاية كاليفورنيا بينما كانت فرق الإطفاء تحاول إخماد حريق اندلع فيها.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/reel/1973023136985981/",
+            "archiveURL": "https://archive.ph/28u3W",
+            "date": "2026-03-07",
+            "label": "منشور مع مقطع فيديو يزعم أنه يظهر انفجار صاروخ إيراني وسط تل أبيب",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/iran-missile-tel-aviv-magnesium-fire/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.youtube.com/watch?v=tgPZL4hFNA0",
+            "archiveURL": "https://archive.ph/L50p9",
+            "date": "2016-06-17",
+            "label": "مقطع الفيديو الأصلي على يوتيوب في 2026 لحريق في كاليفورنيا",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/iran-missile-tel-aviv-magnesium-fire/fact-1.jpg"
+          },
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/iranian-missile-exploding-removed",
+            "archiveURL": "https://web.archive.org/web/20260316202924/https://www.verify-sy.com/ar/factcheck/iranian-missile-exploding-removed",
+            "date": "2026-03-08",
+            "label": "تحقيق لتأكد يفند الإدعاء",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/iran-missile-tel-aviv-magnesium-fire/fact-2.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
