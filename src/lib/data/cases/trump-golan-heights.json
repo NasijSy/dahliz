@@ -3,6 +3,7 @@
     "slug": "trump-golan-heights",
     "title": "إدعاء أن ترامب اعترف بسيادة إسرائيل على الجولان حديثاً",
     "dateAdded": "2026-01-15",
+    "lastUpdated": "2026-03-16",
     "type": "misinfo",
     "profiles": [
       {
@@ -72,6 +73,30 @@
             "archiveURL": "https://web.archive.org/web/20251228213154/https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
             "date": "2025-12-18",
             "label": "ترامب اعترف رسمياً  بسيادة إسرائيل على مرتفعات الجولان بعام 2019 خلال ولايته الأولى وكان حينها بشار الأسد في سدة الرئاسة",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/trump-golan-heights/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "manarhajkassem",
+        "description": "إدعى منار أن الرئيس ترامب وقع على قرار الاعتراف بالجولان في كانون الأول/ديسمبر 2025 لكن ما حصل في ذلك اليوم هو مجرد تصريح لترامب يتحدث فيه بصيغة الماضي حيث كان قد وقع رسمياً على الاعتراف بسيادة إسرائيل على الجولان في عام 2019 في ولايته الأولى وذلك خلال رئاسة بشار الأسد لسوريا.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/manar.hajkassem1/posts/pfbid029jbSBvnJD3YmKRRdiLjdYvsQaD7temo4WtEP5nDGriY3UUAEfopjmcodtmB68p98l",
+            "archiveURL": "https://archive.ph/IvP19",
+            "date": "2025-12-17",
+            "label": "إدعاء أن ترامب وقع على سيادة إسرائيل على الجولان في 2025",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/trump-golan-heights/source-1.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "archiveURL": "https://web.archive.org/web/20251228213154/https://www.verify-sy.com/ar/factcheck/did-trump-recently-sign-decree-transferring-golan-rights-to-israel",
+            "date": "2025-12-18",
+            "label": "التوقيع تم في 2019 وهو ما كان يتحدث عنه ترامب في 2025",
             "mediaType": "image",
             "mediaPath": "/media/cases/trump-golan-heights/fact.jpg"
           }
