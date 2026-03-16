@@ -1,0 +1,35 @@
+{
+  "ar": {
+    "slug": "joseph-aoun-hizbollah-disarmament",
+    "title": "إدعاء أن الرئيس اللبناني جوزيف عون أعلن المواجهة العسكرية ضد حزب الله",
+    "dateAdded": "2026-03-16",
+    "lastUpdated": "2026-03-16",
+    "type": "rumor",
+    "profiles": [
+      {
+        "username": "aabnour",
+        "description": "نشر مقطع فيديو يزعم فيه أن الرئيس اللبناني جوزيف عون استبدل لباسه المدني بالعسكري وأعلن حزب الله خارج على القانون والمواجهة العسكرية ضده لكن الفيديو مولد بالذكاء الاصطناعي بالاعتماد على صور من فيديو قديم من زيارة أجراها لبعض المواقع العسكرية حينما كان قائداً للجيش في 2023.",
+        "source": [
+          {
+            "url": "https://x.com/aabnour/status/2029368592270082473",
+            "archiveURL": "https://archive.ph/ic7wo",
+            "date": "2026-03-05",
+            "label": "منشور يتضمن إدعاء بأن الرئيس اللبناني جوزيف عون أعلن المواجهة ضد حزب الله",
+            "mediaType": "",
+            "mediaPath": "/media/cases/joseph-aoun-hizbollah-disarmament/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.youtube.com/watch?v=lxncR5LUzJI",
+            "archiveURL": "https://web.archive.org/web/20260316030447/https://www.youtube.com/watch?v=lxncR5LUzJI",
+            "date": "2023-09-22",
+            "label": "المقطع الأصلي نشر في أيلول/سبتمبر 2023 حين كان جوزيف عون في منصب قائد الجيش ولا يتضمن الفيديو إعلان مواجهة عسكرية",
+            "mediaType": "image",
+            "mediaPath": "/media/cases/joseph-aoun-hizbollah-disarmament/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
