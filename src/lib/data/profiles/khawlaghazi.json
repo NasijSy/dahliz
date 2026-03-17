@@ -1,0 +1,20 @@
+{
+  "ar": {
+    "username": "khawlaghazi",
+    "name": "خولة غازي",
+    "type": "person",
+    "classification": "reliable",
+    "dateAdded": "2026-03-17",
+    "lastUpdated": "2026-03-17",
+    "summary": "ناشطة سورية",
+    "imagePath": "/media/profiles/khawlaghazi/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Khawla Ghazi",
+        "url": "https://www.facebook.com/khawla.ghazi.982"
+      }
+    ],
+    "tags": []
+  }
+}
