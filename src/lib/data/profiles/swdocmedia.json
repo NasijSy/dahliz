@@ -1,0 +1,35 @@
+{
+  "ar": {
+    "username": "swdocmedia",
+    "name": "مركز السويداء للتوثيق والإعلام",
+    "type": "org",
+    "classification": "unreliable",
+    "dateAdded": "2026-03-17",
+    "lastUpdated": "2026-03-17",
+    "summary": "صفحة إعلامية",
+    "imagePath": "/media/profiles/swdocmedia/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "مركز السويداء للتوثيق والإعلام",
+        "url": "https://www.facebook.com/profile.php?id=61573484227328"
+      },
+      {
+        "platform": "twitter",
+        "alias": "swdocmedia",
+        "url": "https://www.x.com/swdocmedia"
+      },
+      {
+        "platform": "instagram",
+        "alias": "swdocmedia25",
+        "url": "https://www.instagram.com/swdocmedia25"
+      },
+      {
+        "platform": "website",
+        "alias": "suwaydadocumentat",
+        "url": "https://www.tiktok.com/@suwaydadocumentat"
+      }
+    ],
+    "tags": []
+  }
+}
