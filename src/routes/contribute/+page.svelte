@@ -95,14 +95,21 @@
     </div>
 
     <div class="mt-10">
+        <h2 class="text-xl font-semibold mb-2">دعوة مفتوحة للانضمام للمجتمع</h2>
+        <p>
+            إذا كنت مهتماً بالمصداقية فنحن نفخر بانضمامك <a href="https://discord.com/invite/VqysmYaQbN" class="underline hover:text-blue-400"  target="_blank">لمجتمعنا على ديسكورد</a> وأن تكون جزءاً من رحلتنا
+        </p>
+    </div>
+
+    <div class="mt-10">
         <h2 class="text-xl font-semibold mb-2">المساهمة في تطوير الموقع</h2>
         <p>
-            الموقع مفتوح المصدر، ونرحب بمساهمتكم في تطويره أو الإبلاغ عن أي مشاكل تقنية تواجهونها وذلك من خلال زيارة <a href="https://github.com/NasijSy/dahliz" class="underline hover:text-blue-400">مستودعنا على GitHub</a>
+            الموقع مفتوح المصدر، ونرحب بمساهمتكم في تطويره أو الإبلاغ عن أي مشاكل تقنية تواجهونها وذلك من خلال زيارة <a href="https://github.com/NasijSy/dahliz" class="underline hover:text-blue-400" target="_blank">مستودعنا على GitHub</a>
         </p>
     </div>
 
     <div class="mt-6 mb-10">
-        <h2 class="text-xl font-semibold mb-2">غيرها من الاقتراحات</h2>
+        <h2 class="text-xl font-semibold mb-2">غيرها من المساهمات</h2>
         <p>
             <span>نرحب بجميع اقتراحاتكم عبر البريد الالكتروني:</span>
             <a href="mailto:dahliz@nasij.org" class="underline hover:text-blue-400">dahliz@nasij.org</a>
