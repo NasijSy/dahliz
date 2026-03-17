@@ -1,0 +1,30 @@
+{
+  "ar": {
+    "username": "tarifnwilati",
+    "name": "طريف نويلاتي",
+    "type": "person",
+    "classification": "reliable",
+    "dateAdded": "2026-03-17",
+    "lastUpdated": "2026-03-17",
+    "summary": "ناشط سوري اسم الحركي آدم بيطار",
+    "imagePath": "/media/profiles/tarifnwilati/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Tarif Nwilati",
+        "url": "https://www.facebook.com/profile.php?id=100068324951585"
+      },
+      {
+        "platform": "instagram",
+        "alias": "adam1980syria",
+        "url": "https://www.instagram.com/adam1980syria"
+      },
+      {
+        "platform": "youtube",
+        "alias": "Adam Bitar  // Tarif Nwilati",
+        "url": "https://www.youtube.com/@adambitar2416"
+      }
+    ],
+    "tags": []
+  }
+}
