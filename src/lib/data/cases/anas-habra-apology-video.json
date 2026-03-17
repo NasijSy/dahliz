@@ -3,7 +3,7 @@
     "slug": "anas-habra-apology-video",
     "title": "استخدام مقطع مجتزء لتلفيق تهمة بشخص",
     "dateAdded": "2026-02-26",
-    "lastUpdated": "2026-03-16",
+    "lastUpdated": "2026-03-17",
     "type": "defamation",
     "profiles": [
       {
@@ -110,6 +110,28 @@
             "date": "2026-02-22",
             "label": "مقطع الفيديو المجتزأ الذي تم الترويج له",
             "mediaPath": "/media/cases/anas-habra-apology-video/source-2-1.mp4"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.instagram.com/reel/DJrs1MYtaK5/",
+            "archiveURL": "https://archive.ph/8t3Dy",
+            "date": "2025-05-15",
+            "label": "الفيديو كامل الذي نشره أنس السنة اللي قبلها حيث قال عند التوقيت 1:51 في الفيديو الأصلي \"ما أنا فبركت فيديو...\" لكن تم اقتطلع المقطع بداية من \"فبركت\" لوحدها دون السياق التي وردت فيه",
+            "mediaPath": "/media/cases/anas-habra-apology-video/fact.mp4"
+          }
+        ]
+      },
+      {
+        "username": "firaskontar",
+        "description": "روج فراس لادعاء أن أنس هبره اعترف بفبركة تسجيل شتم الرسول المنسوب إلى شيخ درزي لكن ذلك مضلل فالفيديو الذي انتشر حينها هو مجتزأ ويعود للعام السابق حيث يقول أنس في الفيديو الأصلي الذي نشره في آيار/مايو 2025 \"ما أنا فبركت فيديو...\" وتم اقتطاع هذا الجزء بشكل مضلل لإظهاره كاعتراف وتلفيق التهمة دون ما يدعم ذلك.",
+        "source": [
+          {
+            "url": "https://x.com/fkontar78/status/2025903328601821594",
+            "archiveURL": "https://archive.ph/R2Am9",
+            "date": "2026-02-23",
+            "label": "ادعاء اعتراف أنس بناء على فيديو مجتزأ تم قصه بشكل مضلل",
+            "mediaPath": "/media/cases/anas-habra-apology-video/source-2.jpg"
           }
         ],
         "analysis": [
