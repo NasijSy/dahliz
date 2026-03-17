@@ -7,7 +7,7 @@
     let { data } = $props();
 
     const sortOptions = [
-        { value: 'cases',       label: 'الأكثر توثيقاً' },
+        { value: 'cases',       label: 'عدد الحالات' },
         { value: 'lastUpdated', label: 'آخر تحديث' },
         { value: 'dateAdded',   label: 'تاريخ الإضافة' },
         { value: 'name',        label: 'الاسم' },
