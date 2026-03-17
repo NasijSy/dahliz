@@ -287,8 +287,8 @@ collections:
         widget: select
         options:
           - { label: Organization, value: org }
-          - { label: Person, value: person }
-          - { label: Anonymous, value: anon }
+          - { label: Identified Person, value: person }
+          - { label: Anonymously Managed Account, value: anon }
           - { label: Bot, value: bot }
         i18n: duplicate
 

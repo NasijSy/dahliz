@@ -22,9 +22,9 @@
 
     const profileTypeOptions = [
         { value: '',       label: 'الكل' },
-        { value: 'org',    label: 'منظمة' },
-        { value: 'person', label: 'شخص' },
-        { value: 'anon',   label: 'مجهول' },
+        { value: 'org',    label: 'مؤسسة/منظمة' },
+        { value: 'person', label: 'شخص معروف الهوية' },
+        { value: 'anon',   label: 'حساب مجهول الإدارة' },
         { value: 'bot',    label: 'بوت' },
     ];
 
