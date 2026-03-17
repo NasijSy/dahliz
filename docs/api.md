@@ -284,7 +284,6 @@ Returns the full case record including every profile involvement with its source
             "archiveURL": "https://archive.ph/vClXf",
             "date": "2026-01-02",
             "label": "",
-            "mediaType": "image",
             "mediaPath": "/media/cases/aleppo-castle-strike/ronahitv-source.jpg"
           }
         ],
@@ -294,7 +293,6 @@ Returns the full case record including every profile involvement with its source
             "archiveURL": "https://web.archive.org/web/...",
             "date": "2026-01-02",
             "label": "",
-            "mediaType": "image",
             "mediaPath": "/media/cases/aleppo-castle-strike/fact.jpg"
           }
         ]
@@ -324,8 +322,9 @@ Returns the full case record including every profile involvement with its source
 | `archiveURL` | string \| null | Archive copy URL |
 | `date` | string \| null | ISO 8601 date |
 | `label` | string \| null | Optional display label |
-| `mediaType` | `"image"` \| `"video"` \| null | Media type of the attached file |
 | `mediaPath` | string \| null | Path to the cached media file |
+
+Media rendering type is inferred by clients from the `mediaPath` extension.
 
 ### Error
 

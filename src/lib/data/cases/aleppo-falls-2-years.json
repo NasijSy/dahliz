@@ -14,7 +14,6 @@
             "archiveURL": "https://archive.ph/gGEGS",
             "date": "2026-01-15",
             "label": "",
-            "mediaType": "image",
             "mediaPath": "/media/cases/aleppo-falls-2-years/ar24-source.jpg"
           },
           {
@@ -22,7 +21,6 @@
             "archiveURL": "https://archive.ph/gGEGS",
             "date": "2026-01-15",
             "label": "",
-            "mediaType": "video",
             "mediaPath": "/media/cases/aleppo-falls-2-years/ar24-source.mp4"
           }
         ],
@@ -32,7 +30,6 @@
             "archiveURL": "",
             "date": "2026-02-08",
             "label": "نصوص يفترض أنها تشير إلى أماكن لكنها غير مفهومة",
-            "mediaType": "image",
             "mediaPath": "/media/cases/aleppo-falls-2-years/fact-1.jpg"
           },
           {
@@ -40,7 +37,6 @@
             "archiveURL": "",
             "date": "2026-02-08",
             "label": "نتيجة التحقق بأحد أدوات اكتشاف إذا ما كان الفيديو مولداً باستخدام الذكاء الاصطناعي تظهر احتمالية عالية",
-            "mediaType": "image",
             "mediaPath": "/media/cases/aleppo-falls-2-years/fact-2.jpg"
           }
         ]

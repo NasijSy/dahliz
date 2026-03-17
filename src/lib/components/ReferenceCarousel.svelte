@@ -62,7 +62,6 @@
 
         <div class="overflow-hidden rounded-lg h-100 md:h-125 bg-gray-400/25 flex items-center justify-center">
             <MediaView 
-                type={currentReference.mediaType} 
                 path={currentReference.mediaPath} 
                 label={currentReference.label}
             />

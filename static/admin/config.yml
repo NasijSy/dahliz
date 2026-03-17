@@ -222,13 +222,6 @@ collections:
                 widget: string
                 required: false
                 i18n: true
-              - name: mediaType
-                label: Media Type
-                widget: select
-                required: false
-                options:
-                  - { label: Image, value: image }
-                  - { label: Video, value: video }
               - name: mediaPath
                 label: Media
                 widget: file
@@ -261,13 +254,6 @@ collections:
                 widget: string
                 required: false
                 i18n: true
-              - name: mediaType
-                label: Media Type
-                widget: select
-                required: false
-                options:
-                  - { label: Image, value: image }
-                  - { label: Video, value: video }
               - name: mediaPath
                 label: Media
                 widget: file
