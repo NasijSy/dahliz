@@ -1,0 +1,20 @@
+{
+  "ar": {
+    "username": "mirellaaboushanab",
+    "name": "ميريلا أبو شنب",
+    "type": "person",
+    "classification": "reliable",
+    "dateAdded": "2026-03-17",
+    "lastUpdated": "2026-03-17",
+    "summary": "إعلامية سورية",
+    "imagePath": "/media/profiles/mirellaaboushanab/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Mirella Abou Shanab",
+        "url": "https://www.facebook.com/mirella.aboushanab"
+      }
+    ],
+    "tags": []
+  }
+}
