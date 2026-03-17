@@ -18,7 +18,15 @@
             "mediaPath": "/media/cases/committee-for-promotion-of-virtue-and-prevention-of-vice/source.jpg"
           }
         ],
-        "analysis": []
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/atiyoni-morality-police-app",
+            "archiveURL": "https://web.archive.org/web/20260317145125/https://www.verify-sy.com/ar/factcheck/atiyoni-morality-police-app",
+            "date": "2026-03-17",
+            "label": "تحقيق من فريق تأكد يفند الإدعاء",
+            "mediaPath": "/media/cases/committee-for-promotion-of-virtue-and-prevention-of-vice/fact.jpg"
+          }
+        ]
       }
     ]
   }
