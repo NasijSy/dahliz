@@ -1,0 +1,25 @@
+{
+  "ar": {
+    "username": "yusufsherif",
+    "name": "يوسف الشريف",
+    "type": "person",
+    "classification": "reliable",
+    "dateAdded": "2026-03-18",
+    "lastUpdated": "2026-03-17",
+    "summary": "إعلامي تركي/أردني",
+    "imagePath": "/media/profiles/yusufsherif/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "Yusuf Serif - يوسف الشريف",
+        "url": "https://x.com/YusufSerifUglo"
+      },
+      {
+        "platform": "youtube",
+        "alias": "Yousef Alsharif",
+        "url": "https://www.youtube.com/@YusufSerifUglo"
+      }
+    ],
+    "tags": []
+  }
+}
