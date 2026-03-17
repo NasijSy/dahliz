@@ -1,0 +1,30 @@
+{
+  "ar": {
+    "username": "firaskontar",
+    "name": "Firas Kontar",
+    "type": "person",
+    "classification": "reliable",
+    "dateAdded": "2026-03-17",
+    "lastUpdated": "2026-03-17",
+    "summary": "ناشط وكاتب سياسي",
+    "imagePath": "/media/profiles/firaskontar/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "twitter",
+        "alias": "Firas Kontar",
+        "url": "https://x.com/fkontar78"
+      },
+      {
+        "platform": "facebook",
+        "alias": "Firas Kontar",
+        "url": "https://www.facebook.com/firas.kontar.1"
+      },
+      {
+        "platform": "instagram",
+        "alias": "firas.kontar",
+        "url": "https://www.instagram.com/firas.kontar"
+      }
+    ],
+    "tags": []
+  }
+}
