@@ -49,6 +49,28 @@
             "mediaPath": "/media/cases/committee-for-promotion-of-virtue-and-prevention-of-vice/fact.jpg"
           }
         ]
+      },
+      {
+        "username": "yusufsherif",
+        "description": "روج الحساب لادعاء بأن الحكومة السورية أعلنت عن إطلاق تطبيق جديد تحت اسم \"أطيعوني\" لمراقبة السلوك العام لكن ذلك الادعاء غير صحيح والصورة مولدة باستخدام الذكاء الاصطناعي.",
+        "source": [
+          {
+            "url": "https://x.com/YusufSerifUglo/status/2033937440046813647",
+            "archiveURL": "https://archive.ph/otuZU",
+            "date": "2026-03-18",
+            "label": "الترويج لادعاء إطلاق تطبيق أطيعوني",
+            "mediaPath": "/media/cases/committee-for-promotion-of-virtue-and-prevention-of-vice/source-2.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/atiyoni-morality-police-app",
+            "archiveURL": "https://web.archive.org/web/20260317145125/https://www.verify-sy.com/ar/factcheck/atiyoni-morality-police-app",
+            "date": "2026-03-18",
+            "label": "تحقيق من فريق تأكد يفند الإدعاء",
+            "mediaPath": "/media/cases/committee-for-promotion-of-virtue-and-prevention-of-vice/fact.jpg"
+          }
+        ]
       }
     ]
   }
