@@ -14,8 +14,8 @@
             "url": "https://www.facebook.com/mirella.aboushanab/posts/pfbid0336X4PLKuBjJfvLs9KeWpaZP32xZTRra6xkbR9Jp1PWNLZWUf2ER3RXWo4RbX3PiQl",
             "archiveURL": "",
             "date": "2026-03-16",
-            "label": "",
-            "mediaPath": ""
+            "label": "ادعاء أن لا يوجد دولة تستضيف مأدبة طعام في دار الأوبرا",
+            "mediaPath": "/media/cases/opera-house-meal/source.jpg"
           }
         ],
         "analysis": [
@@ -24,28 +24,28 @@
             "archiveURL": "https://archive.ph/d6gZm",
             "date": "2013-12-27",
             "label": "مأدبة طعام في أوبرا مدينة نيويورك في الولايات المتحدة الأمريكية",
-            "mediaPath": ""
+            "mediaPath": "/media/cases/opera-house-meal/fact-1.jpg"
           },
           {
             "url": "https://www.thekitchencaters.com/locations/opera-house/",
             "archiveURL": "https://web.archive.org/web/20190822043708/https://www.thekitchencaters.com/locations/opera-house/",
             "date": "2016-06-09",
             "label": "دار أوبرا الدولة المجرية في هنغاريا",
-            "mediaPath": ""
-          },
-          {
-            "url": "https://www.sydneyoperahouse.com/visit/eat-drink/bennelong",
-            "archiveURL": "",
-            "date": "2026-03-17",
-            "label": "دار الأوبرا في سيدني استراليا",
-            "mediaPath": ""
+            "mediaPath": "/media/cases/opera-house-meal/fact-2.jpg"
           },
           {
             "url": "https://www.dw.com/en/grab-your-tux-and-gown-for-the-semper-opera-ball/a-37380092",
-            "archiveURL": "",
+            "archiveURL": "https://web.archive.org/web/20190720054536/https://www.dw.com/en/grab-your-tux-and-gown-for-the-semper-opera-ball/a-37380092",
             "date": "2018-01-26",
             "label": "دار الأوبرا في مدينة درسدن ألمانيا",
-            "mediaPath": ""
+            "mediaPath": "/media/cases/opera-house-meal/fact-4.jpg"
+          },
+          {
+            "url": "https://www.theworlds50best.com/discovery/Establishments/Australia/Sydney/Bennelong.html",
+            "archiveURL": "https://web.archive.org/web/20220601040330/https://www.theworlds50best.com/discovery/Establishments/Australia/Sydney/Bennelong.html",
+            "date": "2026-03-17",
+            "label": "مطعم في دار الأوبرا في سيدني استراليا",
+            "mediaPath": "/media/cases/opera-house-meal/fact-3.jpg"
           }
         ]
       }
