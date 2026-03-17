@@ -1,0 +1,54 @@
+{
+  "ar": {
+    "slug": "opera-house-meal",
+    "title": "استضافة مأدبة طعام في دار أوبرا",
+    "dateAdded": "2026-03-17",
+    "lastUpdated": "2026-03-17",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "mirellaaboushanab",
+        "description": "استهجنت ميريلا حادثة استضافة مأدبة طعام في دار الأوبرا واعتبرتها تخبيص وادعت أن لا يوجد دولة \"بتعمل عزيمة أكل بدار أوبّرا\" وهذا مضلل فالحقيقة أن دار الأوبرا تشكل مركزاً ثقافياً ويجري فيها استضافة مختلف الفعاليات التي قد تضمن مآدب طعام وهو موجود في مختلف الدول حول العالم.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/mirella.aboushanab/posts/pfbid0336X4PLKuBjJfvLs9KeWpaZP32xZTRra6xkbR9Jp1PWNLZWUf2ER3RXWo4RbX3PiQl",
+            "archiveURL": "",
+            "date": "2026-03-16",
+            "label": "",
+            "mediaPath": ""
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.nytimes.com/2013/12/27/nyregion/a-nights-meal-at-the-opera.html",
+            "archiveURL": "https://archive.ph/d6gZm",
+            "date": "2013-12-27",
+            "label": "مأدبة طعام في أوبرا مدينة نيويورك في الولايات المتحدة الأمريكية",
+            "mediaPath": ""
+          },
+          {
+            "url": "https://www.thekitchencaters.com/locations/opera-house/",
+            "archiveURL": "https://web.archive.org/web/20190822043708/https://www.thekitchencaters.com/locations/opera-house/",
+            "date": "2016-06-09",
+            "label": "دار أوبرا الدولة المجرية في هنغاريا",
+            "mediaPath": ""
+          },
+          {
+            "url": "https://www.sydneyoperahouse.com/visit/eat-drink/bennelong",
+            "archiveURL": "",
+            "date": "2026-03-17",
+            "label": "دار الأوبرا في سيدني استراليا",
+            "mediaPath": ""
+          },
+          {
+            "url": "https://www.dw.com/en/grab-your-tux-and-gown-for-the-semper-opera-ball/a-37380092",
+            "archiveURL": "",
+            "date": "2018-01-26",
+            "label": "دار الأوبرا في مدينة درسدن ألمانيا",
+            "mediaPath": ""
+          }
+        ]
+      }
+    ]
+  }
+}
