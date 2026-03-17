@@ -27,6 +27,28 @@
             "mediaPath": "/media/cases/committee-for-promotion-of-virtue-and-prevention-of-vice/fact.jpg"
           }
         ]
+      },
+      {
+        "username": "tarifnwilati",
+        "description": "روج الحساب لادعاء بأن الحكومة السورية أعلنت عن إنشاء هيئة للأمر بالمعروف والنهي عن المنكر وأطلقت تطبيقاً جديداً تحت اسم \"أطيعوني\" لمراقبة السلوك العام لكن ذلك الادعاء غير صحيح والصورة مولدة باستخدام الذكاء الاصطناعي.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/100068324951585/posts/pfbid0GXQbVCtsBa8ePA1bZPB4XksDRpEdRMCza5wbJsfYk3HLyJBHPUbFP2iUQUV8p2B2l",
+            "archiveURL": "https://archive.ph/k1YQt",
+            "date": "2026-03-17",
+            "label": "ادعاء إنشاء هيئة للأمر بالمعروف والنهي عن المنكر وإطلاق تطبيق أطيعوني",
+            "mediaPath": "/media/cases/committee-for-promotion-of-virtue-and-prevention-of-vice/source-1.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/atiyoni-morality-police-app",
+            "archiveURL": "https://web.archive.org/web/20260317145125/https://www.verify-sy.com/ar/factcheck/atiyoni-morality-police-app",
+            "date": "2026-03-17",
+            "label": "تحقيق من فريق تأكد يفند الإدعاء",
+            "mediaPath": "/media/cases/committee-for-promotion-of-virtue-and-prevention-of-vice/fact.jpg"
+          }
+        ]
       }
     ]
   }
