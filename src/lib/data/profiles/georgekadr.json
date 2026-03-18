@@ -1,0 +1,20 @@
+{
+  "ar": {
+    "username": "georgekadr",
+    "name": "جورج كدر",
+    "type": "person",
+    "classification": "reliable",
+    "dateAdded": "2026-03-18",
+    "lastUpdated": "2026-03-18",
+    "summary": "صحفي وكاتب سوري",
+    "imagePath": "/media/profiles/georgekadr/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "George Kadr",
+        "url": "https://www.facebook.com/george.kadr"
+      }
+    ],
+    "tags": []
+  }
+}
