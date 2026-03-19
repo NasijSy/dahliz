@@ -1,0 +1,20 @@
+{
+  "ar": {
+    "username": "hadibazghlan",
+    "name": "هادي بازغلان",
+    "type": "person",
+    "classification": "reliable",
+    "dateAdded": "2026-03-19",
+    "lastUpdated": "2026-03-19",
+    "summary": "محامي سوري",
+    "imagePath": "/media/profiles/hadibazghlan/profile.jpg",
+    "platformLinks": [
+      {
+        "platform": "facebook",
+        "alias": "Hadi Bazghlan",
+        "url": "https://www.facebook.com/hadi.bazghlan"
+      }
+    ],
+    "tags": []
+  }
+}
