@@ -14,8 +14,30 @@
             "url": "https://www.facebook.com/sham.slman.hmdan/posts/pfbid02tbKyP2W62fhQLcY4bjRGj95R5XXLrG74ks6EJpyDYrTiLVGPiQH2bpQdXRLvxPQyl",
             "archiveURL": "https://archive.ph/cSulS",
             "date": "2026-03-20",
-            "label": "إدعاء أن صورة نشرتها قناة الإخبارية هي من خان يونس",
+            "label": "ادعاء أن صورة نشرتها قناة الإخبارية هي من خان يونس",
             "mediaPath": "/media/cases/weapons-photo-khan-yunis/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.idf.il/en/mini-sites/idf-press-releases-israel-at-war/august-25-pr/weapons-located-within-military-structures-and-the-dismantling-of-an-underground-tunnel-route/",
+            "archiveURL": "https://web.archive.org/web/20260320201532/https://www.idf.il/en/mini-sites/idf-press-releases-israel-at-war/august-25-pr/weapons-located-within-military-structures-and-the-dismantling-of-an-underground-tunnel-route/",
+            "date": "2025-08-05",
+            "label": "الصورة الموجودة في المقال مختلفة تماماً حيث تم التلاعب واستبدالها بالصورة التي نشرتها الإخبارية بهدف التضليل",
+            "mediaPath": "/media/cases/weapons-photo-khan-yunis/fact.jpg"
+          }
+        ]
+      },
+      {
+        "username": "mahersharafeddine",
+        "description": "نشر ادعاء بأن الصور التي نشرتها الإخبارية تعود لخان يونس وأرفق ادعاءه بلقطة يزعم انها من مقال نشر عام 2025 لكن بالعودة للمقال للتحقق من الادعاء نجد أن الصورة الموجودة في المقال مختلفة حيث تم التلاعب واستبدالها بالصورة التي نشرتها قناة الإخبارية بشكل مضلل.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/100044406610304/posts/1596806605142878/",
+            "archiveURL": "",
+            "date": "2026-03-20",
+            "label": "ادعاء أن صورة نشرتها قناة الإخبارية هي من خان يونس",
+            "mediaPath": "/media/cases/weapons-photo-khan-yunis/source-1.jpg"
           }
         ],
         "analysis": [
