@@ -1,0 +1,33 @@
+{
+  "ar": {
+    "slug": "erdogan-statue-museum",
+    "title": "تمثال للرئيس التركي رجب طيب أردوغان في سوريا",
+    "dateAdded": "2026-03-20",
+    "lastUpdated": "2026-03-20",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "mahersharafeddine",
+        "description": "نشر ماهر صورة ادعى أنها تظهر تمثالاً لرجب طيب أردوغان في المتحف الوطني بدمشق لكن الخبر عار عن الصحة والصورة مولدة بالذكاء الاصطناعي.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/maher.sharafeddine/posts/pfbid02uE2HSMjToNh8LpsteBZKDHn1gdqKxJdPkrHrCgpraNg3fhZEJi2AuNQsGzPEdNSQl",
+            "archiveURL": "https://archive.ph/xKMW8",
+            "date": "2026-03-13",
+            "label": "تمثال لأردوغان في المتحف الوطني بدمشق",
+            "mediaPath": "/media/cases/erdogan-statue-museum/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/erdogan-statue-damascus-museum",
+            "archiveURL": "http://web.archive.org/web/20260320204936/https://www.verify-sy.com/ar/factcheck/erdogan-statue-damascus-museum",
+            "date": "2026-03-20",
+            "label": "بحسب تحقيق لفريق تأكد فلا صحة للخبر والصورة المستخدمة في الادعاء مولدة بالذكاء الاصطناعي",
+            "mediaPath": "/media/cases/erdogan-statue-museum/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
