@@ -1,0 +1,33 @@
+{
+  "ar": {
+    "slug": "damascus-alcohol-breathalyzer",
+    "title": "ادعاء استخدام الشرطة لأجهزة قياس نسبة الكحول بالجسد",
+    "dateAdded": "2026-03-21",
+    "lastUpdated": "2026-03-21",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "syriatrend",
+        "description": "ادعى الحساب انتشار عناصر الشرطة في شوارع دمشق مزودين بأجهزة قياس نسبة الكحول بالجسد مع توقعات بإطلاق تطبيق جديد لمراقبة استهلاك الكحول بين المواطنين لكن الخبر غير صحيح والصورة مولدة باستخدام الذكاء الاصطناعي.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/Syriatrend2025/posts/pfbid02DQfaek7CVngmuzJKZ5trrc44ezLePkNHJC8RzPaCgZqtSPCefzVwvMjzk2SixxXsl",
+            "archiveURL": "",
+            "date": "2026-03-18",
+            "label": "ادعاء انتشار",
+            "mediaPath": "/media/cases/damascus-alcohol-breathalyzer/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://x.com/KashafFacts/status/2034381048977699179",
+            "archiveURL": "",
+            "date": "2026-03-21",
+            "label": "نفى مسؤول صحة الادعاء والصورة مولدة بالذكاء الاصطناعي بحسب تحقيق لكشاف",
+            "mediaPath": "/media/cases/damascus-alcohol-breathalyzer/fact.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
