@@ -21,6 +21,7 @@ function getProfileCaseSourceTime(caseItem, username) {
 const casesCache = new Map();
 const casesByProfileCache = new Map();
 const latestCaseUpdateByProfileCache = new Map();
+const caseBySlugCache = new Map();
 
 function getCaseLastUpdatedTime(caseItem) {
   const t = Date.parse(caseItem.lastUpdated ?? caseItem.dateAdded ?? '');
@@ -31,7 +32,8 @@ function buildLocaleCaches(locale = 'ar') {
   if (
     casesCache.has(locale) &&
     casesByProfileCache.has(locale) &&
-    latestCaseUpdateByProfileCache.has(locale)
+    latestCaseUpdateByProfileCache.has(locale) &&
+    caseBySlugCache.has(locale)
   ) {
     return;
   }
@@ -69,9 +71,18 @@ function buildLocaleCaches(locale = 'ar') {
     });
   }
 
+  const bySlug = new Map();
+  for (const c of cases) {
+    const slug = c?.slug;
+    if (slug) {
+      bySlug.set(slug, c);
+    }
+  }
+
   casesCache.set(locale, cases);
   casesByProfileCache.set(locale, byProfile);
   latestCaseUpdateByProfileCache.set(locale, latestUpdateByProfile);
+  caseBySlugCache.set(locale, bySlug);
 }
 
 export function getCases(locale = 'ar') {
@@ -80,11 +91,8 @@ export function getCases(locale = 'ar') {
 }
 
 export function getCase(slug, locale = 'ar') {
-  const key = `./data/cases/${slug}.json`;
-  const fileModule = caseFiles[key];
-  if (!fileModule) return null;
-  const data = fileModule.default ?? fileModule;
-  return data[locale] ?? data[Object.keys(data)[0]] ?? null;
+  buildLocaleCaches(locale);
+  return caseBySlugCache.get(locale)?.get(slug) ?? null;
 }
 
 export function getCasesForProfile(username, locale = 'ar') {

@@ -4,6 +4,9 @@
 	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
+		"sync:case-filenames": "node scripts/sync-case-filenames.mjs",
+		"predev": "npm run sync:case-filenames",
+		"prebuild": "npm run sync:case-filenames",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
