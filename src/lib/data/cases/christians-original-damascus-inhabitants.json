@@ -1,0 +1,47 @@
+{
+  "ar": {
+    "slug": "christians-original-damascus-inhabitants",
+    "title": "السكان الأصليون لدمشق",
+    "dateAdded": "2026-03-22",
+    "lastUpdated": "2026-03-22",
+    "type": "misinfo",
+    "profiles": [
+      {
+        "username": "hindkabawat",
+        "description": "نشرت هند مجموعة ادعاءات تحمل طابعاً طائفياً ومغالطات تاريخية حيث ادعت أن المسيحيين هم السكان الأصليون في سوريا وأنهم أدباء سوريا ومثقفوها وأطباؤها وكتابها لكن هذا مضلل، فأدباء سوريا لا يقتصرون على طائفة معينة كما أن الادعاء بأن السكان الأصليين هم المسيحيون عار عن الصحة فسوريا تعاقبت عليها الحضارات منذ آلاف السنين وهي أقدم من الديانة المسيحية وربط \"الأصالة\" بالدين المسيحي يخلط بين الإثنية والديانة التي يتبعها الشخص حيث يمكن للمسيحي أن يغيره ديانته ويعتنق الإسلام مثلاً دون أن يؤثر ذلك في جذوره التاريخية.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/hind.kabawat/posts/pfbid0gp15WdJcLDfayoydepV8o44KbrJdfA7Kz1Aj647qXjkuxrNBirXsDdJEE93xYzBYl",
+            "archiveURL": "https://archive.ph/WlJJ1",
+            "date": "2026-03-20",
+            "label": "ادعاء أن المسيحيين هم السكان الأصليون لسوريا وحصر الأدباء والمثقفين بمعتنقي المسيحية",
+            "mediaPath": "/media/cases/christians-original-damascus-inhabitants/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://en.wikipedia.org/wiki/History_of_Syria",
+            "archiveURL": "https://web.archive.org/web/20260131094017/https://en.wikipedia.org/wiki/History_of_Syria",
+            "date": "2026-03-22",
+            "label": "تاريخ سوريا يسبق المسيحية",
+            "mediaPath": "/media/cases/christians-original-damascus-inhabitants/source-1.jpg"
+          },
+          {
+            "url": "https://www.ox.ac.uk/news/arts-blog/how-did-christian-middle-east-become-predominantly-muslim",
+            "archiveURL": "https://web.archive.org/web/20180918150936/https://www.ox.ac.uk/news/arts-blog/how-did-christian-middle-east-become-predominantly-muslim",
+            "date": "2018-09-17",
+            "label": "معظم المسلمين في بلاد الشام هم من السكان الأصليين واعتنقوا الإسلام تدريجياً خلال عدة قرون",
+            "mediaPath": "/media/cases/christians-original-damascus-inhabitants/source-2.jpg"
+          },
+          {
+            "url": "https://ar.wikipedia.org/wiki/%D8%A3%D8%AF%D8%A8_%D8%B3%D9%88%D8%B1%D9%8A",
+            "archiveURL": "https://web.archive.org/web/20251116201533/https://ar.wikipedia.org/wiki/%D8%A3%D8%AF%D8%A8_%D8%B3%D9%88%D8%B1%D9%8A",
+            "date": "2026-03-22",
+            "label": "سوريا غنية بالأدباء من مختلف الطوائف",
+            "mediaPath": "/media/cases/christians-original-damascus-inhabitants/source-3.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
