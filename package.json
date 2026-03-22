@@ -4,9 +4,10 @@
 	"version": "0.0.1",
 	"type": "module",
 	"scripts": {
+		"clean:cloudflare": "node scripts/clean-cloudflare-artifacts.mjs",
 		"sync:case-filenames": "node scripts/sync-case-filenames.mjs",
 		"predev": "npm run sync:case-filenames",
-		"prebuild": "npm run sync:case-filenames",
+		"prebuild": "node scripts/prebuild.mjs",
 		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
