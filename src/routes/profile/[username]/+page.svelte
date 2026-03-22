@@ -26,11 +26,13 @@
     disinformation:  { label: 'تضليل ممنهج',     class: 'bg-red-100 text-red-800 border-red-300' },
   };
 
-  const badge = classificationConfig[data.profile.classification] ?? null;
-  const typeLabel = typeConfig[data.profile.type]?.label ?? data.profile.type;
-  const resolvedTags = (data.profile.tags ?? [])
-    .map((slug) => allTags.find((t) => t.slug === slug))
-    .filter(Boolean);
+  const badge = $derived(classificationConfig[data.profile.classification] ?? null);
+  const typeLabel = $derived(typeConfig[data.profile.type]?.label ?? data.profile.type);
+  const resolvedTags = $derived(
+    (data.profile.tags ?? [])
+      .map((slug) => allTags.find((t) => t.slug === slug))
+      .filter(Boolean)
+  );
 </script>
 
 <Head title={data.profile.name} />

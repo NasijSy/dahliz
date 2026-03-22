@@ -2,7 +2,7 @@
   import Head from '$lib/components/Head.svelte';
 
   let { data } = $props();
-  let { article } = data;
+  const article = $derived(data.article);
 </script>
 
 <Head title={article.title} />

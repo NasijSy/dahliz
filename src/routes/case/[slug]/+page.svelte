@@ -3,7 +3,7 @@
   import Case from '$lib/components/Case.svelte';
 
   let { data } = $props();
-  const c = data.case;
+  const c = $derived(data.case);
 </script>
 
 <Head title={c.title} />
