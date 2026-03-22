@@ -3,7 +3,7 @@
     "slug": "ghazal-suleiman-suspension",
     "title": "فصل غزل عبدو سليمان من الجامعة",
     "dateAdded": "2026-03-21",
-    "lastUpdated": "2026-03-21",
+    "lastUpdated": "2026-03-22",
     "type": "misinfo",
     "profiles": [
       {
@@ -16,6 +16,49 @@
             "date": "2026-02-27",
             "label": "ادعاء أن الطالبة فصلت بسبب منشور تستذكر فيه ضحايا على وسائل التواصل",
             "mediaPath": "/media/cases/ghazal-suleiman-suspension/source.jpg"
+          }
+        ],
+        "analysis": [
+          {
+            "url": "https://www.facebook.com/reel/1402096784513721",
+            "archiveURL": "https://archive.ph/6ZwbD",
+            "date": "2026-01-14",
+            "label": "أحد مقاطع الفيديو التي نشرتها غزال سليمان تدعم فيها شخصيات تصنف كإرهابية بسبب شنها هجمات على مؤسسات الدولة",
+            "mediaPath": "/media/cases/ghazal-suleiman-suspension/fact-2.mp4"
+          },
+          {
+            "url": "www.facebook.com/Qu.Yasin/videos/1432903138500932/",
+            "archiveURL": "https://archive.ph/0z1Gh",
+            "date": "2026-03-07",
+            "label": "فيديو منسوب للطالبة وهي تقدم إحداثيات ومعلومات عن أماكن تواجد قوات حكومية لاستهدافها",
+            "mediaPath": "/media/cases/ghazal-suleiman-suspension/fact.mp4"
+          },
+          {
+            "url": "https://www.facebook.com/LatakiaUniversity/posts/pfbid0dPnWHYpZVzE3CNytEuQaV1nPEG9vViZcZ7TL93gfo3TDD4GZu4zPnUKyMvr7HSCKl",
+            "archiveURL": "https://archive.ph/rlE3t",
+            "date": "2026-02-27",
+            "label": "توضيح من جامعة اللاذقية بالأسباب التي دعت لفصل الطالبة ومن ضمنها تسجيلات تشمل تحريضاً طائفياً",
+            "mediaPath": "/media/cases/ghazal-suleiman-suspension/fact-2.jpg"
+          },
+          {
+            "url": "https://www.verify-sy.com/ar/factcheck/latakia-university-clarifies-r",
+            "archiveURL": "https://web.archive.org/web/20260321162322/https://www.verify-sy.com/ar/factcheck/latakia-university-clarifies-r",
+            "date": "2026-02-27",
+            "label": "تحقيق لفريق تأكد بخصوص فصل الطالبة",
+            "mediaPath": "/media/cases/ghazal-suleiman-suspension/fact-3.jpg"
+          }
+        ]
+      },
+      {
+        "username": "swdocmedia",
+        "description": "ادعت الصفحة أن الطالبة غزل سليمان فصلت من كلية الهندسة الزراعية في جامعة اللاذقية بسبب منشور على مواقع التواصل استذكرت فيه ضحايا لكن هذا الادعاء مضلل وغير صحيح فالطالبة فصلت بسبب دعمها لمليشيات قامت بشن هجمات على أجهزة الدولة وقتل أبرياء بالإضافة لتهديدات طائفية أرسلتها لزميلاتها في الجامعة.",
+        "source": [
+          {
+            "url": "https://www.facebook.com/61573484227328/videos/853558167705381",
+            "archiveURL": "https://archive.ph/BVSO4",
+            "date": "2026-02-27",
+            "label": "ادعاء أن الطالبة فصلت بسبب حديثها عن مجازر الساحل على وسائل التواصل",
+            "mediaPath": "/media/cases/ghazal-suleiman-suspension/source-1.jpg"
           }
         ],
         "analysis": [
